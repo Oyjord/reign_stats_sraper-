@@ -1,0 +1,2 @@
+feed_url: "https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&view=players&season=90&team=403&position=skaters&rookies=0&statsType=standard&rosterstatus=undefined&site_id=3&first=0&limit=20&sort=points&league_id=4&lang=en&division=-1&conference=-1&key=ccb91f29d6744675&client_code=ahl&league_id=4&callback=angular.callbacks._4"
+output_path: "output/reign_stats.json"
