@@ -245,7 +245,7 @@
     {
       "name": "Pheonix Copley",
       "gp": 1,
-      "min": 0.0,
+      "min": null,
       "ga": 2,
       "so": 0,
       "gaa": 2.0,
@@ -257,7 +257,7 @@
     {
       "name": "Erik Portillo",
       "gp": 5,
-      "min": 0.0,
+      "min": null,
       "ga": 13,
       "so": 0,
       "gaa": 2.67,
