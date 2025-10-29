@@ -1,11 +1,10 @@
 require "httparty"
 require "json"
-require "yaml"
 
-config = YAML.load_file("config.yml")
-url = config["feed_url"]
-output_path = config["output_path"]
+# HockeyTech feed URL (Reign skaters, sorted by points)
+url = "https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&view=players&season=90&team=403&position=skaters&rookies=0&statsType=standard&rosterstatus=undefined&site_id=3&first=0&limit=20&sort=points&league_id=4&lang=en&division=-1&conference=-1&key=ccb91f29d6744675&client_code=ahl&league_id=4&callback=angular.callbacks._4"
 
+# Fetch JSONP response
 response = HTTParty.get(url)
 jsonp = response.body
 
@@ -14,23 +13,24 @@ json_start = jsonp.index("(") + 1
 json_end = jsonp.rindex(")")
 json = jsonp[json_start...json_end]
 
+# Parse JSON
 data = JSON.parse(json)
 players = data["players"]
 
-# Normalize
-normalized = players.map do |p|
+# Extract only the fields you want
+cleaned = players.map do |p|
   {
-    full_name: "#{p["firstName"]} #{p["lastName"]}",
+    name: "#{p["firstName"]} #{p["lastName"]}",
     position: p["position"],
-    games_played: p["gamesPlayed"].to_i,
-    goals: p["goals"].to_i,
-    assists: p["assists"].to_i,
-    points: p["points"].to_i,
+    gp: p["gamesPlayed"].to_i,
+    g: p["goals"].to_i,
+    a: p["assists"].to_i,
+    pts: p["points"].to_i,
     plus_minus: p["plusMinus"].to_i,
-    penalty_minutes: p["penaltyMinutes"].to_i
+    pim: p["penaltyMinutes"].to_i
   }
 end
 
 # Save to file
-File.write(output_path, JSON.pretty_generate(normalized))
-puts "✅ Saved #{normalized.size} player stats to #{output_path}"
+File.write("output/reign_stats.json", JSON.pretty_generate(cleaned))
+puts "✅ Saved #{cleaned.size} player stats to output/reign_stats.json"
