@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pheonix Copley",
+    "gp": 1,
+    "min": 0.0,
+    "ga": 2,
+    "so": 0,
+    "gaa": 2.0,
+    "w": 1,
+    "l": 0,
+    "ot": 0,
+    "sv_percent": 0.923
+  },
+  {
+    "name": "Erik Portillo",
+    "gp": 5,
+    "min": 0.0,
+    "ga": 13,
+    "so": 0,
+    "gaa": 2.67,
+    "w": 2,
+    "l": 1,
+    "ot": 0,
+    "sv_percent": 0.885
+  }
+]
