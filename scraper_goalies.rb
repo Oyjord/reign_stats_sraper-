@@ -11,29 +11,49 @@ FileUtils.mkdir_p("output")
 # Fetch and strip JSONP
 response = HTTParty.get(url)
 jsonp = response.body
+File.write("output/raw_goalie_response.txt", jsonp)
+
 json_start = jsonp.index("(")
 json_end = jsonp.rindex(")")
-json = jsonp[(json_start + 1)...json_end]
-data = JSON.parse(json)
-
-# Extract goalie rows and filter out synthetic entries
-goalies = data[0]["sections"][0]["data"]
-  .map { |entry| entry["row"] }
-  .reject { |g| g["name"].strip.downcase.include?("empty net") || g["name"].strip.downcase.include?("totals") }
-
-# Convert "MM:SS" to float minutes
-def parse_minutes(str)
-  return 0.0 unless str && str.include?(":")
-  min, sec = str.split(":").map(&:to_i)
-  min + (sec / 60.0)
+if json_start.nil? || json_end.nil?
+  puts "❌ Failed to locate JSONP wrapper"
+  exit 1
 end
+
+json = jsonp[(json_start + 1)...json_end]
+
+begin
+  data = JSON.parse(json)
+rescue => e
+  puts "❌ JSON parse error: #{e}"
+  exit 1
+end
+
+File.write("output/parsed_goalie_data.json", JSON.pretty_generate(data))
+puts "🔍 Top-level keys: #{data[0].keys}" if data.is_a?(Array) && data[0].is_a?(Hash)
+
+# Extract and inspect goalie rows
+raw_entries = data[0]["sections"][0]["data"]
+puts "📦 Total entries: #{raw_entries.size}"
+puts "🔍 Sample entry keys: #{raw_entries[0].keys}" if raw_entries.any?
+
+goalies = raw_entries.map do |entry|
+  row = entry["row"]
+  minutes = entry["prop"]["minutes"] rescue nil
+  row.merge({ "minutes" => minutes })
+end.reject do |g|
+  g["name"].strip.downcase.include?("empty net") || g["name"].strip.downcase.include?("totals")
+end
+
+puts "✅ Filtered goalies: #{goalies.size}"
+puts "🧪 Sample goalie: #{goalies[0]}" if goalies.any?
 
 # Normalize fields
 cleaned = goalies.map do |g|
   {
     name: g["name"],
     gp: g["games_played"].to_i,
-    min: g["minutes"],
+    min: g["minutes"],  # raw "MM:SS" string
     ga: g["goals_against"].to_i,
     so: g["shutouts"].to_i,
     gaa: g["goals_against_average"].to_f,
@@ -44,6 +64,5 @@ cleaned = goalies.map do |g|
   }
 end
 
-# Save to file
 File.write("output/reign_goalies.json", JSON.pretty_generate(cleaned))
 puts "✅ Saved #{cleaned.size} goalie stats to output/reign_goalies.json"
