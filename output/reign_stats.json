@@ -1,242 +1,294 @@
-[
-  {
-    "name": "Andre Lee",
-    "position": "F",
-    "gp": 6,
-    "g": 3,
-    "a": 2,
-    "pts": 5,
-    "plus_minus": 1,
-    "pim": 4
-  },
-  {
-    "name": "Taylor Ward",
-    "position": "F",
-    "gp": 6,
-    "g": 3,
-    "a": 2,
-    "pts": 5,
-    "plus_minus": 3,
-    "pim": 4
-  },
-  {
-    "name": "Akil Thomas",
-    "position": "F",
-    "gp": 6,
-    "g": 2,
-    "a": 3,
-    "pts": 5,
-    "plus_minus": 2,
-    "pim": 2
-  },
-  {
-    "name": "Samuel Bolduc",
-    "position": "D",
-    "gp": 6,
-    "g": 3,
-    "a": 1,
-    "pts": 4,
-    "plus_minus": 4,
-    "pim": 8
-  },
-  {
-    "name": "Francesco Pinelli",
-    "position": "F",
-    "gp": 6,
-    "g": 2,
-    "a": 2,
-    "pts": 4,
-    "plus_minus": 0,
-    "pim": 6
-  },
-  {
-    "name": "Glenn Gawdin",
-    "position": "F",
-    "gp": 6,
-    "g": 1,
-    "a": 3,
-    "pts": 4,
-    "plus_minus": -2,
-    "pim": 8
-  },
-  {
-    "name": "Joe Hicketts",
-    "position": "D",
-    "gp": 6,
-    "g": 1,
-    "a": 3,
-    "pts": 4,
-    "plus_minus": -1,
-    "pim": 12
-  },
-  {
-    "name": "Martin Chromiak",
-    "position": "F",
-    "gp": 6,
-    "g": 2,
-    "a": 0,
-    "pts": 2,
-    "plus_minus": -1,
-    "pim": 2
-  },
-  {
-    "name": "Cole Guttman",
-    "position": "F",
-    "gp": 6,
-    "g": 1,
-    "a": 1,
-    "pts": 2,
-    "plus_minus": 2,
-    "pim": 6
-  },
-  {
-    "name": "Aatu Jämsen",
-    "position": "F",
-    "gp": 6,
-    "g": 1,
-    "a": 1,
-    "pts": 2,
-    "plus_minus": 0,
-    "pim": 0
-  },
-  {
-    "name": "Kenny Connors",
-    "position": "F",
-    "gp": 6,
-    "g": 0,
-    "a": 2,
-    "pts": 2,
-    "plus_minus": 6,
-    "pim": 2
-  },
-  {
-    "name": "Kirill Kirsanov",
-    "position": "D",
-    "gp": 6,
-    "g": 0,
-    "a": 2,
-    "pts": 2,
-    "plus_minus": 4,
-    "pim": 0
-  },
-  {
-    "name": "Otto Salin",
-    "position": "D",
-    "gp": 5,
-    "g": 1,
-    "a": 0,
-    "pts": 1,
-    "plus_minus": -1,
-    "pim": 2
-  },
-  {
-    "name": "Jared Wright",
-    "position": "F",
-    "gp": 6,
-    "g": 1,
-    "a": 0,
-    "pts": 1,
-    "plus_minus": 4,
-    "pim": 0
-  },
-  {
-    "name": "Kaleb Lawrence",
-    "position": "F",
-    "gp": 2,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 2,
-    "pim": 0
-  },
-  {
-    "name": "Jack Hughes",
-    "position": "F",
-    "gp": 4,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 1,
-    "pim": 0
-  },
-  {
-    "name": "Jacob Doty",
-    "position": "F",
-    "gp": 5,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 3,
-    "pim": 7
-  },
-  {
-    "name": "Erik Portillo",
-    "position": "G",
-    "gp": 5,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 0,
-    "pim": 0
-  },
-  {
-    "name": "Jack Millar",
-    "position": "D",
-    "gp": 6,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 2,
-    "pim": 7
-  },
-  {
-    "name": "Pheonix Copley",
-    "position": "G",
-    "gp": 1,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": 0,
-    "pim": 0
-  },
-  {
-    "name": "Tim Rego",
-    "position": "D",
-    "gp": 1,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": 2,
-    "pim": 0
-  },
-  {
-    "name": "Isaiah Saville",
-    "position": "G",
-    "gp": 1,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": 0,
-    "pim": 0
-  },
-  {
-    "name": "Koehn Ziemmer",
-    "position": "F",
-    "gp": 1,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": -1,
-    "pim": 0
-  },
-  {
-    "name": "Jakub Dvořák",
-    "position": "D",
-    "gp": 6,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": 2,
-    "pim": 0
-  }
-]
+{
+  "skaters": [
+    {
+      "name": "Andre Lee",
+      "position": "F",
+      "gp": 6,
+      "g": 3,
+      "a": 2,
+      "pts": 5,
+      "plus_minus": 1,
+      "pim": 4
+    },
+    {
+      "name": "Taylor Ward",
+      "position": "F",
+      "gp": 6,
+      "g": 3,
+      "a": 2,
+      "pts": 5,
+      "plus_minus": 3,
+      "pim": 4
+    },
+    {
+      "name": "Akil Thomas",
+      "position": "F",
+      "gp": 6,
+      "g": 2,
+      "a": 3,
+      "pts": 5,
+      "plus_minus": 2,
+      "pim": 2
+    },
+    {
+      "name": "Samuel Bolduc",
+      "position": "D",
+      "gp": 6,
+      "g": 3,
+      "a": 1,
+      "pts": 4,
+      "plus_minus": 4,
+      "pim": 8
+    },
+    {
+      "name": "Francesco Pinelli",
+      "position": "F",
+      "gp": 6,
+      "g": 2,
+      "a": 2,
+      "pts": 4,
+      "plus_minus": 0,
+      "pim": 6
+    },
+    {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 6,
+      "g": 1,
+      "a": 3,
+      "pts": 4,
+      "plus_minus": -2,
+      "pim": 8
+    },
+    {
+      "name": "Joe Hicketts",
+      "position": "D",
+      "gp": 6,
+      "g": 1,
+      "a": 3,
+      "pts": 4,
+      "plus_minus": -1,
+      "pim": 12
+    },
+    {
+      "name": "Martin Chromiak",
+      "position": "F",
+      "gp": 6,
+      "g": 2,
+      "a": 0,
+      "pts": 2,
+      "plus_minus": -1,
+      "pim": 2
+    },
+    {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 6,
+      "g": 1,
+      "a": 1,
+      "pts": 2,
+      "plus_minus": 2,
+      "pim": 6
+    },
+    {
+      "name": "Aatu Jämsen",
+      "position": "F",
+      "gp": 6,
+      "g": 1,
+      "a": 1,
+      "pts": 2,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
+      "name": "Kenny Connors",
+      "position": "F",
+      "gp": 6,
+      "g": 0,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": 6,
+      "pim": 2
+    },
+    {
+      "name": "Kirill Kirsanov",
+      "position": "D",
+      "gp": 6,
+      "g": 0,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": 4,
+      "pim": 0
+    },
+    {
+      "name": "Otto Salin",
+      "position": "D",
+      "gp": 5,
+      "g": 1,
+      "a": 0,
+      "pts": 1,
+      "plus_minus": -1,
+      "pim": 2
+    },
+    {
+      "name": "Jared Wright",
+      "position": "F",
+      "gp": 6,
+      "g": 1,
+      "a": 0,
+      "pts": 1,
+      "plus_minus": 4,
+      "pim": 0
+    },
+    {
+      "name": "Kaleb Lawrence",
+      "position": "F",
+      "gp": 2,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 2,
+      "pim": 0
+    },
+    {
+      "name": "Jack Hughes",
+      "position": "F",
+      "gp": 4,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 1,
+      "pim": 0
+    },
+    {
+      "name": "Jacob Doty",
+      "position": "F",
+      "gp": 5,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 3,
+      "pim": 7
+    },
+    {
+      "name": "Erik Portillo",
+      "position": "G",
+      "gp": 5,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
+      "name": "Jack Millar",
+      "position": "D",
+      "gp": 6,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 2,
+      "pim": 7
+    },
+    {
+      "name": "Pheonix Copley",
+      "position": "G",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
+      "name": "Tim Rego",
+      "position": "D",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 2,
+      "pim": 0
+    },
+    {
+      "name": "Isaiah Saville",
+      "position": "G",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
+      "name": "Koehn Ziemmer",
+      "position": "F",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": -1,
+      "pim": 0
+    },
+    {
+      "name": "Jakub Dvořák",
+      "position": "D",
+      "gp": 6,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 2,
+      "pim": 0
+    }
+  ],
+  "goalies": [
+    {
+      "name": "Pheonix Copley",
+      "gp": 1,
+      "min": 0,
+      "ga": 2,
+      "so": 0,
+      "gaa": 2.0,
+      "w": 1,
+      "l": 0,
+      "ot": 0,
+      "sv_percent": 0.923
+    },
+    {
+      "name": "Erik Portillo",
+      "gp": 5,
+      "min": 0,
+      "ga": 13,
+      "so": 0,
+      "gaa": 2.67,
+      "w": 2,
+      "l": 1,
+      "ot": 0,
+      "sv_percent": 0.885
+    },
+    {
+      "name": "Empty Net ",
+      "gp": 3,
+      "min": 0,
+      "ga": 0,
+      "so": 0,
+      "gaa": 0.0,
+      "w": 0,
+      "l": 0,
+      "ot": 0,
+      "sv_percent": 0.0
+    },
+    {
+      "name": "Totals ",
+      "gp": 5,
+      "min": 0,
+      "ga": 15,
+      "so": 0,
+      "gaa": 2.55,
+      "w": 3,
+      "l": 1,
+      "ot": 0,
+      "sv_percent": 0.892
+    }
+  ]
+}
