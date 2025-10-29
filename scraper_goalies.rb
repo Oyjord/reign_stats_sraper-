@@ -33,7 +33,7 @@ cleaned = goalies.map do |g|
   {
     name: g["name"],
     gp: g["games_played"].to_i,
-    min: parse_minutes(g["minutes"]),
+    min: g["minutes"],
     ga: g["goals_against"].to_i,
     so: g["shutouts"].to_i,
     gaa: g["goals_against_average"].to_f,
