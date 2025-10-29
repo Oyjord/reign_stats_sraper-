@@ -245,7 +245,7 @@
     {
       "name": "Pheonix Copley",
       "gp": 1,
-      "min": 0,
+      "min": 0.0,
       "ga": 2,
       "so": 0,
       "gaa": 2.0,
@@ -257,7 +257,7 @@
     {
       "name": "Erik Portillo",
       "gp": 5,
-      "min": 0,
+      "min": 0.0,
       "ga": 13,
       "so": 0,
       "gaa": 2.67,
@@ -265,30 +265,6 @@
       "l": 1,
       "ot": 0,
       "sv_percent": 0.885
-    },
-    {
-      "name": "Empty Net ",
-      "gp": 3,
-      "min": 0,
-      "ga": 0,
-      "so": 0,
-      "gaa": 0.0,
-      "w": 0,
-      "l": 0,
-      "ot": 0,
-      "sv_percent": 0.0
-    },
-    {
-      "name": "Totals ",
-      "gp": 5,
-      "min": 0,
-      "ga": 15,
-      "so": 0,
-      "gaa": 2.55,
-      "w": 3,
-      "l": 1,
-      "ot": 0,
-      "sv_percent": 0.892
     }
   ]
 }
