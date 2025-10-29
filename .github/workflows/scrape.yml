@@ -30,10 +30,10 @@ jobs:
       - name: Merge stats
         run: ruby merge_stats.rb
 
-      - name: Commit all output files
+      - name: Commit all output files and Gemfile.lock
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add output/
-          git commit -m "Update Reign stats"
+          git add output/ Gemfile.lock
+          git commit -m "Update Reign stats and Gemfile.lock"
           git push
