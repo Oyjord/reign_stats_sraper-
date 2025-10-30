@@ -200,16 +200,6 @@
     "pim": 0
   },
   {
-    "name": "Pheonix Copley",
-    "position": "G",
-    "gp": 1,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": 0,
-    "pim": 0
-  },
-  {
     "name": "Tim Rego",
     "position": "D",
     "gp": 1,
@@ -237,6 +227,16 @@
     "a": 0,
     "pts": 0,
     "plus_minus": -1,
+    "pim": 0
+  },
+  {
+    "name": "Pheonix Copley",
+    "position": "G",
+    "gp": 2,
+    "g": 0,
+    "a": 0,
+    "pts": 0,
+    "plus_minus": 0,
     "pim": 0
   },
   {

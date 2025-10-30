@@ -1,17 +1,5 @@
 [
   {
-    "name": "Pheonix Copley",
-    "gp": 2,
-    "min": "61:13",
-    "ga": 2,
-    "so": 0,
-    "gaa": 1.96,
-    "w": 1,
-    "l": 0,
-    "ot": 0,
-    "sv_percent": 0.923
-  },
-  {
     "name": "Erik Portillo",
     "gp": 5,
     "min": "291:48",
@@ -22,5 +10,17 @@
     "l": 1,
     "ot": 1,
     "sv_percent": 0.885
+  },
+  {
+    "name": "Pheonix Copley",
+    "gp": 2,
+    "min": "119:58",
+    "ga": 8,
+    "so": 0,
+    "gaa": 4.0,
+    "w": 1,
+    "l": 1,
+    "ot": 0,
+    "sv_percent": 0.84
   }
 ]

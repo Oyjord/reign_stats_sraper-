@@ -311,48 +311,6 @@
                 "rookie": "0"
               },
               "name": {
-                "playerLink": "5658",
-                "seoName": "Pheonix Copley"
-              },
-              "active": {
-                "active": "1"
-              },
-              "team_code": {
-                "teamLink": "403"
-              }
-            },
-            "row": {
-              "player_id": "5658",
-              "rookie": "0",
-              "name": "Pheonix Copley",
-              "active": "1",
-              "team_code": "ONT",
-              "games_played": "2",
-              "minutes_played": "61:13",
-              "saves": "24",
-              "shots": "26",
-              "save_percentage": "0.923",
-              "goals_against": "2",
-              "shutouts": "0",
-              "wins": "1",
-              "losses": "0",
-              "ot_losses": "0",
-              "shootout_goals_against": "0",
-              "shootout_attempts": "0",
-              "goals": "0",
-              "assists": "0",
-              "penalty_minutes": "0",
-              "shootout_percentage": "0.000",
-              "goals_against_average": "1.96",
-              "rank": 1
-            }
-          },
-          {
-            "prop": {
-              "rookie": {
-                "rookie": "0"
-              },
-              "name": {
                 "playerLink": "9733",
                 "seoName": "Erik Portillo"
               },
@@ -386,6 +344,48 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "2.67",
+              "rank": 1
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
+                "rookie": "0"
+              },
+              "name": {
+                "playerLink": "5658",
+                "seoName": "Pheonix Copley"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "5658",
+              "rookie": "0",
+              "name": "Pheonix Copley",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "2",
+              "minutes_played": "119:58",
+              "saves": "42",
+              "shots": "50",
+              "save_percentage": "0.840",
+              "goals_against": "8",
+              "shutouts": "0",
+              "wins": "1",
+              "losses": "1",
+              "ot_losses": "0",
+              "shootout_goals_against": "0",
+              "shootout_attempts": "0",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.000",
+              "goals_against_average": "4.00",
               "rank": 2
             }
           },
@@ -403,20 +403,20 @@
           {
             "prop": [],
             "row": {
-              "games_played": "5",
-              "minutes_played": 355,
-              "saves": "124",
-              "shots": "139",
-              "save_percentage": "0.892",
-              "goals_against": "15",
+              "games_played": "6",
+              "minutes_played": 413,
+              "saves": "142",
+              "shots": "163",
+              "save_percentage": "0.871",
+              "goals_against": "21",
               "shutouts": 0,
               "wins": "3",
-              "losses": "1",
+              "losses": "2",
               "ot_losses": "1",
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.54",
+              "goals_against_average": "3.05",
               "name": "Totals "
             }
           }
