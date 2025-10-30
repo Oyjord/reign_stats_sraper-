@@ -23,11 +23,11 @@
     {
       "name": "Akil Thomas",
       "position": "F",
-      "gp": 6,
+      "gp": 7,
       "g": 2,
       "a": 3,
       "pts": 5,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 2
     },
     {
@@ -37,17 +37,17 @@
       "g": 3,
       "a": 1,
       "pts": 4,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 8
     },
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 6,
+      "gp": 7,
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 6
     },
     {
@@ -67,7 +67,7 @@
       "g": 1,
       "a": 3,
       "pts": 4,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 12
     },
     {
@@ -77,7 +77,7 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 0
     },
     {
@@ -113,11 +113,11 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 6,
+      "gp": 7,
       "g": 1,
       "a": 1,
       "pts": 2,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 6
     },
     {
@@ -127,7 +127,7 @@
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 0
     },
     {
@@ -177,8 +177,8 @@
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 2,
-      "pim": 9
+      "plus_minus": 1,
+      "pim": 11
     },
     {
       "name": "Jack Millar",
@@ -187,7 +187,7 @@
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 7
     },
     {
@@ -197,7 +197,7 @@
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 0
     },
     {
