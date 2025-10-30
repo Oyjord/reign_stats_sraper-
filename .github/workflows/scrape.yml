@@ -35,5 +35,12 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add output/ Gemfile.lock
-          git commit -m "Update Reign stats and Gemfile.lock"
-          git push
+
+          # Only commit if there are staged changes
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "Update Reign stats and Gemfile.lock"
+            git push
+          fi
+
