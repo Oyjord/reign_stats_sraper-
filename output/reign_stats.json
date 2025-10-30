@@ -3,11 +3,11 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 6,
+      "gp": 7,
       "g": 3,
-      "a": 2,
-      "pts": 5,
-      "plus_minus": 1,
+      "a": 3,
+      "pts": 6,
+      "plus_minus": 2,
       "pim": 4
     },
     {
@@ -33,11 +33,11 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 6,
+      "gp": 7,
       "g": 3,
       "a": 1,
       "pts": 4,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 8
     },
     {
@@ -63,12 +63,32 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 6,
+      "gp": 7,
       "g": 1,
       "a": 3,
       "pts": 4,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 12
+    },
+    {
+      "name": "Aatu Jämsen",
+      "position": "F",
+      "gp": 7,
+      "g": 2,
+      "a": 1,
+      "pts": 3,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
+      "name": "Kenny Connors",
+      "position": "F",
+      "gp": 7,
+      "g": 0,
+      "a": 3,
+      "pts": 3,
+      "plus_minus": 7,
+      "pim": 2
     },
     {
       "name": "Martin Chromiak",
@@ -81,6 +101,16 @@
       "pim": 2
     },
     {
+      "name": "Jared Wright",
+      "position": "F",
+      "gp": 7,
+      "g": 2,
+      "a": 0,
+      "pts": 2,
+      "plus_minus": 5,
+      "pim": 0
+    },
+    {
       "name": "Cole Guttman",
       "position": "F",
       "gp": 6,
@@ -91,54 +121,34 @@
       "pim": 6
     },
     {
-      "name": "Aatu Jämsen",
+      "name": "Jack Hughes",
       "position": "F",
-      "gp": 6,
-      "g": 1,
-      "a": 1,
-      "pts": 2,
-      "plus_minus": 0,
-      "pim": 0
-    },
-    {
-      "name": "Kenny Connors",
-      "position": "F",
-      "gp": 6,
+      "gp": 5,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 6,
-      "pim": 2
+      "plus_minus": 1,
+      "pim": 0
     },
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 0
     },
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 5,
-      "g": 1,
-      "a": 0,
-      "pts": 1,
-      "plus_minus": -1,
-      "pim": 2
-    },
-    {
-      "name": "Jared Wright",
-      "position": "F",
       "gp": 6,
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": 4,
-      "pim": 0
+      "plus_minus": -2,
+      "pim": 2
     },
     {
       "name": "Kaleb Lawrence",
@@ -151,26 +161,6 @@
       "pim": 0
     },
     {
-      "name": "Jack Hughes",
-      "position": "F",
-      "gp": 4,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 1,
-      "pim": 0
-    },
-    {
-      "name": "Jacob Doty",
-      "position": "F",
-      "gp": 5,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 3,
-      "pim": 7
-    },
-    {
       "name": "Erik Portillo",
       "position": "G",
       "gp": 5,
@@ -181,14 +171,34 @@
       "pim": 0
     },
     {
-      "name": "Jack Millar",
-      "position": "D",
+      "name": "Jacob Doty",
+      "position": "F",
       "gp": 6,
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": 2,
+      "plus_minus": 3,
       "pim": 7
+    },
+    {
+      "name": "Jack Millar",
+      "position": "D",
+      "gp": 7,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 3,
+      "pim": 7
+    },
+    {
+      "name": "Angus Booth",
+      "position": "D",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": -1,
+      "pim": 0
     },
     {
       "name": "Pheonix Copley",
@@ -244,11 +254,11 @@
   "goalies": [
     {
       "name": "Pheonix Copley",
-      "gp": 1,
-      "min": "59:58",
+      "gp": 2,
+      "min": "61:13",
       "ga": 2,
       "so": 0,
-      "gaa": 2.0,
+      "gaa": 1.96,
       "w": 1,
       "l": 0,
       "ot": 0,

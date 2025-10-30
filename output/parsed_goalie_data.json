@@ -327,8 +327,8 @@
               "name": "Pheonix Copley",
               "active": "1",
               "team_code": "ONT",
-              "games_played": "1",
-              "minutes_played": "59:58",
+              "games_played": "2",
+              "minutes_played": "61:13",
               "saves": "24",
               "shots": "26",
               "save_percentage": "0.923",
@@ -343,7 +343,7 @@
               "assists": "0",
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.00",
+              "goals_against_average": "1.96",
               "rank": 1
             }
           },
@@ -404,7 +404,7 @@
             "prop": [],
             "row": {
               "games_played": "5",
-              "minutes_played": 353,
+              "minutes_played": 355,
               "saves": "124",
               "shots": "139",
               "save_percentage": "0.892",
@@ -416,7 +416,7 @@
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.55",
+              "goals_against_average": "2.54",
               "name": "Totals "
             }
           }
