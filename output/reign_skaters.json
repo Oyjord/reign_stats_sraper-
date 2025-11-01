@@ -1,5 +1,15 @@
 [
   {
+    "name": "Taylor Ward",
+    "position": "F",
+    "gp": 8,
+    "g": 4,
+    "a": 2,
+    "pts": 6,
+    "plus_minus": 2,
+    "pim": 4
+  },
+  {
     "name": "Andre Lee",
     "position": "F",
     "gp": 7,
@@ -7,16 +17,6 @@
     "a": 3,
     "pts": 6,
     "plus_minus": 2,
-    "pim": 4
-  },
-  {
-    "name": "Taylor Ward",
-    "position": "F",
-    "gp": 7,
-    "g": 3,
-    "a": 2,
-    "pts": 5,
-    "plus_minus": 1,
     "pim": 4
   },
   {
@@ -30,13 +30,23 @@
     "pim": 2
   },
   {
+    "name": "Glenn Gawdin",
+    "position": "F",
+    "gp": 8,
+    "g": 1,
+    "a": 4,
+    "pts": 5,
+    "plus_minus": -3,
+    "pim": 8
+  },
+  {
     "name": "Samuel Bolduc",
     "position": "D",
-    "gp": 7,
+    "gp": 8,
     "g": 3,
     "a": 1,
     "pts": 4,
-    "plus_minus": 2,
+    "plus_minus": 3,
     "pim": 8
   },
   {
@@ -48,16 +58,6 @@
     "pts": 4,
     "plus_minus": -1,
     "pim": 6
-  },
-  {
-    "name": "Glenn Gawdin",
-    "position": "F",
-    "gp": 7,
-    "g": 1,
-    "a": 3,
-    "pts": 4,
-    "plus_minus": -4,
-    "pim": 8
   },
   {
     "name": "Joe Hicketts",
@@ -80,9 +80,19 @@
     "pim": 0
   },
   {
+    "name": "Martin Chromiak",
+    "position": "F",
+    "gp": 8,
+    "g": 2,
+    "a": 1,
+    "pts": 3,
+    "plus_minus": -1,
+    "pim": 4
+  },
+  {
     "name": "Kenny Connors",
     "position": "F",
-    "gp": 7,
+    "gp": 8,
     "g": 0,
     "a": 3,
     "pts": 3,
@@ -90,19 +100,9 @@
     "pim": 2
   },
   {
-    "name": "Martin Chromiak",
-    "position": "F",
-    "gp": 7,
-    "g": 2,
-    "a": 0,
-    "pts": 2,
-    "plus_minus": -2,
-    "pim": 2
-  },
-  {
     "name": "Jared Wright",
     "position": "F",
-    "gp": 7,
+    "gp": 8,
     "g": 2,
     "a": 0,
     "pts": 2,
@@ -122,12 +122,12 @@
   {
     "name": "Jack Hughes",
     "position": "F",
-    "gp": 5,
+    "gp": 6,
     "g": 0,
     "a": 2,
     "pts": 2,
     "plus_minus": -1,
-    "pim": 0
+    "pim": 2
   },
   {
     "name": "Kirill Kirsanov",
@@ -182,22 +182,12 @@
   {
     "name": "Jack Millar",
     "position": "D",
-    "gp": 7,
+    "gp": 8,
     "g": 0,
     "a": 1,
     "pts": 1,
     "plus_minus": 2,
     "pim": 7
-  },
-  {
-    "name": "Angus Booth",
-    "position": "D",
-    "gp": 1,
-    "g": 0,
-    "a": 0,
-    "pts": 0,
-    "plus_minus": -3,
-    "pim": 0
   },
   {
     "name": "Tim Rego",
@@ -220,13 +210,13 @@
     "pim": 0
   },
   {
-    "name": "Koehn Ziemmer",
-    "position": "F",
-    "gp": 1,
+    "name": "Angus Booth",
+    "position": "D",
+    "gp": 2,
     "g": 0,
     "a": 0,
     "pts": 0,
-    "plus_minus": -1,
+    "plus_minus": -3,
     "pim": 0
   },
   {
@@ -240,13 +230,23 @@
     "pim": 0
   },
   {
-    "name": "Jakub Dvořák",
-    "position": "D",
-    "gp": 6,
+    "name": "Koehn Ziemmer",
+    "position": "F",
+    "gp": 2,
     "g": 0,
     "a": 0,
     "pts": 0,
-    "plus_minus": 2,
+    "plus_minus": -1,
+    "pim": 2
+  },
+  {
+    "name": "Jakub Dvořák",
+    "position": "D",
+    "gp": 7,
+    "g": 0,
+    "a": 0,
+    "pts": 0,
+    "plus_minus": 3,
     "pim": 0
   }
 ]
