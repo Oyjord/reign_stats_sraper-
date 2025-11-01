@@ -32,11 +32,11 @@
   {
     "name": "Akil Thomas",
     "position": "F",
-    "gp": 7,
+    "gp": 8,
     "g": 2,
     "a": 3,
     "pts": 5,
-    "plus_minus": 1,
+    "plus_minus": 2,
     "pim": 2
   },
   {
@@ -70,16 +70,6 @@
     "pim": 8
   },
   {
-    "name": "Joe Hicketts",
-    "position": "D",
-    "gp": 7,
-    "g": 1,
-    "a": 3,
-    "pts": 4,
-    "plus_minus": -1,
-    "pim": 12
-  },
-  {
     "name": "Kenny Connors",
     "position": "F",
     "gp": 8,
@@ -88,6 +78,16 @@
     "pts": 4,
     "plus_minus": 8,
     "pim": 4
+  },
+  {
+    "name": "Joe Hicketts",
+    "position": "D",
+    "gp": 8,
+    "g": 1,
+    "a": 3,
+    "pts": 4,
+    "plus_minus": 0,
+    "pim": 12
   },
   {
     "name": "Martin Chromiak",
@@ -107,7 +107,7 @@
     "a": 2,
     "pts": 3,
     "plus_minus": 1,
-    "pim": 2
+    "pim": 12
   },
   {
     "name": "Jared Wright",
@@ -116,7 +116,7 @@
     "g": 2,
     "a": 0,
     "pts": 2,
-    "plus_minus": 5,
+    "plus_minus": 6,
     "pim": 0
   },
   {
@@ -216,7 +216,7 @@
     "g": 0,
     "a": 1,
     "pts": 1,
-    "plus_minus": 3,
+    "plus_minus": 4,
     "pim": 7
   },
   {
