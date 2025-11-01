@@ -122,7 +122,7 @@
   {
     "name": "Cole Guttman",
     "position": "F",
-    "gp": 7,
+    "gp": 8,
     "g": 1,
     "a": 1,
     "pts": 2,
@@ -190,16 +190,6 @@
     "pim": 0
   },
   {
-    "name": "Erik Portillo",
-    "position": "G",
-    "gp": 5,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 0,
-    "pim": 0
-  },
-  {
     "name": "Jacob Doty",
     "position": "F",
     "gp": 6,
@@ -208,6 +198,16 @@
     "pts": 1,
     "plus_minus": 1,
     "pim": 11
+  },
+  {
+    "name": "Erik Portillo",
+    "position": "G",
+    "gp": 6,
+    "g": 0,
+    "a": 1,
+    "pts": 1,
+    "plus_minus": 0,
+    "pim": 0
   },
   {
     "name": "Jack Millar",

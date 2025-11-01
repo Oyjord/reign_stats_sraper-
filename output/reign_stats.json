@@ -123,7 +123,7 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 7,
+      "gp": 8,
       "g": 1,
       "a": 1,
       "pts": 2,
@@ -191,16 +191,6 @@
       "pim": 0
     },
     {
-      "name": "Erik Portillo",
-      "position": "G",
-      "gp": 5,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 0,
-      "pim": 0
-    },
-    {
       "name": "Jacob Doty",
       "position": "F",
       "gp": 6,
@@ -209,6 +199,16 @@
       "pts": 1,
       "plus_minus": 1,
       "pim": 11
+    },
+    {
+      "name": "Erik Portillo",
+      "position": "G",
+      "gp": 6,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 0,
+      "pim": 0
     },
     {
       "name": "Jack Millar",
@@ -255,14 +255,14 @@
     {
       "name": "Erik Portillo",
       "gp": 6,
-      "min": "324:29",
+      "min": "351:48",
       "ga": 14,
       "so": 0,
-      "gaa": 2.59,
-      "w": 2,
+      "gaa": 2.39,
+      "w": 3,
       "l": 1,
       "ot": 1,
-      "sv_percent": 0.894
+      "sv_percent": 0.907
     },
     {
       "name": "Pheonix Copley",
