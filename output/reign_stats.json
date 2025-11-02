@@ -4,9 +4,9 @@
       "name": "Taylor Ward",
       "position": "F",
       "gp": 9,
-      "g": 4,
+      "g": 5,
       "a": 3,
-      "pts": 7,
+      "pts": 8,
       "plus_minus": 3,
       "pim": 6
     },
@@ -17,7 +17,7 @@
       "g": 4,
       "a": 2,
       "pts": 6,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 10
     },
     {
@@ -27,7 +27,7 @@
       "g": 3,
       "a": 3,
       "pts": 6,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 4
     },
     {
@@ -41,13 +41,23 @@
       "pim": 10
     },
     {
+      "name": "Francesco Pinelli",
+      "position": "F",
+      "gp": 9,
+      "g": 2,
+      "a": 3,
+      "pts": 5,
+      "plus_minus": -1,
+      "pim": 8
+    },
+    {
       "name": "Akil Thomas",
       "position": "F",
       "gp": 9,
       "g": 2,
       "a": 3,
       "pts": 5,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 2
     },
     {
@@ -81,23 +91,13 @@
       "pim": 2
     },
     {
-      "name": "Francesco Pinelli",
-      "position": "F",
-      "gp": 8,
-      "g": 2,
-      "a": 2,
-      "pts": 4,
-      "plus_minus": -1,
-      "pim": 8
-    },
-    {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 8,
+      "gp": 9,
       "g": 1,
       "a": 3,
       "pts": 4,
-      "plus_minus": 8,
+      "plus_minus": 7,
       "pim": 4
     },
     {
@@ -111,24 +111,24 @@
       "pim": 12
     },
     {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 9,
+      "g": 1,
+      "a": 2,
+      "pts": 3,
+      "plus_minus": 0,
+      "pim": 6
+    },
+    {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 8,
+      "gp": 9,
       "g": 2,
       "a": 0,
       "pts": 2,
       "plus_minus": 6,
       "pim": 0
-    },
-    {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 9,
-      "g": 1,
-      "a": 1,
-      "pts": 2,
-      "plus_minus": 0,
-      "pim": 6
     },
     {
       "name": "Angus Booth",
@@ -153,7 +153,7 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 8,
+      "gp": 9,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -173,7 +173,7 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 7,
+      "gp": 8,
       "g": 1,
       "a": 0,
       "pts": 1,
@@ -231,24 +231,24 @@
       "pim": 0
     },
     {
-      "name": "Pheonix Copley",
-      "position": "G",
-      "gp": 2,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": 0,
-      "pim": 0
-    },
-    {
       "name": "Tim Rego",
       "position": "D",
       "gp": 2,
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 2
+    },
+    {
+      "name": "Pheonix Copley",
+      "position": "G",
+      "gp": 3,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 0,
+      "pim": 0
     }
   ],
   "goalies": [
@@ -267,14 +267,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 3,
-      "min": "159:57",
-      "ga": 10,
+      "min": "176:54",
+      "ga": 12,
       "so": 0,
-      "gaa": 3.75,
+      "gaa": 4.07,
       "w": 1,
-      "l": 1,
+      "l": 2,
       "ot": 0,
-      "sv_percent": 0.848
+      "sv_percent": 0.85
     }
   ]
 }
