@@ -31,6 +31,26 @@
       "pim": 10
     },
     {
+      "name": "Akil Thomas",
+      "position": "F",
+      "gp": 10,
+      "g": 3,
+      "a": 3,
+      "pts": 6,
+      "plus_minus": 0,
+      "pim": 2
+    },
+    {
+      "name": "Francesco Pinelli",
+      "position": "F",
+      "gp": 10,
+      "g": 2,
+      "a": 4,
+      "pts": 6,
+      "plus_minus": 0,
+      "pim": 8
+    },
+    {
       "name": "Glenn Gawdin",
       "position": "F",
       "gp": 9,
@@ -41,33 +61,13 @@
       "pim": 10
     },
     {
-      "name": "Francesco Pinelli",
-      "position": "F",
-      "gp": 9,
-      "g": 2,
-      "a": 3,
-      "pts": 5,
-      "plus_minus": -1,
-      "pim": 8
-    },
-    {
-      "name": "Akil Thomas",
-      "position": "F",
-      "gp": 9,
-      "g": 2,
-      "a": 3,
-      "pts": 5,
-      "plus_minus": -1,
-      "pim": 2
-    },
-    {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 9,
+      "gp": 10,
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 14
     },
     {
@@ -113,11 +113,11 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 9,
+      "gp": 10,
       "g": 1,
       "a": 2,
       "pts": 3,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 6
     },
     {
@@ -149,6 +149,16 @@
       "pts": 2,
       "plus_minus": 4,
       "pim": 0
+    },
+    {
+      "name": "Jack Millar",
+      "position": "D",
+      "gp": 10,
+      "g": 0,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": 5,
+      "pim": 7
     },
     {
       "name": "Otto Salin",
@@ -209,16 +219,6 @@
       "pts": 1,
       "plus_minus": 1,
       "pim": 16
-    },
-    {
-      "name": "Jack Millar",
-      "position": "D",
-      "gp": 9,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 4,
-      "pim": 7
     },
     {
       "name": "Isaiah Saville",
