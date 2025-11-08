@@ -3,20 +3,20 @@
     {
       "name": "Taylor Ward",
       "position": "F",
-      "gp": 10,
+      "gp": 11,
       "g": 6,
       "a": 3,
       "pts": 9,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 6
     },
     {
       "name": "Akil Thomas",
       "position": "F",
-      "gp": 10,
+      "gp": 11,
       "g": 3,
-      "a": 4,
-      "pts": 7,
+      "a": 5,
+      "pts": 8,
       "plus_minus": 1,
       "pim": 2
     },
@@ -27,7 +27,7 @@
       "g": 3,
       "a": 4,
       "pts": 7,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 4
     },
     {
@@ -37,7 +37,7 @@
       "g": 4,
       "a": 2,
       "pts": 6,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 10
     },
     {
@@ -47,7 +47,7 @@
       "g": 2,
       "a": 4,
       "pts": 6,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 8
     },
     {
@@ -61,34 +61,34 @@
       "pim": 10
     },
     {
-      "name": "Joe Hicketts",
-      "position": "D",
-      "gp": 10,
-      "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": 1,
-      "pim": 14
-    },
-    {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 10,
-      "g": 3,
+      "gp": 11,
+      "g": 4,
       "a": 1,
-      "pts": 4,
+      "pts": 5,
       "plus_minus": 1,
       "pim": 4
     },
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 10,
+      "gp": 11,
       "g": 3,
-      "a": 1,
-      "pts": 4,
+      "a": 2,
+      "pts": 5,
       "plus_minus": -2,
       "pim": 4
+    },
+    {
+      "name": "Joe Hicketts",
+      "position": "D",
+      "gp": 11,
+      "g": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": 0,
+      "pim": 14
     },
     {
       "name": "Kenny Connors",
@@ -133,12 +133,12 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 2,
       "pts": 2,
       "plus_minus": 2,
-      "pim": 2
+      "pim": 4
     },
     {
       "name": "Kirill Kirsanov",
