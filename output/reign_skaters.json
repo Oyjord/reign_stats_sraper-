@@ -10,16 +10,6 @@
     "pim": 6
   },
   {
-    "name": "Andre Lee",
-    "position": "F",
-    "gp": 10,
-    "g": 3,
-    "a": 4,
-    "pts": 7,
-    "plus_minus": 1,
-    "pim": 4
-  },
-  {
     "name": "Akil Thomas",
     "position": "F",
     "gp": 10,
@@ -30,33 +20,43 @@
     "pim": 2
   },
   {
+    "name": "Andre Lee",
+    "position": "F",
+    "gp": 11,
+    "g": 3,
+    "a": 4,
+    "pts": 7,
+    "plus_minus": 0,
+    "pim": 4
+  },
+  {
     "name": "Samuel Bolduc",
     "position": "D",
-    "gp": 10,
+    "gp": 11,
     "g": 4,
     "a": 2,
     "pts": 6,
-    "plus_minus": 3,
+    "plus_minus": 2,
     "pim": 10
   },
   {
     "name": "Francesco Pinelli",
     "position": "F",
-    "gp": 10,
+    "gp": 11,
     "g": 2,
     "a": 4,
     "pts": 6,
-    "plus_minus": 0,
+    "plus_minus": -1,
     "pim": 8
   },
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 10,
+    "gp": 11,
     "g": 1,
     "a": 5,
     "pts": 6,
-    "plus_minus": 0,
+    "plus_minus": -1,
     "pim": 10
   },
   {
@@ -112,11 +112,11 @@
   {
     "name": "Cole Guttman",
     "position": "F",
-    "gp": 10,
+    "gp": 11,
     "g": 1,
     "a": 2,
     "pts": 3,
-    "plus_minus": 1,
+    "plus_minus": 0,
     "pim": 6
   },
   {
@@ -162,12 +162,12 @@
   {
     "name": "Otto Salin",
     "position": "D",
-    "gp": 6,
+    "gp": 7,
     "g": 1,
     "a": 0,
     "pts": 1,
     "plus_minus": -3,
-    "pim": 2
+    "pim": 4
   },
   {
     "name": "Jakub Dvořák",
