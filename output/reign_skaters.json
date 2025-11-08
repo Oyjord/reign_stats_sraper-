@@ -6,7 +6,7 @@
     "g": 6,
     "a": 3,
     "pts": 9,
-    "plus_minus": 2,
+    "plus_minus": 1,
     "pim": 6
   },
   {
@@ -14,10 +14,20 @@
     "position": "F",
     "gp": 11,
     "g": 3,
-    "a": 5,
-    "pts": 8,
-    "plus_minus": 0,
+    "a": 6,
+    "pts": 9,
+    "plus_minus": -1,
     "pim": 2
+  },
+  {
+    "name": "Martin Chromiak",
+    "position": "F",
+    "gp": 11,
+    "g": 5,
+    "a": 3,
+    "pts": 8,
+    "plus_minus": 2,
+    "pim": 4
   },
   {
     "name": "Andre Lee",
@@ -26,8 +36,18 @@
     "g": 3,
     "a": 4,
     "pts": 7,
-    "plus_minus": -1,
+    "plus_minus": -2,
     "pim": 4
+  },
+  {
+    "name": "Joe Hicketts",
+    "position": "D",
+    "gp": 11,
+    "g": 2,
+    "a": 5,
+    "pts": 7,
+    "plus_minus": 1,
+    "pim": 14
   },
   {
     "name": "Samuel Bolduc",
@@ -40,23 +60,13 @@
     "pim": 10
   },
   {
-    "name": "Martin Chromiak",
-    "position": "F",
-    "gp": 11,
-    "g": 4,
-    "a": 2,
-    "pts": 6,
-    "plus_minus": 1,
-    "pim": 4
-  },
-  {
     "name": "Francesco Pinelli",
     "position": "F",
     "gp": 11,
     "g": 2,
     "a": 4,
     "pts": 6,
-    "plus_minus": -2,
+    "plus_minus": -1,
     "pim": 8
   },
   {
@@ -66,18 +76,8 @@
     "g": 1,
     "a": 5,
     "pts": 6,
-    "plus_minus": -1,
+    "plus_minus": -2,
     "pim": 10
-  },
-  {
-    "name": "Joe Hicketts",
-    "position": "D",
-    "gp": 11,
-    "g": 1,
-    "a": 5,
-    "pts": 6,
-    "plus_minus": 1,
-    "pim": 14
   },
   {
     "name": "Aatu Jämsen",
@@ -116,7 +116,7 @@
     "g": 1,
     "a": 2,
     "pts": 3,
-    "plus_minus": 0,
+    "plus_minus": -1,
     "pim": 8
   },
   {
@@ -140,16 +140,6 @@
     "pim": 4
   },
   {
-    "name": "Kirill Kirsanov",
-    "position": "D",
-    "gp": 10,
-    "g": 0,
-    "a": 2,
-    "pts": 2,
-    "plus_minus": 4,
-    "pim": 0
-  },
-  {
     "name": "Jack Millar",
     "position": "D",
     "gp": 10,
@@ -160,13 +150,23 @@
     "pim": 7
   },
   {
+    "name": "Kirill Kirsanov",
+    "position": "D",
+    "gp": 11,
+    "g": 0,
+    "a": 2,
+    "pts": 2,
+    "plus_minus": 2,
+    "pim": 0
+  },
+  {
     "name": "Otto Salin",
     "position": "D",
     "gp": 7,
     "g": 1,
     "a": 0,
     "pts": 1,
-    "plus_minus": -4,
+    "plus_minus": -3,
     "pim": 4
   },
   {
@@ -236,7 +236,7 @@
     "g": 0,
     "a": 0,
     "pts": 0,
-    "plus_minus": 1,
+    "plus_minus": -1,
     "pim": 2
   },
   {
