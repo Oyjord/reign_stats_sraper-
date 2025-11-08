@@ -7,7 +7,7 @@
       "g": 6,
       "a": 3,
       "pts": 9,
-      "plus_minus": 1,
+      "plus_minus": 2,
       "pim": 6
     },
     {
@@ -17,7 +17,7 @@
       "g": 3,
       "a": 6,
       "pts": 9,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 2
     },
     {
@@ -37,7 +37,7 @@
       "g": 3,
       "a": 4,
       "pts": 7,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 4
     },
     {
@@ -57,7 +57,7 @@
       "g": 4,
       "a": 2,
       "pts": 6,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 10
     },
     {
@@ -103,7 +103,7 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 7,
+      "gp": 8,
       "g": 1,
       "a": 2,
       "pts": 3,
@@ -117,13 +117,13 @@
       "g": 1,
       "a": 2,
       "pts": 3,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 8
     },
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 10,
+      "gp": 11,
       "g": 2,
       "a": 0,
       "pts": 2,
@@ -141,16 +141,6 @@
       "pim": 4
     },
     {
-      "name": "Jack Millar",
-      "position": "D",
-      "gp": 10,
-      "g": 0,
-      "a": 2,
-      "pts": 2,
-      "plus_minus": 5,
-      "pim": 7
-    },
-    {
       "name": "Kirill Kirsanov",
       "position": "D",
       "gp": 11,
@@ -159,6 +149,16 @@
       "pts": 2,
       "plus_minus": 2,
       "pim": 0
+    },
+    {
+      "name": "Jack Millar",
+      "position": "D",
+      "gp": 11,
+      "g": 0,
+      "a": 2,
+      "pts": 2,
+      "plus_minus": 4,
+      "pim": 7
     },
     {
       "name": "Otto Salin",
@@ -237,7 +237,7 @@
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 2
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -282,7 +282,7 @@
       "so": 0,
       "gaa": 4.64,
       "w": 1,
-      "l": 2,
+      "l": 3,
       "ot": 0,
       "sv_percent": 0.839
     }
