@@ -31,13 +31,23 @@
       "pim": 4
     },
     {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 12,
+      "g": 3,
+      "a": 5,
+      "pts": 8,
+      "plus_minus": 0,
+      "pim": 10
+    },
+    {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 11,
+      "gp": 12,
       "g": 3,
-      "a": 4,
-      "pts": 7,
-      "plus_minus": -3,
+      "a": 5,
+      "pts": 8,
+      "plus_minus": -1,
       "pim": 4
     },
     {
@@ -71,16 +81,6 @@
       "pim": 8
     },
     {
-      "name": "Glenn Gawdin",
-      "position": "F",
-      "gp": 11,
-      "g": 1,
-      "a": 5,
-      "pts": 6,
-      "plus_minus": -2,
-      "pim": 10
-    },
-    {
       "name": "Aatu Jämsen",
       "position": "F",
       "gp": 11,
@@ -101,6 +101,16 @@
       "pim": 6
     },
     {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 12,
+      "g": 1,
+      "a": 3,
+      "pts": 4,
+      "plus_minus": 0,
+      "pim": 8
+    },
+    {
       "name": "Jack Hughes",
       "position": "F",
       "gp": 8,
@@ -111,16 +121,6 @@
       "pim": 12
     },
     {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 11,
-      "g": 1,
-      "a": 2,
-      "pts": 3,
-      "plus_minus": -2,
-      "pim": 8
-    },
-    {
       "name": "Jared Wright",
       "position": "F",
       "gp": 11,
@@ -128,6 +128,16 @@
       "a": 0,
       "pts": 2,
       "plus_minus": 6,
+      "pim": 0
+    },
+    {
+      "name": "Jakub Dvořák",
+      "position": "D",
+      "gp": 10,
+      "g": 1,
+      "a": 1,
+      "pts": 2,
+      "plus_minus": 7,
       "pim": 0
     },
     {
@@ -153,32 +163,22 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 11,
+      "gp": 12,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 7
     },
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 7,
+      "gp": 8,
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": -3,
+      "plus_minus": -2,
       "pim": 4
-    },
-    {
-      "name": "Jakub Dvořák",
-      "position": "D",
-      "gp": 9,
-      "g": 1,
-      "a": 0,
-      "pts": 1,
-      "plus_minus": 5,
-      "pim": 0
     },
     {
       "name": "Angus Booth",
@@ -264,7 +264,7 @@
   "goalies": [
     {
       "name": "Erik Portillo",
-      "gp": 7,
+      "gp": 8,
       "min": "412:51",
       "ga": 15,
       "so": 0,
