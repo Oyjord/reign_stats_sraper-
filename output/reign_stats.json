@@ -7,7 +7,7 @@
       "g": 6,
       "a": 3,
       "pts": 9,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 6
     },
     {
@@ -17,7 +17,7 @@
       "g": 3,
       "a": 6,
       "pts": 9,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 2
     },
     {
@@ -38,7 +38,7 @@
       "a": 5,
       "pts": 8,
       "plus_minus": 0,
-      "pim": 10
+      "pim": 12
     },
     {
       "name": "Andre Lee",
@@ -53,11 +53,11 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 11,
+      "gp": 12,
       "g": 2,
-      "a": 5,
-      "pts": 7,
-      "plus_minus": 1,
+      "a": 6,
+      "pts": 8,
+      "plus_minus": 0,
       "pim": 14
     },
     {
@@ -93,12 +93,22 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 11,
+      "gp": 12,
       "g": 2,
       "a": 3,
       "pts": 5,
       "plus_minus": 8,
       "pim": 6
+    },
+    {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 12,
+      "g": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": 1,
+      "pim": 8
     },
     {
       "name": "Jack Hughes",
@@ -109,16 +119,6 @@
       "pts": 4,
       "plus_minus": 1,
       "pim": 12
-    },
-    {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 12,
-      "g": 1,
-      "a": 3,
-      "pts": 4,
-      "plus_minus": 0,
-      "pim": 8
     },
     {
       "name": "Koehn Ziemmer",
@@ -167,8 +167,18 @@
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 7
+    },
+    {
+      "name": "Kyle Burroughs",
+      "position": "D",
+      "gp": 3,
+      "g": 1,
+      "a": 0,
+      "pts": 1,
+      "plus_minus": 1,
+      "pim": 2
     },
     {
       "name": "Otto Salin",
@@ -201,16 +211,6 @@
       "pim": 0
     },
     {
-      "name": "Erik Portillo",
-      "position": "G",
-      "gp": 7,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 0,
-      "pim": 0
-    },
-    {
       "name": "Jacob Doty",
       "position": "F",
       "gp": 8,
@@ -219,6 +219,16 @@
       "pts": 1,
       "plus_minus": 1,
       "pim": 16
+    },
+    {
+      "name": "Erik Portillo",
+      "position": "G",
+      "gp": 8,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 0,
+      "pim": 0
     },
     {
       "name": "Isaiah Saville",
@@ -241,16 +251,6 @@
       "pim": 2
     },
     {
-      "name": "Kyle Burroughs",
-      "position": "D",
-      "gp": 3,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": 0,
-      "pim": 2
-    },
-    {
       "name": "Pheonix Copley",
       "position": "G",
       "gp": 4,
@@ -265,14 +265,14 @@
     {
       "name": "Erik Portillo",
       "gp": 8,
-      "min": "456:34",
-      "ga": 17,
+      "min": "474:50",
+      "ga": 18,
       "so": 0,
-      "gaa": 2.23,
-      "w": 4,
+      "gaa": 2.27,
+      "w": 5,
       "l": 1,
       "ot": 1,
-      "sv_percent": 0.912
+      "sv_percent": 0.914
     },
     {
       "name": "Pheonix Copley",
