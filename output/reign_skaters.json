@@ -150,16 +150,6 @@
     "pim": 0
   },
   {
-    "name": "Jack Millar",
-    "position": "D",
-    "gp": 12,
-    "g": 0,
-    "a": 2,
-    "pts": 2,
-    "plus_minus": 2,
-    "pim": 7
-  },
-  {
     "name": "Kirill Kirsanov",
     "position": "D",
     "gp": 13,
@@ -168,6 +158,16 @@
     "pts": 2,
     "plus_minus": 2,
     "pim": 0
+  },
+  {
+    "name": "Jack Millar",
+    "position": "D",
+    "gp": 13,
+    "g": 0,
+    "a": 2,
+    "pts": 2,
+    "plus_minus": 2,
+    "pim": 7
   },
   {
     "name": "Kyle Burroughs",
@@ -252,7 +252,7 @@
   {
     "name": "Pheonix Copley",
     "position": "G",
-    "gp": 4,
+    "gp": 5,
     "g": 0,
     "a": 0,
     "pts": 0,
