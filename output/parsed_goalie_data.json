@@ -370,11 +370,11 @@
               "active": "1",
               "team_code": "ONT",
               "games_played": "5",
-              "minutes_played": "252:40",
-              "saves": "105",
-              "shots": "123",
-              "save_percentage": "0.854",
-              "goals_against": "18",
+              "minutes_played": "292:40",
+              "saves": "122",
+              "shots": "141",
+              "save_percentage": "0.865",
+              "goals_against": "19",
               "shutouts": "0",
               "wins": "1",
               "losses": "3",
@@ -385,7 +385,7 @@
               "assists": "0",
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "4.27",
+              "goals_against_average": "3.90",
               "rank": 2
             }
           },
@@ -404,11 +404,11 @@
             "prop": [],
             "row": {
               "games_played": "11",
-              "minutes_played": 743,
-              "saves": "296",
-              "shots": "332",
-              "save_percentage": "0.892",
-              "goals_against": "36",
+              "minutes_played": 783,
+              "saves": "313",
+              "shots": "350",
+              "save_percentage": "0.894",
+              "goals_against": "37",
               "shutouts": 0,
               "wins": "6",
               "losses": "4",
@@ -416,7 +416,7 @@
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.93",
+              "goals_against_average": "2.86",
               "name": "Totals "
             }
           }

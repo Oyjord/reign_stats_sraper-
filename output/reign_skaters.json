@@ -3,11 +3,21 @@
     "name": "Taylor Ward",
     "position": "F",
     "gp": 13,
-    "g": 6,
+    "g": 7,
     "a": 3,
-    "pts": 9,
-    "plus_minus": -1,
+    "pts": 10,
+    "plus_minus": 0,
     "pim": 6
+  },
+  {
+    "name": "Akil Thomas",
+    "position": "F",
+    "gp": 13,
+    "g": 3,
+    "a": 7,
+    "pts": 10,
+    "plus_minus": -2,
+    "pim": 2
   },
   {
     "name": "Glenn Gawdin",
@@ -30,14 +40,14 @@
     "pim": 4
   },
   {
-    "name": "Akil Thomas",
-    "position": "F",
+    "name": "Joe Hicketts",
+    "position": "D",
     "gp": 13,
-    "g": 3,
-    "a": 6,
+    "g": 2,
+    "a": 7,
     "pts": 9,
-    "plus_minus": -3,
-    "pim": 2
+    "plus_minus": 2,
+    "pim": 14
   },
   {
     "name": "Martin Chromiak",
@@ -46,18 +56,28 @@
     "g": 5,
     "a": 3,
     "pts": 8,
-    "plus_minus": 0,
+    "plus_minus": 1,
+    "pim": 6
+  },
+  {
+    "name": "Aatu Jämsen",
+    "position": "F",
+    "gp": 13,
+    "g": 4,
+    "a": 3,
+    "pts": 7,
+    "plus_minus": -1,
     "pim": 4
   },
   {
-    "name": "Joe Hicketts",
-    "position": "D",
+    "name": "Kenny Connors",
+    "position": "F",
     "gp": 13,
-    "g": 2,
-    "a": 6,
-    "pts": 8,
-    "plus_minus": 2,
-    "pim": 14
+    "g": 3,
+    "a": 4,
+    "pts": 7,
+    "plus_minus": 10,
+    "pim": 6
   },
   {
     "name": "Francesco Pinelli",
@@ -76,28 +96,8 @@
     "g": 4,
     "a": 2,
     "pts": 6,
-    "plus_minus": 0,
+    "plus_minus": 1,
     "pim": 10
-  },
-  {
-    "name": "Aatu Jämsen",
-    "position": "F",
-    "gp": 12,
-    "g": 4,
-    "a": 2,
-    "pts": 6,
-    "plus_minus": -2,
-    "pim": 4
-  },
-  {
-    "name": "Kenny Connors",
-    "position": "F",
-    "gp": 13,
-    "g": 3,
-    "a": 3,
-    "pts": 6,
-    "plus_minus": 10,
-    "pim": 6
   },
   {
     "name": "Cole Guttman",
@@ -110,6 +110,16 @@
     "pim": 10
   },
   {
+    "name": "Jack Hughes",
+    "position": "F",
+    "gp": 10,
+    "g": 1,
+    "a": 4,
+    "pts": 5,
+    "plus_minus": 2,
+    "pim": 12
+  },
+  {
     "name": "Jared Wright",
     "position": "F",
     "gp": 13,
@@ -120,23 +130,13 @@
     "pim": 2
   },
   {
-    "name": "Jack Hughes",
+    "name": "Koehn Ziemmer",
     "position": "F",
-    "gp": 9,
+    "gp": 6,
     "g": 1,
     "a": 3,
     "pts": 4,
-    "plus_minus": 1,
-    "pim": 12
-  },
-  {
-    "name": "Koehn Ziemmer",
-    "position": "F",
-    "gp": 5,
-    "g": 0,
-    "a": 3,
-    "pts": 3,
-    "plus_minus": 2,
+    "plus_minus": 3,
     "pim": 4
   },
   {
@@ -172,11 +172,11 @@
   {
     "name": "Kyle Burroughs",
     "position": "D",
-    "gp": 3,
+    "gp": 4,
     "g": 1,
     "a": 0,
     "pts": 1,
-    "plus_minus": 1,
+    "plus_minus": 3,
     "pim": 2
   },
   {
@@ -206,7 +206,7 @@
     "g": 0,
     "a": 1,
     "pts": 1,
-    "plus_minus": 0,
+    "plus_minus": 1,
     "pim": 4
   },
   {
