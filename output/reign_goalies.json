@@ -1,26 +1,26 @@
 [
   {
     "name": "Erik Portillo",
-    "gp": 8,
-    "min": "474:50",
+    "gp": 9,
+    "min": "477:41",
     "ga": 18,
     "so": 0,
-    "gaa": 2.27,
+    "gaa": 2.26,
     "w": 5,
     "l": 1,
     "ot": 1,
-    "sv_percent": 0.914
+    "sv_percent": 0.915
   },
   {
     "name": "Pheonix Copley",
-    "gp": 5,
-    "min": "292:40",
-    "ga": 19,
+    "gp": 6,
+    "min": "307:08",
+    "ga": 20,
     "so": 0,
-    "gaa": 3.9,
+    "gaa": 3.91,
     "w": 2,
     "l": 3,
     "ot": 0,
-    "sv_percent": 0.865
+    "sv_percent": 0.866
   }
 ]
