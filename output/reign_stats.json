@@ -277,14 +277,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 6,
-      "min": "329:21",
-      "ga": 21,
+      "min": "348:10",
+      "ga": 22,
       "so": 0,
-      "gaa": 3.83,
+      "gaa": 3.79,
       "w": 2,
       "l": 3,
       "ot": 0,
-      "sv_percent": 0.87
+      "sv_percent": 0.871
     }
   ]
 }
