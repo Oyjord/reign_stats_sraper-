@@ -377,7 +377,7 @@
               "goals_against": "22",
               "shutouts": "0",
               "wins": "2",
-              "losses": "3",
+              "losses": "4",
               "ot_losses": "0",
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
@@ -392,31 +392,31 @@
           {
             "prop": [],
             "row": {
-              "games_played": "5",
+              "games_played": "6",
               "goals_against": "0",
               "goals_against_average": "0.00",
               "shots": "0",
               "name": "Empty Net ",
-              "minutes_played": "8:29"
+              "minutes_played": "10:08"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "12",
-              "minutes_played": 842,
+              "games_played": "13",
+              "minutes_played": 845,
               "saves": "342",
               "shots": "382",
               "save_percentage": "0.895",
               "goals_against": "40",
               "shutouts": 0,
               "wins": "7",
-              "losses": "4",
+              "losses": "5",
               "ot_losses": "1",
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.88",
+              "goals_against_average": "2.87",
               "name": "Totals "
             }
           }
