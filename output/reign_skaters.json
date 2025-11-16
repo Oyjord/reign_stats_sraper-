@@ -2,31 +2,31 @@
   {
     "name": "Akil Thomas",
     "position": "F",
-    "gp": 14,
+    "gp": 15,
     "g": 4,
     "a": 7,
     "pts": 11,
-    "plus_minus": -2,
+    "plus_minus": -3,
     "pim": 2
   },
   {
     "name": "Taylor Ward",
     "position": "F",
-    "gp": 14,
+    "gp": 15,
     "g": 7,
     "a": 3,
     "pts": 10,
-    "plus_minus": -1,
+    "plus_minus": -2,
     "pim": 11
   },
   {
     "name": "Martin Chromiak",
     "position": "F",
-    "gp": 14,
+    "gp": 15,
     "g": 5,
     "a": 4,
     "pts": 9,
-    "plus_minus": 1,
+    "plus_minus": 0,
     "pim": 6
   },
   {
@@ -52,12 +52,12 @@
   {
     "name": "Joe Hicketts",
     "position": "D",
-    "gp": 14,
+    "gp": 15,
     "g": 2,
     "a": 7,
     "pts": 9,
-    "plus_minus": 1,
-    "pim": 14
+    "plus_minus": 0,
+    "pim": 16
   },
   {
     "name": "Kenny Connors",
@@ -82,41 +82,41 @@
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 14,
+    "gp": 15,
     "g": 4,
     "a": 3,
     "pts": 7,
-    "plus_minus": -2,
+    "plus_minus": -3,
     "pim": 4
   },
   {
     "name": "Samuel Bolduc",
     "position": "D",
-    "gp": 13,
+    "gp": 14,
     "g": 4,
     "a": 2,
     "pts": 6,
-    "plus_minus": 1,
+    "plus_minus": 0,
     "pim": 12
   },
   {
     "name": "Cole Guttman",
     "position": "F",
-    "gp": 14,
+    "gp": 15,
     "g": 2,
     "a": 4,
     "pts": 6,
     "plus_minus": 2,
-    "pim": 10
+    "pim": 12
   },
   {
     "name": "Jack Hughes",
     "position": "F",
-    "gp": 11,
+    "gp": 12,
     "g": 1,
     "a": 4,
     "pts": 5,
-    "plus_minus": 1,
+    "plus_minus": 0,
     "pim": 12
   },
   {
@@ -132,11 +132,11 @@
   {
     "name": "Koehn Ziemmer",
     "position": "F",
-    "gp": 7,
+    "gp": 8,
     "g": 1,
     "a": 3,
     "pts": 4,
-    "plus_minus": 2,
+    "plus_minus": 1,
     "pim": 4
   },
   {
@@ -162,21 +162,21 @@
   {
     "name": "Kirill Kirsanov",
     "position": "D",
-    "gp": 14,
+    "gp": 15,
     "g": 0,
     "a": 2,
     "pts": 2,
-    "plus_minus": 3,
+    "plus_minus": 2,
     "pim": 0
   },
   {
     "name": "Kyle Burroughs",
     "position": "D",
-    "gp": 5,
+    "gp": 6,
     "g": 1,
     "a": 0,
     "pts": 1,
-    "plus_minus": 3,
+    "plus_minus": 2,
     "pim": 2
   },
   {
