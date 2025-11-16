@@ -7,7 +7,7 @@
       "g": 4,
       "a": 8,
       "pts": 12,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 2
     },
     {
@@ -27,7 +27,7 @@
       "g": 3,
       "a": 8,
       "pts": 11,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 14
     },
     {
@@ -37,7 +37,7 @@
       "g": 7,
       "a": 3,
       "pts": 10,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 11
     },
     {
@@ -67,7 +67,7 @@
       "g": 2,
       "a": 7,
       "pts": 9,
-      "plus_minus": 0,
+      "plus_minus": -2,
       "pim": 16
     },
     {
@@ -77,13 +77,13 @@
       "g": 4,
       "a": 4,
       "pts": 8,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 4
     },
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 14,
+      "gp": 15,
       "g": 2,
       "a": 6,
       "pts": 8,
@@ -97,7 +97,7 @@
       "g": 2,
       "a": 5,
       "pts": 7,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 12
     },
     {
@@ -107,7 +107,7 @@
       "g": 4,
       "a": 2,
       "pts": 6,
-      "plus_minus": 0,
+      "plus_minus": -2,
       "pim": 12
     },
     {
@@ -123,7 +123,7 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 14,
+      "gp": 15,
       "g": 3,
       "a": 1,
       "pts": 4,
@@ -143,12 +143,12 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 11,
+      "gp": 12,
       "g": 2,
       "a": 1,
       "pts": 3,
       "plus_minus": 7,
-      "pim": 2
+      "pim": 4
     },
     {
       "name": "Jack Millar",
@@ -203,7 +203,7 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -253,7 +253,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -277,14 +277,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 7,
-      "min": "388:07",
-      "ga": 24,
+      "min": "406:22",
+      "ga": 26,
       "so": 0,
-      "gaa": 3.71,
+      "gaa": 3.84,
       "w": 2,
-      "l": 4,
+      "l": 5,
       "ot": 0,
-      "sv_percent": 0.876
+      "sv_percent": 0.87
     }
   ]
 }
