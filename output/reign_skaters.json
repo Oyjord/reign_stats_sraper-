@@ -4,10 +4,30 @@
     "position": "F",
     "gp": 15,
     "g": 4,
-    "a": 7,
-    "pts": 11,
+    "a": 8,
+    "pts": 12,
     "plus_minus": -3,
     "pim": 2
+  },
+  {
+    "name": "Andre Lee",
+    "position": "F",
+    "gp": 15,
+    "g": 5,
+    "a": 6,
+    "pts": 11,
+    "plus_minus": 0,
+    "pim": 4
+  },
+  {
+    "name": "Glenn Gawdin",
+    "position": "F",
+    "gp": 15,
+    "g": 3,
+    "a": 8,
+    "pts": 11,
+    "plus_minus": 1,
+    "pim": 14
   },
   {
     "name": "Taylor Ward",
@@ -23,31 +43,21 @@
     "name": "Martin Chromiak",
     "position": "F",
     "gp": 15,
-    "g": 5,
+    "g": 6,
     "a": 4,
-    "pts": 9,
+    "pts": 10,
     "plus_minus": 0,
     "pim": 6
   },
   {
-    "name": "Glenn Gawdin",
+    "name": "Kenny Connors",
     "position": "F",
-    "gp": 14,
+    "gp": 15,
     "g": 3,
     "a": 6,
     "pts": 9,
-    "plus_minus": 1,
-    "pim": 14
-  },
-  {
-    "name": "Andre Lee",
-    "position": "F",
-    "gp": 14,
-    "g": 3,
-    "a": 6,
-    "pts": 9,
-    "plus_minus": 0,
-    "pim": 4
+    "plus_minus": 11,
+    "pim": 8
   },
   {
     "name": "Joe Hicketts",
@@ -60,14 +70,14 @@
     "pim": 16
   },
   {
-    "name": "Kenny Connors",
+    "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 14,
-    "g": 3,
-    "a": 5,
+    "gp": 15,
+    "g": 4,
+    "a": 4,
     "pts": 8,
-    "plus_minus": 11,
-    "pim": 6
+    "plus_minus": -3,
+    "pim": 4
   },
   {
     "name": "Francesco Pinelli",
@@ -80,14 +90,14 @@
     "pim": 10
   },
   {
-    "name": "Aatu Jämsen",
+    "name": "Cole Guttman",
     "position": "F",
     "gp": 15,
-    "g": 4,
-    "a": 3,
+    "g": 2,
+    "a": 5,
     "pts": 7,
-    "plus_minus": -3,
-    "pim": 4
+    "plus_minus": 2,
+    "pim": 12
   },
   {
     "name": "Samuel Bolduc",
@@ -97,16 +107,6 @@
     "a": 2,
     "pts": 6,
     "plus_minus": 0,
-    "pim": 12
-  },
-  {
-    "name": "Cole Guttman",
-    "position": "F",
-    "gp": 15,
-    "g": 2,
-    "a": 4,
-    "pts": 6,
-    "plus_minus": 2,
     "pim": 12
   },
   {
@@ -177,7 +177,7 @@
     "a": 0,
     "pts": 1,
     "plus_minus": 2,
-    "pim": 2
+    "pim": 4
   },
   {
     "name": "Otto Salin",
