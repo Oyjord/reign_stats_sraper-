@@ -2,7 +2,7 @@ require "httparty"
 require "json"
 require "fileutils"
 
-url = "https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&view=players&season=90&team=403&position=goalies&rookies=0&statsType=standard&rosterstatus=undefined&site_id=3&first=0&limit=20&sort=points&league_id=4&lang=en&division=-1&conference=-1&qualified=qualified&key=ccb91f29d6744675&client_code=ahl&league_id=4&callback=angular.callbacks._4"
+url = "https://lscluster.hockeytech.com/feed/index.php?feed=statviewfeed&view=players&season=90&team=403&position=goalies&rookies=0&statsType=standard&rosterstatus=undefined&site_id=3&first=0&limit=20&sort=points&league_id=4&lang=en&division=-1&conference=-1&qualified=all&key=ccb91f29d6744675&client_code=ahl&league_id=4&callback=angular.callbacks._4"
 
 FileUtils.mkdir_p("output")
 response = HTTParty.get(url)
