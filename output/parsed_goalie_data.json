@@ -311,6 +311,48 @@
                 "rookie": "0"
               },
               "name": {
+                "playerLink": "9052",
+                "seoName": "Isaiah Saville"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "9052",
+              "rookie": "0",
+              "name": "Isaiah Saville",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "2",
+              "minutes_played": "70:38",
+              "saves": "16",
+              "shots": "18",
+              "save_percentage": "0.889",
+              "goals_against": "2",
+              "shutouts": "0",
+              "wins": "2",
+              "losses": "0",
+              "ot_losses": "0",
+              "shootout_goals_against": "0",
+              "shootout_attempts": "0",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.000",
+              "goals_against_average": "1.70",
+              "rank": 1
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
+                "rookie": "0"
+              },
+              "name": {
                 "playerLink": "9733",
                 "seoName": "Erik Portillo"
               },
@@ -344,7 +386,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "2.26",
-              "rank": 1
+              "rank": 2
             }
           },
           {
@@ -386,7 +428,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "3.60",
-              "rank": 2
+              "rank": 3
             }
           },
           {
@@ -403,20 +445,20 @@
           {
             "prop": [],
             "row": {
-              "games_played": "15",
-              "minutes_played": 967,
-              "saves": "382",
-              "shots": "428",
-              "save_percentage": "0.893",
-              "goals_against": "46",
+              "games_played": "17",
+              "minutes_played": 1038,
+              "saves": "398",
+              "shots": "446",
+              "save_percentage": "0.892",
+              "goals_against": "48",
               "shutouts": 0,
-              "wins": "8",
+              "wins": "10",
               "losses": "6",
               "ot_losses": "1",
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.89",
+              "goals_against_average": "2.80",
               "name": "Totals "
             }
           }
