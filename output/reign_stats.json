@@ -1,13 +1,23 @@
 {
   "skaters": [
     {
-      "name": "Andre Lee",
+      "name": "Martin Chromiak",
       "position": "F",
       "gp": 18,
       "g": 6,
       "a": 8,
       "pts": 14,
       "plus_minus": 0,
+      "pim": 6
+    },
+    {
+      "name": "Andre Lee",
+      "position": "F",
+      "gp": 18,
+      "g": 6,
+      "a": 8,
+      "pts": 14,
+      "plus_minus": 1,
       "pim": 6
     },
     {
@@ -21,16 +31,6 @@
       "pim": 13
     },
     {
-      "name": "Martin Chromiak",
-      "position": "F",
-      "gp": 18,
-      "g": 6,
-      "a": 7,
-      "pts": 13,
-      "plus_minus": 1,
-      "pim": 6
-    },
-    {
       "name": "Akil Thomas",
       "position": "F",
       "gp": 18,
@@ -39,6 +39,16 @@
       "pts": 13,
       "plus_minus": -4,
       "pim": 2
+    },
+    {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 18,
+      "g": 3,
+      "a": 9,
+      "pts": 12,
+      "plus_minus": 0,
+      "pim": 18
     },
     {
       "name": "Kenny Connors",
@@ -51,14 +61,14 @@
       "pim": 13
     },
     {
-      "name": "Glenn Gawdin",
+      "name": "Cole Guttman",
       "position": "F",
       "gp": 18,
-      "g": 3,
-      "a": 8,
-      "pts": 11,
-      "plus_minus": -1,
-      "pim": 18
+      "g": 4,
+      "a": 6,
+      "pts": 10,
+      "plus_minus": 1,
+      "pim": 14
     },
     {
       "name": "Joe Hicketts",
@@ -71,16 +81,6 @@
       "pim": 23
     },
     {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 18,
-      "g": 3,
-      "a": 6,
-      "pts": 9,
-      "plus_minus": 1,
-      "pim": 14
-    },
-    {
       "name": "Aatu Jämsen",
       "position": "F",
       "gp": 18,
@@ -88,12 +88,12 @@
       "a": 4,
       "pts": 8,
       "plus_minus": -5,
-      "pim": 4
+      "pim": 6
     },
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 15,
+      "gp": 16,
       "g": 2,
       "a": 6,
       "pts": 8,
@@ -107,18 +107,28 @@
       "g": 4,
       "a": 3,
       "pts": 7,
-      "plus_minus": -3,
+      "plus_minus": -4,
       "pim": 12
     },
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 17,
+      "gp": 18,
       "g": 5,
       "a": 1,
       "pts": 6,
       "plus_minus": 11,
       "pim": 7
+    },
+    {
+      "name": "Kyle Burroughs",
+      "position": "D",
+      "gp": 9,
+      "g": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": 5,
+      "pim": 4
     },
     {
       "name": "Jack Hughes",
@@ -133,7 +143,7 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 10,
+      "gp": 11,
       "g": 1,
       "a": 3,
       "pts": 4,
@@ -151,14 +161,14 @@
       "pim": 4
     },
     {
-      "name": "Kyle Burroughs",
+      "name": "Angus Booth",
       "position": "D",
       "gp": 8,
       "g": 1,
-      "a": 2,
-      "pts": 3,
-      "plus_minus": 4,
-      "pim": 4
+      "a": 1,
+      "pts": 2,
+      "plus_minus": 3,
+      "pim": 6
     },
     {
       "name": "Jack Millar",
@@ -173,11 +183,11 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 17,
+      "gp": 18,
       "g": 0,
       "a": 2,
       "pts": 2,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 0
     },
     {
@@ -201,16 +211,6 @@
       "pim": 0
     },
     {
-      "name": "Angus Booth",
-      "position": "D",
-      "gp": 7,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": 2,
-      "pim": 6
-    },
-    {
       "name": "Jacob Doty",
       "position": "F",
       "gp": 8,
@@ -229,6 +229,16 @@
       "pts": 1,
       "plus_minus": 0,
       "pim": 0
+    },
+    {
+      "name": "Logan Brown",
+      "position": "F",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": -1,
+      "pim": 2
     },
     {
       "name": "Kenta Isogai",
@@ -263,7 +273,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 8,
+      "gp": 9,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -299,14 +309,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 9,
-      "min": "466:20",
-      "ga": 28,
+      "min": "526:20",
+      "ga": 31,
       "so": 0,
-      "gaa": 3.6,
-      "w": 3,
+      "gaa": 3.53,
+      "w": 4,
       "l": 5,
       "ot": 0,
-      "sv_percent": 0.871
+      "sv_percent": 0.878
     }
   ]
 }
