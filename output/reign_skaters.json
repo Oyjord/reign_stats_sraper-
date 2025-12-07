@@ -1,43 +1,43 @@
 [
   {
+    "name": "Andre Lee",
+    "position": "F",
+    "gp": 20,
+    "g": 7,
+    "a": 9,
+    "pts": 16,
+    "plus_minus": 1,
+    "pim": 8
+  },
+  {
     "name": "Martin Chromiak",
     "position": "F",
-    "gp": 19,
-    "g": 6,
+    "gp": 20,
+    "g": 7,
     "a": 8,
-    "pts": 14,
+    "pts": 15,
     "plus_minus": 0,
     "pim": 6
   },
   {
-    "name": "Andre Lee",
+    "name": "Taylor Ward",
     "position": "F",
-    "gp": 19,
-    "g": 6,
-    "a": 8,
+    "gp": 20,
+    "g": 10,
+    "a": 4,
     "pts": 14,
-    "plus_minus": 0,
-    "pim": 8
+    "plus_minus": -2,
+    "pim": 13
   },
   {
     "name": "Nikita Alexandrov",
     "position": "F",
-    "gp": 18,
+    "gp": 19,
     "g": 3,
     "a": 11,
     "pts": 14,
     "plus_minus": -10,
     "pim": 8
-  },
-  {
-    "name": "Taylor Ward",
-    "position": "F",
-    "gp": 19,
-    "g": 10,
-    "a": 3,
-    "pts": 13,
-    "plus_minus": -3,
-    "pim": 13
   },
   {
     "name": "Akil Thomas",
@@ -52,7 +52,7 @@
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 19,
+    "gp": 20,
     "g": 3,
     "a": 10,
     "pts": 13,
@@ -62,47 +62,57 @@
   {
     "name": "Cole Guttman",
     "position": "F",
-    "gp": 19,
+    "gp": 20,
     "g": 5,
-    "a": 6,
-    "pts": 11,
+    "a": 7,
+    "pts": 12,
     "plus_minus": 0,
     "pim": 14
   },
   {
     "name": "Kenny Connors",
     "position": "F",
-    "gp": 19,
+    "gp": 20,
     "g": 4,
-    "a": 7,
-    "pts": 11,
-    "plus_minus": 13,
+    "a": 8,
+    "pts": 12,
+    "plus_minus": 14,
     "pim": 13
   },
   {
     "name": "Joe Hicketts",
     "position": "D",
-    "gp": 19,
+    "gp": 20,
     "g": 2,
     "a": 8,
     "pts": 10,
-    "plus_minus": -3,
+    "plus_minus": -4,
     "pim": 23
+  },
+  {
+    "name": "Samuel Bolduc",
+    "position": "D",
+    "gp": 19,
+    "g": 4,
+    "a": 5,
+    "pts": 9,
+    "plus_minus": -3,
+    "pim": 12
   },
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 19,
+    "gp": 20,
     "g": 4,
     "a": 4,
     "pts": 8,
-    "plus_minus": -5,
+    "plus_minus": -6,
     "pim": 6
   },
   {
     "name": "Francesco Pinelli",
     "position": "F",
-    "gp": 17,
+    "gp": 18,
     "g": 2,
     "a": 6,
     "pts": 8,
@@ -110,23 +120,13 @@
     "pim": 10
   },
   {
-    "name": "Samuel Bolduc",
-    "position": "D",
-    "gp": 18,
-    "g": 4,
-    "a": 3,
-    "pts": 7,
-    "plus_minus": -5,
-    "pim": 12
-  },
-  {
     "name": "Jared Wright",
     "position": "F",
-    "gp": 19,
+    "gp": 20,
     "g": 5,
     "a": 1,
     "pts": 6,
-    "plus_minus": 11,
+    "plus_minus": 12,
     "pim": 7
   },
   {
@@ -170,6 +170,16 @@
     "pim": 6
   },
   {
+    "name": "Kirill Kirsanov",
+    "position": "D",
+    "gp": 20,
+    "g": 1,
+    "a": 2,
+    "pts": 3,
+    "plus_minus": 4,
+    "pim": 2
+  },
+  {
     "name": "Angus Booth",
     "position": "D",
     "gp": 9,
@@ -190,24 +200,14 @@
     "pim": 7
   },
   {
-    "name": "Kirill Kirsanov",
-    "position": "D",
-    "gp": 19,
-    "g": 0,
-    "a": 2,
-    "pts": 2,
-    "plus_minus": 2,
-    "pim": 0
-  },
-  {
     "name": "Otto Salin",
     "position": "D",
-    "gp": 11,
+    "gp": 12,
     "g": 1,
     "a": 0,
     "pts": 1,
-    "plus_minus": -1,
-    "pim": 8
+    "plus_minus": -2,
+    "pim": 10
   },
   {
     "name": "Kaleb Lawrence",
