@@ -1,6 +1,16 @@
 {
   "skaters": [
     {
+      "name": "Martin Chromiak",
+      "position": "F",
+      "gp": 20,
+      "g": 7,
+      "a": 9,
+      "pts": 16,
+      "plus_minus": 2,
+      "pim": 6
+    },
+    {
       "name": "Andre Lee",
       "position": "F",
       "gp": 20,
@@ -11,14 +21,14 @@
       "pim": 8
     },
     {
-      "name": "Martin Chromiak",
+      "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 20,
-      "g": 7,
-      "a": 8,
+      "gp": 19,
+      "g": 4,
+      "a": 11,
       "pts": 15,
-      "plus_minus": 0,
-      "pim": 6
+      "plus_minus": -9,
+      "pim": 8
     },
     {
       "name": "Taylor Ward",
@@ -27,18 +37,8 @@
       "g": 10,
       "a": 4,
       "pts": 14,
-      "plus_minus": -2,
+      "plus_minus": 0,
       "pim": 13
-    },
-    {
-      "name": "Nikita Alexandrov",
-      "position": "F",
-      "gp": 19,
-      "g": 3,
-      "a": 11,
-      "pts": 14,
-      "plus_minus": -10,
-      "pim": 8
     },
     {
       "name": "Akil Thomas",
@@ -81,6 +81,26 @@
       "pim": 13
     },
     {
+      "name": "Samuel Bolduc",
+      "position": "D",
+      "gp": 19,
+      "g": 4,
+      "a": 6,
+      "pts": 10,
+      "plus_minus": -2,
+      "pim": 12
+    },
+    {
+      "name": "Francesco Pinelli",
+      "position": "F",
+      "gp": 18,
+      "g": 3,
+      "a": 7,
+      "pts": 10,
+      "plus_minus": 2,
+      "pim": 10
+    },
+    {
       "name": "Joe Hicketts",
       "position": "D",
       "gp": 20,
@@ -91,16 +111,6 @@
       "pim": 23
     },
     {
-      "name": "Samuel Bolduc",
-      "position": "D",
-      "gp": 19,
-      "g": 4,
-      "a": 5,
-      "pts": 9,
-      "plus_minus": -3,
-      "pim": 12
-    },
-    {
       "name": "Aatu Jämsen",
       "position": "F",
       "gp": 20,
@@ -109,16 +119,6 @@
       "pts": 8,
       "plus_minus": -6,
       "pim": 6
-    },
-    {
-      "name": "Francesco Pinelli",
-      "position": "F",
-      "gp": 18,
-      "g": 2,
-      "a": 6,
-      "pts": 8,
-      "plus_minus": 0,
-      "pim": 10
     },
     {
       "name": "Jared Wright",
@@ -133,32 +133,42 @@
     {
       "name": "Kyle Burroughs",
       "position": "D",
-      "gp": 10,
+      "gp": 11,
       "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": 5,
+      "a": 5,
+      "pts": 6,
+      "plus_minus": 7,
       "pim": 4
-    },
-    {
-      "name": "Jack Hughes",
-      "position": "F",
-      "gp": 15,
-      "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": -1,
-      "pim": 12
     },
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 11,
+      "gp": 12,
       "g": 1,
-      "a": 3,
-      "pts": 4,
-      "plus_minus": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": 2,
       "pim": 9
+    },
+    {
+      "name": "Jack Hughes",
+      "position": "F",
+      "gp": 16,
+      "g": 1,
+      "a": 4,
+      "pts": 5,
+      "plus_minus": 0,
+      "pim": 12
+    },
+    {
+      "name": "Kirill Kirsanov",
+      "position": "D",
+      "gp": 20,
+      "g": 2,
+      "a": 2,
+      "pts": 4,
+      "plus_minus": 5,
+      "pim": 2
     },
     {
       "name": "Jakub Dvořák",
@@ -171,23 +181,13 @@
       "pim": 6
     },
     {
-      "name": "Kirill Kirsanov",
-      "position": "D",
-      "gp": 20,
-      "g": 1,
-      "a": 2,
-      "pts": 3,
-      "plus_minus": 4,
-      "pim": 2
-    },
-    {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 9,
+      "gp": 10,
       "g": 1,
       "a": 1,
       "pts": 2,
-      "plus_minus": 3,
+      "plus_minus": 4,
       "pim": 6
     },
     {
@@ -207,8 +207,8 @@
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": -2,
-      "pim": 10
+      "plus_minus": -1,
+      "pim": 14
     },
     {
       "name": "Kaleb Lawrence",
@@ -319,14 +319,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 11,
-      "min": "586:16",
-      "ga": 34,
+      "min": "626:30",
+      "ga": 35,
       "so": 0,
-      "gaa": 3.48,
+      "gaa": 3.35,
       "w": 4,
       "l": 6,
       "ot": 0,
-      "sv_percent": 0.878
+      "sv_percent": 0.879
     }
   ]
 }
