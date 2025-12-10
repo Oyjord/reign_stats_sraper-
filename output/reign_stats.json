@@ -24,10 +24,10 @@
       "name": "Nikita Alexandrov",
       "position": "F",
       "gp": 21,
-      "g": 5,
+      "g": 6,
       "a": 11,
-      "pts": 16,
-      "plus_minus": -8,
+      "pts": 17,
+      "plus_minus": -7,
       "pim": 8
     },
     {
@@ -35,8 +35,8 @@
       "position": "F",
       "gp": 22,
       "g": 10,
-      "a": 4,
-      "pts": 14,
+      "a": 5,
+      "pts": 15,
       "plus_minus": 0,
       "pim": 17
     },
@@ -44,9 +44,9 @@
       "name": "Kenny Connors",
       "position": "F",
       "gp": 22,
-      "g": 5,
+      "g": 6,
       "a": 9,
-      "pts": 14,
+      "pts": 15,
       "plus_minus": 16,
       "pim": 15
     },
@@ -57,8 +57,18 @@
       "g": 5,
       "a": 9,
       "pts": 14,
-      "plus_minus": 2,
+      "plus_minus": 3,
       "pim": 14
+    },
+    {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 22,
+      "g": 3,
+      "a": 11,
+      "pts": 14,
+      "plus_minus": 0,
+      "pim": 35
     },
     {
       "name": "Akil Thomas",
@@ -71,14 +81,14 @@
       "pim": 2
     },
     {
-      "name": "Glenn Gawdin",
+      "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 22,
-      "g": 3,
-      "a": 10,
-      "pts": 13,
-      "plus_minus": -1,
-      "pim": 35
+      "gp": 20,
+      "g": 4,
+      "a": 7,
+      "pts": 11,
+      "plus_minus": 4,
+      "pim": 10
     },
     {
       "name": "Samuel Bolduc",
@@ -97,37 +107,27 @@
       "g": 3,
       "a": 8,
       "pts": 11,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 23
-    },
-    {
-      "name": "Francesco Pinelli",
-      "position": "F",
-      "gp": 20,
-      "g": 3,
-      "a": 7,
-      "pts": 10,
-      "plus_minus": 3,
-      "pim": 10
     },
     {
       "name": "Jared Wright",
       "position": "F",
       "gp": 22,
       "g": 5,
-      "a": 3,
-      "pts": 8,
-      "plus_minus": 13,
+      "a": 4,
+      "pts": 9,
+      "plus_minus": 14,
       "pim": 7
     },
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 21,
+      "gp": 22,
       "g": 4,
       "a": 4,
       "pts": 8,
-      "plus_minus": -6,
+      "plus_minus": -7,
       "pim": 6
     },
     {
@@ -137,18 +137,28 @@
       "g": 1,
       "a": 5,
       "pts": 6,
-      "plus_minus": 6,
-      "pim": 4
+      "plus_minus": 8,
+      "pim": 6
     },
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 13,
+      "gp": 14,
+      "g": 1,
+      "a": 5,
+      "pts": 6,
+      "plus_minus": 2,
+      "pim": 9
+    },
+    {
+      "name": "Angus Booth",
+      "position": "D",
+      "gp": 12,
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": 2,
-      "pim": 9
+      "plus_minus": 4,
+      "pim": 8
     },
     {
       "name": "Jack Hughes",
@@ -181,16 +191,6 @@
       "pim": 6
     },
     {
-      "name": "Angus Booth",
-      "position": "D",
-      "gp": 12,
-      "g": 1,
-      "a": 2,
-      "pts": 3,
-      "plus_minus": 3,
-      "pim": 8
-    },
-    {
       "name": "Jack Millar",
       "position": "D",
       "gp": 13,
@@ -207,7 +207,7 @@
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 16
     },
     {
@@ -283,7 +283,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 11,
+      "gp": 12,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -319,14 +319,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 12,
-      "min": "646:16",
-      "ga": 35,
+      "min": "706:16",
+      "ga": 38,
       "so": 0,
-      "gaa": 3.25,
-      "w": 5,
+      "gaa": 3.23,
+      "w": 6,
       "l": 6,
       "ot": 0,
-      "sv_percent": 0.883
+      "sv_percent": 0.881
     }
   ]
 }

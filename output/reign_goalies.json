@@ -26,13 +26,13 @@
   {
     "name": "Pheonix Copley",
     "gp": 12,
-    "min": "646:16",
-    "ga": 35,
+    "min": "706:16",
+    "ga": 38,
     "so": 0,
-    "gaa": 3.25,
-    "w": 5,
+    "gaa": 3.23,
+    "w": 6,
     "l": 6,
     "ot": 0,
-    "sv_percent": 0.883
+    "sv_percent": 0.881
   }
 ]
