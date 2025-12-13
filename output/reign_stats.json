@@ -133,12 +133,12 @@
     {
       "name": "Kyle Burroughs",
       "position": "D",
-      "gp": 13,
+      "gp": 14,
       "g": 1,
       "a": 6,
       "pts": 7,
       "plus_minus": 8,
-      "pim": 6
+      "pim": 8
     },
     {
       "name": "Koehn Ziemmer",
@@ -318,15 +318,15 @@
     },
     {
       "name": "Pheonix Copley",
-      "gp": 12,
-      "min": "706:16",
+      "gp": 13,
+      "min": "726:16",
       "ga": 38,
       "so": 0,
-      "gaa": 3.23,
+      "gaa": 3.14,
       "w": 6,
       "l": 6,
       "ot": 0,
-      "sv_percent": 0.881
+      "sv_percent": 0.885
     }
   ]
 }
