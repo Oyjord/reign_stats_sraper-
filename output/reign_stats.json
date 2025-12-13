@@ -3,12 +3,12 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 22,
+      "gp": 23,
       "g": 8,
       "a": 10,
       "pts": 18,
       "plus_minus": 3,
-      "pim": 8
+      "pim": 10
     },
     {
       "name": "Martin Chromiak",
@@ -33,21 +33,21 @@
     {
       "name": "Taylor Ward",
       "position": "F",
-      "gp": 22,
-      "g": 10,
+      "gp": 23,
+      "g": 11,
       "a": 5,
-      "pts": 15,
-      "plus_minus": 0,
+      "pts": 16,
+      "plus_minus": 1,
       "pim": 17
     },
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 22,
+      "gp": 23,
       "g": 6,
       "a": 9,
       "pts": 15,
-      "plus_minus": 16,
+      "plus_minus": 15,
       "pim": 15
     },
     {
@@ -63,11 +63,11 @@
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 22,
+      "gp": 23,
       "g": 3,
       "a": 11,
       "pts": 14,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 35
     },
     {
@@ -83,21 +83,21 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 20,
-      "g": 4,
-      "a": 7,
-      "pts": 11,
-      "plus_minus": 4,
-      "pim": 10
-    },
-    {
-      "name": "Samuel Bolduc",
-      "position": "D",
       "gp": 21,
       "g": 4,
       "a": 7,
       "pts": 11,
-      "plus_minus": -1,
+      "plus_minus": 5,
+      "pim": 12
+    },
+    {
+      "name": "Samuel Bolduc",
+      "position": "D",
+      "gp": 22,
+      "g": 4,
+      "a": 7,
+      "pts": 11,
+      "plus_minus": 0,
       "pim": 12
     },
     {
@@ -113,11 +113,11 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 22,
+      "gp": 23,
       "g": 5,
       "a": 4,
       "pts": 9,
-      "plus_minus": 14,
+      "plus_minus": 13,
       "pim": 7
     },
     {
@@ -153,11 +153,11 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 12,
+      "gp": 13,
       "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 8
     },
     {
