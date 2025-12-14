@@ -13,11 +13,11 @@
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 23,
+      "gp": 24,
       "g": 8,
       "a": 9,
       "pts": 17,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 6
     },
     {
@@ -27,28 +27,28 @@
       "g": 6,
       "a": 11,
       "pts": 17,
-      "plus_minus": -9,
+      "plus_minus": -10,
       "pim": 8
-    },
-    {
-      "name": "Taylor Ward",
-      "position": "F",
-      "gp": 23,
-      "g": 11,
-      "a": 5,
-      "pts": 16,
-      "plus_minus": 1,
-      "pim": 17
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
       "gp": 24,
-      "g": 5,
+      "g": 6,
       "a": 11,
-      "pts": 16,
-      "plus_minus": -2,
+      "pts": 17,
+      "plus_minus": -1,
       "pim": 35
+    },
+    {
+      "name": "Taylor Ward",
+      "position": "F",
+      "gp": 24,
+      "g": 11,
+      "a": 5,
+      "pts": 16,
+      "plus_minus": 0,
+      "pim": 19
     },
     {
       "name": "Kenny Connors",
@@ -83,22 +83,22 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 22,
+      "gp": 23,
       "g": 4,
       "a": 9,
       "pts": 13,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 12
     },
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 21,
+      "gp": 22,
       "g": 4,
       "a": 7,
       "pts": 11,
       "plus_minus": 5,
-      "pim": 12
+      "pim": 14
     },
     {
       "name": "Joe Hicketts",
@@ -107,7 +107,7 @@
       "g": 3,
       "a": 8,
       "pts": 11,
-      "plus_minus": -4,
+      "plus_minus": -5,
       "pim": 23
     },
     {
@@ -133,11 +133,11 @@
     {
       "name": "Kyle Burroughs",
       "position": "D",
-      "gp": 14,
+      "gp": 15,
       "g": 1,
       "a": 6,
       "pts": 7,
-      "plus_minus": 8,
+      "plus_minus": 9,
       "pim": 8
     },
     {
@@ -151,24 +151,24 @@
       "pim": 9
     },
     {
-      "name": "Angus Booth",
-      "position": "D",
-      "gp": 13,
-      "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": 4,
-      "pim": 8
-    },
-    {
       "name": "Jack Hughes",
       "position": "F",
       "gp": 20,
       "g": 1,
+      "a": 5,
+      "pts": 6,
+      "plus_minus": 0,
+      "pim": 16
+    },
+    {
+      "name": "Angus Booth",
+      "position": "D",
+      "gp": 14,
+      "g": 1,
       "a": 4,
       "pts": 5,
-      "plus_minus": -1,
-      "pim": 16
+      "plus_minus": 3,
+      "pim": 8
     },
     {
       "name": "Kirill Kirsanov",
@@ -183,11 +183,11 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 15,
+      "gp": 16,
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": 7,
+      "plus_minus": 6,
       "pim": 6
     },
     {
@@ -207,7 +207,7 @@
       "g": 1,
       "a": 0,
       "pts": 1,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 16
     },
     {
@@ -293,18 +293,6 @@
   ],
   "goalies": [
     {
-      "name": "Isaiah Saville",
-      "gp": 4,
-      "min": "133:17",
-      "ga": 3,
-      "so": 0,
-      "gaa": 1.35,
-      "w": 3,
-      "l": 0,
-      "ot": 0,
-      "sv_percent": 0.912
-    },
-    {
       "name": "Erik Portillo",
       "gp": 9,
       "min": "477:41",
@@ -315,6 +303,18 @@
       "l": 1,
       "ot": 1,
       "sv_percent": 0.915
+    },
+    {
+      "name": "Isaiah Saville",
+      "gp": 4,
+      "min": "173:16",
+      "ga": 7,
+      "so": 0,
+      "gaa": 2.42,
+      "w": 3,
+      "l": 0,
+      "ot": 0,
+      "sv_percent": 0.883
     },
     {
       "name": "Pheonix Copley",
