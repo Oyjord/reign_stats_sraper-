@@ -47,28 +47,28 @@
       "g": 11,
       "a": 5,
       "pts": 16,
-      "plus_minus": -2,
+      "plus_minus": -1,
       "pim": 19
-    },
-    {
-      "name": "Kenny Connors",
-      "position": "F",
-      "gp": 23,
-      "g": 6,
-      "a": 9,
-      "pts": 15,
-      "plus_minus": 15,
-      "pim": 15
     },
     {
       "name": "Cole Guttman",
       "position": "F",
       "gp": 24,
       "g": 5,
-      "a": 10,
-      "pts": 15,
+      "a": 11,
+      "pts": 16,
       "plus_minus": 1,
       "pim": 14
+    },
+    {
+      "name": "Kenny Connors",
+      "position": "F",
+      "gp": 24,
+      "g": 6,
+      "a": 9,
+      "pts": 15,
+      "plus_minus": 15,
+      "pim": 15
     },
     {
       "name": "Akil Thomas",
@@ -113,7 +113,7 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 23,
+      "gp": 24,
       "g": 5,
       "a": 4,
       "pts": 9,
@@ -143,7 +143,7 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 15,
+      "gp": 16,
       "g": 1,
       "a": 5,
       "pts": 6,
@@ -187,7 +187,7 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 6
     },
     {
@@ -273,7 +273,7 @@
     {
       "name": "Isaiah Saville",
       "position": "G",
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -307,14 +307,14 @@
     {
       "name": "Isaiah Saville",
       "gp": 4,
-      "min": "173:16",
-      "ga": 7,
+      "min": "193:16",
+      "ga": 9,
       "so": 0,
-      "gaa": 2.42,
+      "gaa": 2.79,
       "w": 3,
-      "l": 0,
+      "l": 1,
       "ot": 0,
-      "sv_percent": 0.883
+      "sv_percent": 0.866
     },
     {
       "name": "Pheonix Copley",
