@@ -1,5 +1,17 @@
 [
   {
+    "name": "Isaiah Saville",
+    "gp": 5,
+    "min": "253:16",
+    "ga": 9,
+    "so": 1,
+    "gaa": 2.13,
+    "w": 4,
+    "l": 1,
+    "ot": 0,
+    "sv_percent": 0.895
+  },
+  {
     "name": "Erik Portillo",
     "gp": 9,
     "min": "477:41",
@@ -10,18 +22,6 @@
     "l": 1,
     "ot": 1,
     "sv_percent": 0.915
-  },
-  {
-    "name": "Isaiah Saville",
-    "gp": 5,
-    "min": "193:16",
-    "ga": 9,
-    "so": 0,
-    "gaa": 2.79,
-    "w": 3,
-    "l": 1,
-    "ot": 0,
-    "sv_percent": 0.866
   },
   {
     "name": "Pheonix Copley",

@@ -311,6 +311,48 @@
                 "rookie": "0"
               },
               "name": {
+                "playerLink": "9052",
+                "seoName": "Isaiah Saville"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "9052",
+              "rookie": "0",
+              "name": "Isaiah Saville",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "5",
+              "minutes_played": "253:16",
+              "saves": "77",
+              "shots": "86",
+              "save_percentage": "0.895",
+              "goals_against": "9",
+              "shutouts": "1",
+              "wins": "4",
+              "losses": "1",
+              "ot_losses": "0",
+              "shootout_goals_against": "0",
+              "shootout_attempts": "0",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.000",
+              "goals_against_average": "2.13",
+              "rank": 1
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
+                "rookie": "0"
+              },
+              "name": {
                 "playerLink": "9733",
                 "seoName": "Erik Portillo"
               },
@@ -344,48 +386,6 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "2.26",
-              "rank": 1
-            }
-          },
-          {
-            "prop": {
-              "rookie": {
-                "rookie": "0"
-              },
-              "name": {
-                "playerLink": "9052",
-                "seoName": "Isaiah Saville"
-              },
-              "active": {
-                "active": "1"
-              },
-              "team_code": {
-                "teamLink": "403"
-              }
-            },
-            "row": {
-              "player_id": "9052",
-              "rookie": "0",
-              "name": "Isaiah Saville",
-              "active": "1",
-              "team_code": "ONT",
-              "games_played": "5",
-              "minutes_played": "193:16",
-              "saves": "58",
-              "shots": "67",
-              "save_percentage": "0.866",
-              "goals_against": "9",
-              "shutouts": "0",
-              "wins": "3",
-              "losses": "1",
-              "ot_losses": "0",
-              "shootout_goals_against": "0",
-              "shootout_attempts": "0",
-              "goals": "0",
-              "assists": "0",
-              "penalty_minutes": "0",
-              "shootout_percentage": "0.000",
-              "goals_against_average": "2.79",
               "rank": 2
             }
           },
@@ -445,20 +445,20 @@
           {
             "prop": [],
             "row": {
-              "games_played": "24",
-              "minutes_played": 1461,
-              "saves": "560",
-              "shots": "628",
-              "save_percentage": "0.892",
+              "games_played": "25",
+              "minutes_played": 1521,
+              "saves": "579",
+              "shots": "647",
+              "save_percentage": "0.895",
               "goals_against": "68",
-              "shutouts": 0,
-              "wins": "15",
+              "shutouts": 1,
+              "wins": "16",
               "losses": "8",
               "ot_losses": "1",
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.81",
+              "goals_against_average": "2.70",
               "name": "Totals "
             }
           }
