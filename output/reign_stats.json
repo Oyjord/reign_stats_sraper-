@@ -13,42 +13,42 @@
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 24,
-      "g": 8,
+      "gp": 25,
+      "g": 9,
       "a": 9,
-      "pts": 17,
+      "pts": 18,
       "plus_minus": 2,
       "pim": 6
     },
     {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 25,
+      "g": 6,
+      "a": 12,
+      "pts": 18,
+      "plus_minus": -1,
+      "pim": 37
+    },
+    {
+      "name": "Taylor Ward",
+      "position": "F",
+      "gp": 25,
+      "g": 11,
+      "a": 6,
+      "pts": 17,
+      "plus_minus": -1,
+      "pim": 19
+    },
+    {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 23,
+      "gp": 24,
       "g": 6,
       "a": 11,
       "pts": 17,
       "plus_minus": -11,
       "pim": 8
-    },
-    {
-      "name": "Glenn Gawdin",
-      "position": "F",
-      "gp": 24,
-      "g": 6,
-      "a": 11,
-      "pts": 17,
-      "plus_minus": -1,
-      "pim": 35
-    },
-    {
-      "name": "Taylor Ward",
-      "position": "F",
-      "gp": 24,
-      "g": 11,
-      "a": 5,
-      "pts": 16,
-      "plus_minus": -1,
-      "pim": 19
     },
     {
       "name": "Cole Guttman",
@@ -83,7 +83,7 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 23,
+      "gp": 24,
       "g": 4,
       "a": 9,
       "pts": 13,
@@ -306,7 +306,7 @@
     },
     {
       "name": "Isaiah Saville",
-      "gp": 4,
+      "gp": 5,
       "min": "193:16",
       "ga": 9,
       "so": 0,
