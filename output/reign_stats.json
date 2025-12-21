@@ -3,31 +3,31 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 25,
-      "g": 9,
-      "a": 11,
-      "pts": 20,
-      "plus_minus": 3,
+      "gp": 26,
+      "g": 10,
+      "a": 12,
+      "pts": 22,
+      "plus_minus": 5,
       "pim": 10
     },
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 25,
-      "g": 10,
+      "gp": 26,
+      "g": 11,
       "a": 9,
-      "pts": 19,
-      "plus_minus": 3,
+      "pts": 20,
+      "plus_minus": 4,
       "pim": 6
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 25,
+      "gp": 26,
       "g": 6,
-      "a": 13,
-      "pts": 19,
-      "plus_minus": 0,
+      "a": 14,
+      "pts": 20,
+      "plus_minus": 1,
       "pim": 37
     },
     {
@@ -53,21 +53,21 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 25,
+      "gp": 26,
       "g": 5,
       "a": 11,
       "pts": 16,
-      "plus_minus": 2,
-      "pim": 14
+      "plus_minus": 3,
+      "pim": 39
     },
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 25,
+      "gp": 26,
       "g": 6,
       "a": 9,
       "pts": 15,
-      "plus_minus": 16,
+      "plus_minus": 15,
       "pim": 15
     },
     {
@@ -83,11 +83,11 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 24,
+      "gp": 25,
       "g": 4,
       "a": 9,
       "pts": 13,
-      "plus_minus": 1,
+      "plus_minus": 2,
       "pim": 12
     },
     {
@@ -113,11 +113,11 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 25,
+      "gp": 26,
       "g": 5,
       "a": 4,
       "pts": 9,
-      "plus_minus": 14,
+      "plus_minus": 13,
       "pim": 7
     },
     {
@@ -133,7 +133,7 @@
     {
       "name": "Kyle Burroughs",
       "position": "D",
-      "gp": 16,
+      "gp": 17,
       "g": 1,
       "a": 6,
       "pts": 7,
@@ -163,17 +163,17 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 22,
+      "gp": 23,
       "g": 3,
       "a": 2,
       "pts": 5,
-      "plus_minus": 6,
-      "pim": 2
+      "plus_minus": 5,
+      "pim": 4
     },
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 15,
+      "gp": 16,
       "g": 1,
       "a": 4,
       "pts": 5,
@@ -183,11 +183,11 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 17,
+      "gp": 18,
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": 6,
+      "plus_minus": 7,
       "pim": 8
     },
     {
@@ -294,15 +294,15 @@
   "goalies": [
     {
       "name": "Isaiah Saville",
-      "gp": 5,
-      "min": "253:16",
-      "ga": 9,
+      "gp": 6,
+      "min": "269:35",
+      "ga": 10,
       "so": 1,
-      "gaa": 2.13,
+      "gaa": 2.23,
       "w": 4,
       "l": 1,
       "ot": 0,
-      "sv_percent": 0.895
+      "sv_percent": 0.891
     },
     {
       "name": "Erik Portillo",

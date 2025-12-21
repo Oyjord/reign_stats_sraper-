@@ -327,12 +327,12 @@
               "name": "Isaiah Saville",
               "active": "1",
               "team_code": "ONT",
-              "games_played": "5",
-              "minutes_played": "253:16",
-              "saves": "77",
-              "shots": "86",
-              "save_percentage": "0.895",
-              "goals_against": "9",
+              "games_played": "6",
+              "minutes_played": "269:35",
+              "saves": "82",
+              "shots": "92",
+              "save_percentage": "0.891",
+              "goals_against": "10",
               "shutouts": "1",
               "wins": "4",
               "losses": "1",
@@ -343,7 +343,7 @@
               "assists": "0",
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.13",
+              "goals_against_average": "2.23",
               "rank": 1
             }
           },
@@ -446,11 +446,11 @@
             "prop": [],
             "row": {
               "games_played": "25",
-              "minutes_played": 1521,
-              "saves": "579",
-              "shots": "647",
-              "save_percentage": "0.895",
-              "goals_against": "68",
+              "minutes_played": 1538,
+              "saves": "584",
+              "shots": "653",
+              "save_percentage": "0.894",
+              "goals_against": "69",
               "shutouts": 1,
               "wins": "16",
               "losses": "8",
@@ -458,7 +458,7 @@
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "2.70",
+              "goals_against_average": "2.71",
               "name": "Totals "
             }
           }
