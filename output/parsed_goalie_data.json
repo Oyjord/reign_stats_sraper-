@@ -311,48 +311,6 @@
                 "rookie": "0"
               },
               "name": {
-                "playerLink": "9052",
-                "seoName": "Isaiah Saville"
-              },
-              "active": {
-                "active": "1"
-              },
-              "team_code": {
-                "teamLink": "403"
-              }
-            },
-            "row": {
-              "player_id": "9052",
-              "rookie": "0",
-              "name": "Isaiah Saville",
-              "active": "1",
-              "team_code": "ONT",
-              "games_played": "6",
-              "minutes_played": "269:35",
-              "saves": "82",
-              "shots": "92",
-              "save_percentage": "0.891",
-              "goals_against": "10",
-              "shutouts": "1",
-              "wins": "4",
-              "losses": "1",
-              "ot_losses": "0",
-              "shootout_goals_against": "0",
-              "shootout_attempts": "0",
-              "goals": "0",
-              "assists": "0",
-              "penalty_minutes": "0",
-              "shootout_percentage": "0.000",
-              "goals_against_average": "2.23",
-              "rank": 1
-            }
-          },
-          {
-            "prop": {
-              "rookie": {
-                "rookie": "0"
-              },
-              "name": {
                 "playerLink": "9733",
                 "seoName": "Erik Portillo"
               },
@@ -386,6 +344,48 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "2.26",
+              "rank": 1
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
+                "rookie": "0"
+              },
+              "name": {
+                "playerLink": "9052",
+                "seoName": "Isaiah Saville"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "9052",
+              "rookie": "0",
+              "name": "Isaiah Saville",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "6",
+              "minutes_played": "316:57",
+              "saves": "95",
+              "shots": "107",
+              "save_percentage": "0.888",
+              "goals_against": "12",
+              "shutouts": "1",
+              "wins": "4",
+              "losses": "1",
+              "ot_losses": "1",
+              "shootout_goals_against": "2",
+              "shootout_attempts": "3",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.333",
+              "goals_against_average": "2.27",
               "rank": 2
             }
           },
@@ -434,30 +434,30 @@
           {
             "prop": [],
             "row": {
-              "games_played": "12",
+              "games_played": "13",
               "goals_against": "1",
-              "goals_against_average": "4.78",
+              "goals_against_average": "4.33",
               "shots": "1",
               "name": "Empty Net ",
-              "minutes_played": "12:33"
+              "minutes_played": "13:52"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "25",
-              "minutes_played": 1538,
-              "saves": "584",
-              "shots": "653",
+              "games_played": "26",
+              "minutes_played": 1587,
+              "saves": "597",
+              "shots": "668",
               "save_percentage": "0.894",
-              "goals_against": "69",
+              "goals_against": "71",
               "shutouts": 1,
               "wins": "16",
               "losses": "8",
               "ot_losses": "1",
-              "shootout_goals_against": "0",
-              "shootout_attempts": "0",
-              "shootout_percentage": "0.000",
+              "shootout_goals_against": "2",
+              "shootout_attempts": "3",
+              "shootout_percentage": "0.333",
               "goals_against_average": "2.71",
               "name": "Totals "
             }
