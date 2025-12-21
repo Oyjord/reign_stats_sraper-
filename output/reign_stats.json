@@ -18,7 +18,7 @@
       "a": 9,
       "pts": 20,
       "plus_minus": 4,
-      "pim": 6
+      "pim": 8
     },
     {
       "name": "Glenn Gawdin",
@@ -58,7 +58,7 @@
       "a": 11,
       "pts": 16,
       "plus_minus": 3,
-      "pim": 39
+      "pim": 29
     },
     {
       "name": "Kenny Connors",
@@ -88,7 +88,7 @@
       "a": 9,
       "pts": 13,
       "plus_minus": 2,
-      "pim": 12
+      "pim": 14
     },
     {
       "name": "Francesco Pinelli",
@@ -263,12 +263,12 @@
     {
       "name": "Kenta Isogai",
       "position": "F",
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 0,
       "pts": 0,
       "plus_minus": 0,
-      "pim": 0
+      "pim": 2
     },
     {
       "name": "Isaiah Saville",
