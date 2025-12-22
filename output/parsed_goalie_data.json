@@ -308,48 +308,6 @@
           {
             "prop": {
               "rookie": {
-                "rookie": "1"
-              },
-              "name": {
-                "playerLink": "10714",
-                "seoName": "Mattias Sholl"
-              },
-              "active": {
-                "active": "1"
-              },
-              "team_code": {
-                "teamLink": "403"
-              }
-            },
-            "row": {
-              "player_id": "10714",
-              "rookie": "1",
-              "name": "Mattias Sholl",
-              "active": "1",
-              "team_code": "ONT",
-              "games_played": "1",
-              "minutes_played": "0:00",
-              "saves": "0",
-              "shots": "0",
-              "save_percentage": "0.000",
-              "goals_against": "0",
-              "shutouts": "0",
-              "wins": "0",
-              "losses": "0",
-              "ot_losses": "0",
-              "shootout_goals_against": "0",
-              "shootout_attempts": "0",
-              "goals": "0",
-              "assists": "0",
-              "penalty_minutes": "0",
-              "shootout_percentage": "0.000",
-              "goals_against_average": "0.00",
-              "rank": 1
-            }
-          },
-          {
-            "prop": {
-              "rookie": {
                 "rookie": "0"
               },
               "name": {
@@ -386,7 +344,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "2.26",
-              "rank": 2
+              "rank": 1
             }
           },
           {
@@ -428,7 +386,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.333",
               "goals_against_average": "2.27",
-              "rank": 3
+              "rank": 2
             }
           },
           {
@@ -470,37 +428,79 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "3.13",
+              "rank": 3
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
+                "rookie": "1"
+              },
+              "name": {
+                "playerLink": "10714",
+                "seoName": "Mattias Sholl"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "10714",
+              "rookie": "1",
+              "name": "Mattias Sholl",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "1",
+              "minutes_played": "59:19",
+              "saves": "21",
+              "shots": "25",
+              "save_percentage": "0.840",
+              "goals_against": "4",
+              "shutouts": "0",
+              "wins": "0",
+              "losses": "1",
+              "ot_losses": "0",
+              "shootout_goals_against": "0",
+              "shootout_attempts": "0",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.000",
+              "goals_against_average": "4.05",
               "rank": 4
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "13",
-              "goals_against": "1",
-              "goals_against_average": "4.33",
-              "shots": "1",
+              "games_played": "14",
+              "goals_against": "3",
+              "goals_against_average": "12.37",
+              "shots": "3",
               "name": "Empty Net ",
-              "minutes_played": "13:52"
+              "minutes_played": "14:33"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "26",
-              "minutes_played": 1587,
-              "saves": "597",
-              "shots": "668",
-              "save_percentage": "0.894",
-              "goals_against": "71",
+              "games_played": "27",
+              "minutes_played": 1648,
+              "saves": "618",
+              "shots": "695",
+              "save_percentage": "0.889",
+              "goals_against": "77",
               "shutouts": 1,
               "wins": "16",
-              "losses": "8",
+              "losses": "9",
               "ot_losses": "1",
               "shootout_goals_against": "2",
               "shootout_attempts": "3",
               "shootout_percentage": "0.333",
-              "goals_against_average": "2.71",
+              "goals_against_average": "2.83",
               "name": "Totals "
             }
           }

@@ -17,7 +17,7 @@
       "g": 6,
       "a": 15,
       "pts": 21,
-      "plus_minus": 1,
+      "plus_minus": -1,
       "pim": 37
     },
     {
@@ -27,7 +27,7 @@
       "g": 11,
       "a": 9,
       "pts": 20,
-      "plus_minus": 4,
+      "plus_minus": 2,
       "pim": 8
     },
     {
@@ -37,7 +37,7 @@
       "g": 6,
       "a": 14,
       "pts": 20,
-      "plus_minus": -8,
+      "plus_minus": -10,
       "pim": 10
     },
     {
@@ -47,7 +47,7 @@
       "g": 11,
       "a": 7,
       "pts": 18,
-      "plus_minus": 0,
+      "plus_minus": -2,
       "pim": 21
     },
     {
@@ -63,11 +63,11 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 26,
+      "gp": 27,
       "g": 6,
       "a": 9,
       "pts": 15,
-      "plus_minus": 15,
+      "plus_minus": 13,
       "pim": 15
     },
     {
@@ -87,7 +87,7 @@
       "g": 4,
       "a": 9,
       "pts": 13,
-      "plus_minus": 1,
+      "plus_minus": 2,
       "pim": 14
     },
     {
@@ -107,7 +107,7 @@
       "g": 3,
       "a": 9,
       "pts": 12,
-      "plus_minus": -4,
+      "plus_minus": -6,
       "pim": 25
     },
     {
@@ -115,9 +115,9 @@
       "position": "F",
       "gp": 27,
       "g": 6,
-      "a": 4,
-      "pts": 10,
-      "plus_minus": 13,
+      "a": 5,
+      "pts": 11,
+      "plus_minus": 14,
       "pim": 7
     },
     {
@@ -137,13 +137,23 @@
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 9
+    },
+    {
+      "name": "Jack Hughes",
+      "position": "F",
+      "gp": 22,
+      "g": 2,
+      "a": 5,
+      "pts": 7,
+      "plus_minus": 1,
+      "pim": 16
     },
     {
       "name": "Kyle Burroughs",
       "position": "D",
-      "gp": 17,
+      "gp": 18,
       "g": 1,
       "a": 6,
       "pts": 7,
@@ -159,16 +169,6 @@
       "pts": 6,
       "plus_minus": 3,
       "pim": 10
-    },
-    {
-      "name": "Jack Hughes",
-      "position": "F",
-      "gp": 21,
-      "g": 1,
-      "a": 5,
-      "pts": 6,
-      "plus_minus": 0,
-      "pim": 16
     },
     {
       "name": "Kirill Kirsanov",
@@ -187,8 +187,8 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": 7,
-      "pim": 8
+      "plus_minus": 8,
+      "pim": 10
     },
     {
       "name": "Jack Millar",
@@ -241,6 +241,16 @@
       "pim": 0
     },
     {
+      "name": "Mattias Sholl",
+      "position": "G",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
       "name": "Logan Brown",
       "position": "F",
       "gp": 2,
@@ -263,7 +273,7 @@
     {
       "name": "Kenta Isogai",
       "position": "F",
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -292,18 +302,6 @@
     }
   ],
   "goalies": [
-    {
-      "name": "Mattias Sholl",
-      "gp": 1,
-      "min": "0:00",
-      "ga": 0,
-      "so": 0,
-      "gaa": 0.0,
-      "w": 0,
-      "l": 0,
-      "ot": 0,
-      "sv_percent": 0.0
-    },
     {
       "name": "Erik Portillo",
       "gp": 9,
@@ -339,6 +337,18 @@
       "l": 6,
       "ot": 0,
       "sv_percent": 0.885
+    },
+    {
+      "name": "Mattias Sholl",
+      "gp": 1,
+      "min": "59:19",
+      "ga": 4,
+      "so": 0,
+      "gaa": 4.05,
+      "w": 0,
+      "l": 1,
+      "ot": 0,
+      "sv_percent": 0.84
     }
   ]
 }
