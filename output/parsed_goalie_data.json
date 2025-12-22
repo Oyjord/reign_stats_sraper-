@@ -308,6 +308,48 @@
           {
             "prop": {
               "rookie": {
+                "rookie": "1"
+              },
+              "name": {
+                "playerLink": "10714",
+                "seoName": "Mattias Sholl"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "10714",
+              "rookie": "1",
+              "name": "Mattias Sholl",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "1",
+              "minutes_played": "0:00",
+              "saves": "0",
+              "shots": "0",
+              "save_percentage": "0.000",
+              "goals_against": "0",
+              "shutouts": "0",
+              "wins": "0",
+              "losses": "0",
+              "ot_losses": "0",
+              "shootout_goals_against": "0",
+              "shootout_attempts": "0",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.000",
+              "goals_against_average": "0.00",
+              "rank": 1
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
                 "rookie": "0"
               },
               "name": {
@@ -344,7 +386,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "2.26",
-              "rank": 1
+              "rank": 2
             }
           },
           {
@@ -386,7 +428,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.333",
               "goals_against_average": "2.27",
-              "rank": 2
+              "rank": 3
             }
           },
           {
@@ -428,7 +470,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "3.13",
-              "rank": 3
+              "rank": 4
             }
           },
           {
