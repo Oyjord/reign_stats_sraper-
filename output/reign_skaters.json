@@ -2,22 +2,32 @@
   {
     "name": "Andre Lee",
     "position": "F",
-    "gp": 27,
-    "g": 11,
+    "gp": 28,
+    "g": 12,
     "a": 12,
-    "pts": 23,
-    "plus_minus": 6,
+    "pts": 24,
+    "plus_minus": 7,
     "pim": 22
   },
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 27,
+    "gp": 28,
     "g": 6,
-    "a": 15,
+    "a": 16,
+    "pts": 22,
+    "plus_minus": 0,
+    "pim": 39
+  },
+  {
+    "name": "Nikita Alexandrov",
+    "position": "F",
+    "gp": 27,
+    "g": 7,
+    "a": 14,
     "pts": 21,
-    "plus_minus": -1,
-    "pim": 37
+    "plus_minus": -9,
+    "pim": 10
   },
   {
     "name": "Martin Chromiak",
@@ -28,16 +38,6 @@
     "pts": 20,
     "plus_minus": 2,
     "pim": 8
-  },
-  {
-    "name": "Nikita Alexandrov",
-    "position": "F",
-    "gp": 26,
-    "g": 6,
-    "a": 14,
-    "pts": 20,
-    "plus_minus": -10,
-    "pim": 10
   },
   {
     "name": "Taylor Ward",
@@ -67,7 +67,7 @@
     "a": 9,
     "pts": 15,
     "plus_minus": 14,
-    "pim": 15
+    "pim": 17
   },
   {
     "name": "Akil Thomas",
@@ -90,6 +90,16 @@
     "pim": 14
   },
   {
+    "name": "Jared Wright",
+    "position": "F",
+    "gp": 28,
+    "g": 6,
+    "a": 6,
+    "pts": 12,
+    "plus_minus": 15,
+    "pim": 7
+  },
+  {
     "name": "Francesco Pinelli",
     "position": "F",
     "gp": 23,
@@ -108,16 +118,6 @@
     "pts": 12,
     "plus_minus": -6,
     "pim": 25
-  },
-  {
-    "name": "Jared Wright",
-    "position": "F",
-    "gp": 27,
-    "g": 6,
-    "a": 5,
-    "pts": 11,
-    "plus_minus": 14,
-    "pim": 7
   },
   {
     "name": "Aatu Jämsen",
