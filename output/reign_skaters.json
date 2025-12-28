@@ -62,11 +62,11 @@
   {
     "name": "Kenny Connors",
     "position": "F",
-    "gp": 27,
+    "gp": 28,
     "g": 6,
     "a": 9,
     "pts": 15,
-    "plus_minus": 13,
+    "plus_minus": 14,
     "pim": 15
   },
   {
@@ -122,11 +122,11 @@
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 27,
-    "g": 4,
+    "gp": 28,
+    "g": 5,
     "a": 4,
-    "pts": 8,
-    "plus_minus": -8,
+    "pts": 9,
+    "plus_minus": -7,
     "pim": 18
   },
   {
@@ -182,12 +182,12 @@
   {
     "name": "Jakub Dvořák",
     "position": "D",
-    "gp": 19,
+    "gp": 20,
     "g": 2,
     "a": 1,
     "pts": 3,
-    "plus_minus": 8,
-    "pim": 10
+    "plus_minus": 9,
+    "pim": 19
   },
   {
     "name": "Jack Millar",
@@ -220,16 +220,6 @@
     "pim": 0
   },
   {
-    "name": "Jacob Doty",
-    "position": "F",
-    "gp": 9,
-    "g": 0,
-    "a": 1,
-    "pts": 1,
-    "plus_minus": 1,
-    "pim": 33
-  },
-  {
     "name": "Erik Portillo",
     "position": "G",
     "gp": 9,
@@ -238,6 +228,16 @@
     "pts": 1,
     "plus_minus": 0,
     "pim": 0
+  },
+  {
+    "name": "Jacob Doty",
+    "position": "F",
+    "gp": 10,
+    "g": 0,
+    "a": 1,
+    "pts": 1,
+    "plus_minus": 2,
+    "pim": 33
   },
   {
     "name": "Mattias Sholl",
@@ -262,11 +262,11 @@
   {
     "name": "Tim Rego",
     "position": "D",
-    "gp": 2,
+    "gp": 3,
     "g": 0,
     "a": 0,
     "pts": 0,
-    "plus_minus": 1,
+    "plus_minus": 2,
     "pim": 2
   },
   {
