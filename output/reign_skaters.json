@@ -7,7 +7,7 @@
     "a": 12,
     "pts": 24,
     "plus_minus": 7,
-    "pim": 22
+    "pim": 24
   },
   {
     "name": "Glenn Gawdin",
@@ -32,17 +32,17 @@
   {
     "name": "Martin Chromiak",
     "position": "F",
-    "gp": 27,
+    "gp": 28,
     "g": 11,
     "a": 9,
     "pts": 20,
-    "plus_minus": 2,
+    "plus_minus": 3,
     "pim": 8
   },
   {
     "name": "Taylor Ward",
     "position": "F",
-    "gp": 27,
+    "gp": 28,
     "g": 11,
     "a": 7,
     "pts": 18,
@@ -66,7 +66,7 @@
     "g": 6,
     "a": 9,
     "pts": 15,
-    "plus_minus": 14,
+    "plus_minus": 15,
     "pim": 17
   },
   {
@@ -82,11 +82,11 @@
   {
     "name": "Samuel Bolduc",
     "position": "D",
-    "gp": 26,
+    "gp": 27,
     "g": 4,
     "a": 9,
     "pts": 13,
-    "plus_minus": 2,
+    "plus_minus": 3,
     "pim": 14
   },
   {
@@ -132,7 +132,7 @@
   {
     "name": "Koehn Ziemmer",
     "position": "F",
-    "gp": 19,
+    "gp": 20,
     "g": 2,
     "a": 6,
     "pts": 8,
@@ -142,7 +142,7 @@
   {
     "name": "Jack Hughes",
     "position": "F",
-    "gp": 22,
+    "gp": 23,
     "g": 2,
     "a": 5,
     "pts": 7,
@@ -162,17 +162,17 @@
   {
     "name": "Angus Booth",
     "position": "D",
-    "gp": 17,
+    "gp": 18,
     "g": 1,
     "a": 5,
     "pts": 6,
-    "plus_minus": 3,
+    "plus_minus": 4,
     "pim": 10
   },
   {
     "name": "Kirill Kirsanov",
     "position": "D",
-    "gp": 24,
+    "gp": 25,
     "g": 3,
     "a": 2,
     "pts": 5,
@@ -186,7 +186,7 @@
     "g": 2,
     "a": 1,
     "pts": 3,
-    "plus_minus": 9,
+    "plus_minus": 10,
     "pim": 19
   },
   {
@@ -202,11 +202,11 @@
   {
     "name": "Otto Salin",
     "position": "D",
-    "gp": 16,
+    "gp": 17,
     "g": 1,
     "a": 0,
     "pts": 1,
-    "plus_minus": -3,
+    "plus_minus": -2,
     "pim": 16
   },
   {
@@ -272,7 +272,7 @@
   {
     "name": "Kenta Isogai",
     "position": "F",
-    "gp": 5,
+    "gp": 6,
     "g": 0,
     "a": 0,
     "pts": 0,
@@ -282,7 +282,7 @@
   {
     "name": "Isaiah Saville",
     "position": "G",
-    "gp": 6,
+    "gp": 7,
     "g": 0,
     "a": 0,
     "pts": 0,
