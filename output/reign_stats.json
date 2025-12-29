@@ -51,6 +51,16 @@
       "pim": 21
     },
     {
+      "name": "Kenny Connors",
+      "position": "F",
+      "gp": 28,
+      "g": 6,
+      "a": 10,
+      "pts": 16,
+      "plus_minus": 15,
+      "pim": 17
+    },
+    {
       "name": "Cole Guttman",
       "position": "F",
       "gp": 26,
@@ -59,16 +69,6 @@
       "pts": 16,
       "plus_minus": 3,
       "pim": 29
-    },
-    {
-      "name": "Kenny Connors",
-      "position": "F",
-      "gp": 28,
-      "g": 6,
-      "a": 9,
-      "pts": 15,
-      "plus_minus": 15,
-      "pim": 17
     },
     {
       "name": "Akil Thomas",
@@ -221,6 +221,16 @@
       "pim": 0
     },
     {
+      "name": "Tim Rego",
+      "position": "D",
+      "gp": 3,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": 2,
+      "pim": 2
+    },
+    {
       "name": "Erik Portillo",
       "position": "G",
       "gp": 9,
@@ -258,16 +268,6 @@
       "a": 0,
       "pts": 0,
       "plus_minus": -2,
-      "pim": 2
-    },
-    {
-      "name": "Tim Rego",
-      "position": "D",
-      "gp": 3,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": 2,
       "pim": 2
     },
     {
