@@ -327,7 +327,7 @@
               "name": "Isaiah Saville",
               "active": "1",
               "team_code": "ONT",
-              "games_played": "7",
+              "games_played": "8",
               "minutes_played": "376:57",
               "saves": "127",
               "shots": "139",
@@ -399,7 +399,7 @@
                 "seoName": "Pheonix Copley"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -409,7 +409,7 @@
               "player_id": "5658",
               "rookie": "0",
               "name": "Pheonix Copley",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "13",
               "minutes_played": "766:16",
