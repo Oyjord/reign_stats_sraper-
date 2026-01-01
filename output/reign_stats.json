@@ -293,7 +293,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 13,
+      "gp": 14,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -329,14 +329,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 14,
-      "min": "777:24",
-      "ga": 40,
+      "min": "826:12",
+      "ga": 45,
       "so": 0,
-      "gaa": 3.09,
+      "gaa": 3.27,
       "w": 7,
-      "l": 6,
+      "l": 7,
       "ot": 0,
-      "sv_percent": 0.886
+      "sv_percent": 0.882
     },
     {
       "name": "Mattias Sholl",

@@ -412,14 +412,14 @@
               "active": "1",
               "team_code": "ONT",
               "games_played": "14",
-              "minutes_played": "777:24",
-              "saves": "310",
-              "shots": "350",
-              "save_percentage": "0.886",
-              "goals_against": "40",
+              "minutes_played": "826:12",
+              "saves": "335",
+              "shots": "380",
+              "save_percentage": "0.882",
+              "goals_against": "45",
               "shutouts": "0",
               "wins": "7",
-              "losses": "6",
+              "losses": "7",
               "ot_losses": "0",
               "shootout_goals_against": "0",
               "shootout_attempts": "0",
@@ -427,7 +427,7 @@
               "assists": "0",
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "3.09",
+              "goals_against_average": "3.27",
               "rank": 3
             }
           },
@@ -476,31 +476,31 @@
           {
             "prop": [],
             "row": {
-              "games_played": "15",
+              "games_played": "16",
               "goals_against": "3",
-              "goals_against_average": "11.37",
+              "goals_against_average": "11.32",
               "shots": "3",
               "name": "Empty Net ",
-              "minutes_played": "15:50"
+              "minutes_played": "15:54"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "29",
-              "minutes_played": 1785,
-              "saves": "677",
-              "shots": "756",
-              "save_percentage": "0.896",
-              "goals_against": "79",
+              "games_played": "30",
+              "minutes_played": 1834,
+              "saves": "702",
+              "shots": "786",
+              "save_percentage": "0.893",
+              "goals_against": "84",
               "shutouts": 2,
               "wins": "18",
-              "losses": "9",
+              "losses": "10",
               "ot_losses": "1",
               "shootout_goals_against": "2",
               "shootout_attempts": "6",
               "shootout_percentage": "0.667",
-              "goals_against_average": "2.68",
+              "goals_against_average": "2.77",
               "name": "Totals "
             }
           }
