@@ -441,7 +441,7 @@
                 "seoName": "Mattias Sholl"
               },
               "active": {
-                "active": "1"
+                "active": "0"
               },
               "team_code": {
                 "teamLink": "403"
@@ -451,7 +451,7 @@
               "player_id": "10714",
               "rookie": "1",
               "name": "Mattias Sholl",
-              "active": "1",
+              "active": "0",
               "team_code": "ONT",
               "games_played": "1",
               "minutes_played": "59:19",
