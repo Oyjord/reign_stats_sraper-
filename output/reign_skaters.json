@@ -2,37 +2,47 @@
   {
     "name": "Andre Lee",
     "position": "F",
-    "gp": 30,
-    "g": 13,
+    "gp": 31,
+    "g": 14,
     "a": 12,
-    "pts": 25,
+    "pts": 26,
     "plus_minus": 6,
     "pim": 24
   },
   {
     "name": "Nikita Alexandrov",
     "position": "F",
-    "gp": 29,
+    "gp": 30,
     "g": 7,
     "a": 18,
     "pts": 25,
-    "plus_minus": -9,
+    "plus_minus": -10,
     "pim": 12
   },
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 30,
+    "gp": 31,
     "g": 6,
-    "a": 18,
-    "pts": 24,
+    "a": 19,
+    "pts": 25,
     "plus_minus": -2,
-    "pim": 39
+    "pim": 41
+  },
+  {
+    "name": "Cole Guttman",
+    "position": "F",
+    "gp": 29,
+    "g": 7,
+    "a": 14,
+    "pts": 21,
+    "plus_minus": 3,
+    "pim": 34
   },
   {
     "name": "Taylor Ward",
     "position": "F",
-    "gp": 30,
+    "gp": 31,
     "g": 12,
     "a": 8,
     "pts": 20,
@@ -50,19 +60,9 @@
     "pim": 8
   },
   {
-    "name": "Cole Guttman",
-    "position": "F",
-    "gp": 28,
-    "g": 7,
-    "a": 13,
-    "pts": 20,
-    "plus_minus": 4,
-    "pim": 34
-  },
-  {
     "name": "Kenny Connors",
     "position": "F",
-    "gp": 30,
+    "gp": 31,
     "g": 7,
     "a": 10,
     "pts": 17,
@@ -112,11 +112,11 @@
   {
     "name": "Joe Hicketts",
     "position": "D",
-    "gp": 27,
+    "gp": 28,
     "g": 3,
     "a": 9,
     "pts": 12,
-    "plus_minus": -6,
+    "plus_minus": -7,
     "pim": 25
   },
   {
@@ -182,12 +182,12 @@
   {
     "name": "Jakub Dvořák",
     "position": "D",
-    "gp": 22,
+    "gp": 23,
     "g": 2,
     "a": 1,
     "pts": 3,
-    "plus_minus": 7,
-    "pim": 19
+    "plus_minus": 6,
+    "pim": 21
   },
   {
     "name": "Tim Rego",
@@ -242,11 +242,11 @@
   {
     "name": "Jacob Doty",
     "position": "F",
-    "gp": 12,
+    "gp": 13,
     "g": 0,
     "a": 1,
     "pts": 1,
-    "plus_minus": 0,
+    "plus_minus": -1,
     "pim": 35
   },
   {
