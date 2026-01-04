@@ -83,11 +83,11 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 29,
+      "gp": 30,
       "g": 4,
       "a": 9,
       "pts": 13,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 16
     },
     {
@@ -118,7 +118,7 @@
       "a": 9,
       "pts": 12,
       "plus_minus": -7,
-      "pim": 25
+      "pim": 27
     },
     {
       "name": "Aatu Jämsen",
@@ -133,21 +133,21 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 22,
+      "gp": 23,
       "g": 2,
       "a": 7,
       "pts": 9,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 9
     },
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 25,
+      "gp": 26,
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 16
     },
     {
@@ -187,7 +187,7 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": 6,
+      "plus_minus": 5,
       "pim": 21
     },
     {
@@ -247,7 +247,7 @@
       "g": 0,
       "a": 1,
       "pts": 1,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 35
     },
     {
