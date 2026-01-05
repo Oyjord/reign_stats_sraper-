@@ -2,41 +2,51 @@
   {
     "name": "Andre Lee",
     "position": "F",
-    "gp": 31,
-    "g": 14,
+    "gp": 32,
+    "g": 15,
     "a": 12,
-    "pts": 26,
+    "pts": 27,
     "plus_minus": 6,
     "pim": 24
   },
   {
     "name": "Nikita Alexandrov",
     "position": "F",
-    "gp": 30,
+    "gp": 31,
     "g": 7,
     "a": 19,
     "pts": 26,
-    "plus_minus": -9,
-    "pim": 12
+    "plus_minus": -8,
+    "pim": 18
   },
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 31,
+    "gp": 32,
     "g": 6,
-    "a": 19,
-    "pts": 25,
-    "plus_minus": -1,
+    "a": 20,
+    "pts": 26,
+    "plus_minus": 0,
     "pim": 41
+  },
+  {
+    "name": "Martin Chromiak",
+    "position": "F",
+    "gp": 32,
+    "g": 13,
+    "a": 10,
+    "pts": 23,
+    "plus_minus": 5,
+    "pim": 8
   },
   {
     "name": "Cole Guttman",
     "position": "F",
-    "gp": 29,
+    "gp": 30,
     "g": 8,
     "a": 14,
     "pts": 22,
-    "plus_minus": 4,
+    "plus_minus": 5,
     "pim": 34
   },
   {
@@ -50,24 +60,24 @@
     "pim": 23
   },
   {
-    "name": "Martin Chromiak",
-    "position": "F",
-    "gp": 31,
-    "g": 11,
-    "a": 10,
-    "pts": 21,
-    "plus_minus": 3,
-    "pim": 8
-  },
-  {
     "name": "Kenny Connors",
     "position": "F",
-    "gp": 31,
+    "gp": 32,
     "g": 7,
     "a": 10,
     "pts": 17,
     "plus_minus": 14,
     "pim": 17
+  },
+  {
+    "name": "Samuel Bolduc",
+    "position": "D",
+    "gp": 31,
+    "g": 4,
+    "a": 10,
+    "pts": 14,
+    "plus_minus": 5,
+    "pim": 16
   },
   {
     "name": "Akil Thomas",
@@ -82,22 +92,22 @@
   {
     "name": "Francesco Pinelli",
     "position": "F",
-    "gp": 24,
+    "gp": 25,
     "g": 4,
     "a": 9,
     "pts": 13,
     "plus_minus": 5,
-    "pim": 14
+    "pim": 16
   },
   {
-    "name": "Samuel Bolduc",
+    "name": "Joe Hicketts",
     "position": "D",
-    "gp": 30,
-    "g": 4,
-    "a": 9,
+    "gp": 29,
+    "g": 3,
+    "a": 10,
     "pts": 13,
-    "plus_minus": 3,
-    "pim": 16
+    "plus_minus": -7,
+    "pim": 27
   },
   {
     "name": "Jared Wright",
@@ -108,16 +118,6 @@
     "pts": 12,
     "plus_minus": 14,
     "pim": 7
-  },
-  {
-    "name": "Joe Hicketts",
-    "position": "D",
-    "gp": 28,
-    "g": 3,
-    "a": 9,
-    "pts": 12,
-    "plus_minus": -7,
-    "pim": 27
   },
   {
     "name": "Aatu Jämsen",
@@ -182,12 +182,12 @@
   {
     "name": "Jakub Dvořák",
     "position": "D",
-    "gp": 23,
+    "gp": 24,
     "g": 2,
     "a": 1,
     "pts": 3,
-    "plus_minus": 5,
-    "pim": 21
+    "plus_minus": 7,
+    "pim": 23
   },
   {
     "name": "Tim Rego",
