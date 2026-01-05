@@ -53,7 +53,7 @@
     {
       "name": "Taylor Ward",
       "position": "F",
-      "gp": 31,
+      "gp": 32,
       "g": 12,
       "a": 9,
       "pts": 21,
@@ -113,7 +113,7 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 31,
+      "gp": 32,
       "g": 6,
       "a": 6,
       "pts": 12,
@@ -123,7 +123,7 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 28,
+      "gp": 29,
       "g": 5,
       "a": 4,
       "pts": 9,
@@ -143,7 +143,7 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 26,
+      "gp": 27,
       "g": 2,
       "a": 6,
       "pts": 8,
@@ -163,7 +163,7 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 28,
+      "gp": 29,
       "g": 4,
       "a": 2,
       "pts": 6,
@@ -173,7 +173,7 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 21,
+      "gp": 22,
       "g": 1,
       "a": 5,
       "pts": 6,
@@ -213,7 +213,7 @@
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 20,
+      "gp": 21,
       "g": 1,
       "a": 0,
       "pts": 1,
@@ -233,7 +233,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 9,
+      "gp": 10,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -243,7 +243,7 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 13,
+      "gp": 14,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -317,14 +317,14 @@
     {
       "name": "Erik Portillo",
       "gp": 10,
-      "min": "491:36",
+      "min": "537:41",
       "ga": 18,
-      "so": 0,
-      "gaa": 2.2,
-      "w": 5,
+      "so": 1,
+      "gaa": 2.01,
+      "w": 6,
       "l": 1,
       "ot": 1,
-      "sv_percent": 0.916
+      "sv_percent": 0.922
     },
     {
       "name": "Pheonix Copley",
