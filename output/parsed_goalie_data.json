@@ -412,13 +412,13 @@
               "active": "1",
               "team_code": "ONT",
               "games_played": "16",
-              "minutes_played": "921:26",
-              "saves": "370",
-              "shots": "419",
+              "minutes_played": "946:00",
+              "saves": "378",
+              "shots": "428",
               "save_percentage": "0.883",
-              "goals_against": "49",
+              "goals_against": "50",
               "shutouts": "0",
-              "wins": "8",
+              "wins": "9",
               "losses": "7",
               "ot_losses": "0",
               "shootout_goals_against": "0",
@@ -427,7 +427,7 @@
               "assists": "0",
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
-              "goals_against_average": "3.19",
+              "goals_against_average": "3.17",
               "rank": 3
             }
           },
@@ -476,25 +476,25 @@
           {
             "prop": [],
             "row": {
-              "games_played": "16",
+              "games_played": "17",
               "goals_against": "3",
-              "goals_against_average": "11.32",
+              "goals_against_average": "11.18",
               "shots": "3",
               "name": "Empty Net ",
-              "minutes_played": "15:54"
+              "minutes_played": "16:06"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "32",
-              "minutes_played": 1990,
-              "saves": "756",
-              "shots": "844",
+              "games_played": "33",
+              "minutes_played": 2015,
+              "saves": "764",
+              "shots": "853",
               "save_percentage": "0.896",
-              "goals_against": "88",
+              "goals_against": "89",
               "shutouts": 3,
-              "wins": "20",
+              "wins": "21",
               "losses": "10",
               "ot_losses": "1",
               "shootout_goals_against": "2",
