@@ -1,5 +1,25 @@
 [
   {
+    "name": "Nikita Alexandrov",
+    "position": "F",
+    "gp": 32,
+    "g": 7,
+    "a": 21,
+    "pts": 28,
+    "plus_minus": -8,
+    "pim": 18
+  },
+  {
+    "name": "Glenn Gawdin",
+    "position": "F",
+    "gp": 33,
+    "g": 6,
+    "a": 22,
+    "pts": 28,
+    "plus_minus": 1,
+    "pim": 41
+  },
+  {
     "name": "Andre Lee",
     "position": "F",
     "gp": 32,
@@ -10,32 +30,12 @@
     "pim": 24
   },
   {
-    "name": "Nikita Alexandrov",
-    "position": "F",
-    "gp": 32,
-    "g": 7,
-    "a": 20,
-    "pts": 27,
-    "plus_minus": -8,
-    "pim": 18
-  },
-  {
-    "name": "Glenn Gawdin",
-    "position": "F",
-    "gp": 33,
-    "g": 6,
-    "a": 20,
-    "pts": 26,
-    "plus_minus": 0,
-    "pim": 41
-  },
-  {
     "name": "Martin Chromiak",
     "position": "F",
     "gp": 33,
-    "g": 13,
+    "g": 14,
     "a": 10,
-    "pts": 23,
+    "pts": 24,
     "plus_minus": 5,
     "pim": 8
   },
@@ -74,20 +74,30 @@
     "position": "D",
     "gp": 32,
     "g": 4,
-    "a": 10,
-    "pts": 14,
-    "plus_minus": 6,
+    "a": 11,
+    "pts": 15,
+    "plus_minus": 7,
     "pim": 16
   },
   {
     "name": "Jared Wright",
     "position": "F",
     "gp": 33,
-    "g": 6,
+    "g": 7,
     "a": 7,
-    "pts": 13,
-    "plus_minus": 15,
+    "pts": 14,
+    "plus_minus": 16,
     "pim": 7
+  },
+  {
+    "name": "Joe Hicketts",
+    "position": "D",
+    "gp": 30,
+    "g": 3,
+    "a": 11,
+    "pts": 14,
+    "plus_minus": -7,
+    "pim": 29
   },
   {
     "name": "Akil Thomas",
@@ -110,16 +120,6 @@
     "pim": 16
   },
   {
-    "name": "Joe Hicketts",
-    "position": "D",
-    "gp": 30,
-    "g": 3,
-    "a": 10,
-    "pts": 13,
-    "plus_minus": -7,
-    "pim": 29
-  },
-  {
     "name": "Aatu Jämsen",
     "position": "F",
     "gp": 30,
@@ -136,7 +136,7 @@
     "g": 2,
     "a": 7,
     "pts": 9,
-    "plus_minus": 4,
+    "plus_minus": 5,
     "pim": 9
   },
   {
@@ -162,21 +162,21 @@
   {
     "name": "Kirill Kirsanov",
     "position": "D",
-    "gp": 29,
+    "gp": 30,
     "g": 4,
     "a": 2,
     "pts": 6,
-    "plus_minus": 4,
+    "plus_minus": 5,
     "pim": 4
   },
   {
     "name": "Angus Booth",
     "position": "D",
-    "gp": 22,
+    "gp": 23,
     "g": 1,
     "a": 5,
     "pts": 6,
-    "plus_minus": 5,
+    "plus_minus": 6,
     "pim": 15
   },
   {
@@ -212,7 +212,7 @@
   {
     "name": "Otto Salin",
     "position": "D",
-    "gp": 21,
+    "gp": 22,
     "g": 1,
     "a": 0,
     "pts": 1,
