@@ -13,7 +13,7 @@
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 33,
+      "gp": 34,
       "g": 6,
       "a": 23,
       "pts": 29,
@@ -33,7 +33,7 @@
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 33,
+      "gp": 34,
       "g": 14,
       "a": 10,
       "pts": 24,
@@ -73,21 +73,21 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 33,
+      "gp": 34,
       "g": 7,
       "a": 7,
       "pts": 14,
       "plus_minus": 16,
-      "pim": 7
+      "pim": 9
     },
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 32,
+      "gp": 33,
       "g": 4,
       "a": 10,
       "pts": 14,
-      "plus_minus": 6,
+      "plus_minus": 4,
       "pim": 16
     },
     {
@@ -123,12 +123,12 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 30,
+      "gp": 31,
       "g": 5,
       "a": 5,
       "pts": 10,
       "plus_minus": -6,
-      "pim": 18
+      "pim": 20
     },
     {
       "name": "Koehn Ziemmer",
@@ -143,11 +143,11 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 28,
+      "gp": 29,
       "g": 2,
-      "a": 6,
-      "pts": 8,
-      "plus_minus": 1,
+      "a": 7,
+      "pts": 9,
+      "plus_minus": 0,
       "pim": 20
     },
     {
@@ -173,21 +173,21 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 23,
+      "gp": 24,
       "g": 1,
       "a": 5,
       "pts": 6,
       "plus_minus": 6,
-      "pim": 15
+      "pim": 20
     },
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 25,
+      "gp": 26,
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": 8,
+      "plus_minus": 6,
       "pim": 25
     },
     {
@@ -199,6 +199,16 @@
       "pts": 2,
       "plus_minus": 2,
       "pim": 4
+    },
+    {
+      "name": "Jacob Doty",
+      "position": "F",
+      "gp": 16,
+      "g": 1,
+      "a": 1,
+      "pts": 2,
+      "plus_minus": -3,
+      "pim": 35
     },
     {
       "name": "Jack Millar",
@@ -221,6 +231,16 @@
       "pim": 16
     },
     {
+      "name": "Keaton Mastrodonato",
+      "position": "F",
+      "gp": 1,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": -1,
+      "pim": 0
+    },
+    {
       "name": "Kaleb Lawrence",
       "position": "F",
       "gp": 2,
@@ -239,16 +259,6 @@
       "pts": 1,
       "plus_minus": 0,
       "pim": 0
-    },
-    {
-      "name": "Jacob Doty",
-      "position": "F",
-      "gp": 15,
-      "g": 0,
-      "a": 1,
-      "pts": 1,
-      "plus_minus": -2,
-      "pim": 35
     },
     {
       "name": "Mattias Sholl",
