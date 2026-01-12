@@ -12,12 +12,12 @@
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 34,
+    "gp": 35,
     "g": 6,
     "a": 23,
     "pts": 29,
     "plus_minus": 0,
-    "pim": 41
+    "pim": 43
   },
   {
     "name": "Andre Lee",
@@ -182,12 +182,12 @@
   {
     "name": "Jakub Dvořák",
     "position": "D",
-    "gp": 26,
+    "gp": 27,
     "g": 2,
     "a": 2,
     "pts": 4,
     "plus_minus": 6,
-    "pim": 25
+    "pim": 27
   },
   {
     "name": "Otto Salin",
