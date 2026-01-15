@@ -1,23 +1,23 @@
 [
   {
+    "name": "Nikita Alexandrov",
+    "position": "F",
+    "gp": 36,
+    "g": 8,
+    "a": 23,
+    "pts": 31,
+    "plus_minus": -10,
+    "pim": 20
+  },
+  {
     "name": "Glenn Gawdin",
     "position": "F",
     "gp": 37,
     "g": 6,
     "a": 24,
     "pts": 30,
-    "plus_minus": -2,
+    "plus_minus": -1,
     "pim": 43
-  },
-  {
-    "name": "Nikita Alexandrov",
-    "position": "F",
-    "gp": 36,
-    "g": 7,
-    "a": 22,
-    "pts": 29,
-    "plus_minus": -11,
-    "pim": 20
   },
   {
     "name": "Andre Lee",
@@ -32,11 +32,11 @@
   {
     "name": "Martin Chromiak",
     "position": "F",
-    "gp": 36,
+    "gp": 37,
     "g": 15,
-    "a": 10,
-    "pts": 25,
-    "plus_minus": 4,
+    "a": 12,
+    "pts": 27,
+    "plus_minus": 5,
     "pim": 8
   },
   {
@@ -46,8 +46,18 @@
     "g": 9,
     "a": 15,
     "pts": 24,
-    "plus_minus": 3,
+    "plus_minus": 4,
     "pim": 36
+  },
+  {
+    "name": "Kenny Connors",
+    "position": "F",
+    "gp": 37,
+    "g": 9,
+    "a": 13,
+    "pts": 22,
+    "plus_minus": 14,
+    "pim": 21
   },
   {
     "name": "Taylor Ward",
@@ -60,23 +70,13 @@
     "pim": 23
   },
   {
-    "name": "Kenny Connors",
-    "position": "F",
-    "gp": 36,
-    "g": 8,
-    "a": 12,
-    "pts": 20,
-    "plus_minus": 13,
-    "pim": 21
-  },
-  {
     "name": "Francesco Pinelli",
     "position": "F",
-    "gp": 29,
+    "gp": 30,
     "g": 5,
     "a": 11,
     "pts": 16,
-    "plus_minus": 6,
+    "plus_minus": 5,
     "pim": 16
   },
   {
@@ -102,11 +102,11 @@
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 33,
+    "gp": 34,
     "g": 7,
     "a": 7,
     "pts": 14,
-    "plus_minus": -3,
+    "plus_minus": -4,
     "pim": 20
   },
   {
@@ -116,7 +116,7 @@
     "g": 3,
     "a": 11,
     "pts": 14,
-    "plus_minus": -9,
+    "plus_minus": -10,
     "pim": 33
   },
   {
@@ -132,21 +132,21 @@
   {
     "name": "Koehn Ziemmer",
     "position": "F",
-    "gp": 26,
+    "gp": 27,
     "g": 3,
     "a": 8,
     "pts": 11,
-    "plus_minus": 4,
+    "plus_minus": 5,
     "pim": 11
   },
   {
     "name": "Jack Hughes",
     "position": "F",
-    "gp": 31,
+    "gp": 32,
     "g": 2,
     "a": 9,
     "pts": 11,
-    "plus_minus": 2,
+    "plus_minus": 1,
     "pim": 20
   },
   {
@@ -192,11 +192,11 @@
   {
     "name": "Jakub Dvořák",
     "position": "D",
-    "gp": 27,
+    "gp": 28,
     "g": 2,
     "a": 2,
     "pts": 4,
-    "plus_minus": 6,
+    "plus_minus": 5,
     "pim": 27
   },
   {
