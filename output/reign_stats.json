@@ -13,12 +13,12 @@
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 37,
+      "gp": 38,
       "g": 6,
       "a": 24,
       "pts": 30,
       "plus_minus": -1,
-      "pim": 43
+      "pim": 45
     },
     {
       "name": "Martin Chromiak",
@@ -326,11 +326,11 @@
     },
     {
       "name": "Erik Portillo",
-      "gp": 12,
-      "min": "662:22",
+      "gp": 13,
+      "min": "665:35",
       "ga": 25,
       "so": 1,
-      "gaa": 2.26,
+      "gaa": 2.25,
       "w": 8,
       "l": 1,
       "ot": 1,
