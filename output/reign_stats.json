@@ -103,7 +103,7 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 34,
+      "gp": 35,
       "g": 7,
       "a": 7,
       "pts": 14,
@@ -263,7 +263,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 12,
+      "gp": 13,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -327,11 +327,11 @@
     {
       "name": "Erik Portillo",
       "gp": 13,
-      "min": "720:41",
+      "min": "720:55",
       "ga": 28,
       "so": 1,
       "gaa": 2.33,
-      "w": 8,
+      "w": 9,
       "l": 1,
       "ot": 1,
       "sv_percent": 0.912

@@ -370,13 +370,13 @@
               "active": "1",
               "team_code": "ONT",
               "games_played": "13",
-              "minutes_played": "720:41",
+              "minutes_played": "720:55",
               "saves": "289",
               "shots": "317",
               "save_percentage": "0.912",
               "goals_against": "28",
               "shutouts": "1",
-              "wins": "8",
+              "wins": "9",
               "losses": "1",
               "ot_losses": "1",
               "shootout_goals_against": "0",
@@ -476,25 +476,25 @@
           {
             "prop": [],
             "row": {
-              "games_played": "20",
+              "games_played": "21",
               "goals_against": "5",
-              "goals_against_average": "16.25",
+              "goals_against_average": "15.06",
               "shots": "5",
               "name": "Empty Net ",
-              "minutes_played": "18:28"
+              "minutes_played": "19:55"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "37",
-              "minutes_played": 2326,
+              "games_played": "38",
+              "minutes_played": 2328,
               "saves": "896",
               "shots": "1001",
               "save_percentage": "0.895",
               "goals_against": "105",
               "shutouts": 3,
-              "wins": "24",
+              "wins": "25",
               "losses": "11",
               "ot_losses": "1",
               "shootout_goals_against": "3",
