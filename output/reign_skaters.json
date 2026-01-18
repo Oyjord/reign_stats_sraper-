@@ -54,8 +54,8 @@
     "position": "F",
     "gp": 38,
     "g": 9,
-    "a": 13,
-    "pts": 22,
+    "a": 14,
+    "pts": 23,
     "plus_minus": 14,
     "pim": 21
   },
@@ -70,6 +70,16 @@
     "pim": 23
   },
   {
+    "name": "Francesco Pinelli",
+    "position": "F",
+    "gp": 31,
+    "g": 5,
+    "a": 12,
+    "pts": 17,
+    "plus_minus": 6,
+    "pim": 16
+  },
+  {
     "name": "Jared Wright",
     "position": "F",
     "gp": 38,
@@ -78,16 +88,6 @@
     "pts": 16,
     "plus_minus": 17,
     "pim": 11
-  },
-  {
-    "name": "Francesco Pinelli",
-    "position": "F",
-    "gp": 31,
-    "g": 5,
-    "a": 11,
-    "pts": 16,
-    "plus_minus": 6,
-    "pim": 16
   },
   {
     "name": "Samuel Bolduc",
