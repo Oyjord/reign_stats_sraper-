@@ -3,31 +3,31 @@
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 37,
+      "gp": 38,
       "g": 9,
       "a": 24,
       "pts": 33,
-      "plus_minus": -11,
+      "plus_minus": -12,
       "pim": 20
     },
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 38,
+      "gp": 39,
       "g": 15,
-      "a": 15,
-      "pts": 30,
+      "a": 16,
+      "pts": 31,
       "plus_minus": 4,
       "pim": 8
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 38,
+      "gp": 39,
       "g": 6,
       "a": 24,
       "pts": 30,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 45
     },
     {
@@ -43,20 +43,20 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 34,
-      "g": 11,
+      "gp": 35,
+      "g": 12,
       "a": 15,
-      "pts": 26,
-      "plus_minus": 4,
+      "pts": 27,
+      "plus_minus": 3,
       "pim": 36
     },
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 38,
+      "gp": 39,
       "g": 9,
-      "a": 14,
-      "pts": 23,
+      "a": 15,
+      "pts": 24,
       "plus_minus": 14,
       "pim": 21
     },
@@ -83,7 +83,7 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 38,
+      "gp": 39,
       "g": 9,
       "a": 7,
       "pts": 16,
@@ -113,12 +113,12 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 35,
+      "gp": 36,
       "g": 3,
       "a": 11,
       "pts": 14,
-      "plus_minus": -9,
-      "pim": 35
+      "plus_minus": -10,
+      "pim": 39
     },
     {
       "name": "Akil Thomas",
@@ -163,7 +163,7 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 35,
+      "gp": 36,
       "g": 4,
       "a": 2,
       "pts": 6,
@@ -173,7 +173,7 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 28,
+      "gp": 29,
       "g": 1,
       "a": 5,
       "pts": 6,
@@ -193,21 +193,21 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 29,
+      "gp": 30,
       "g": 2,
       "a": 2,
       "pts": 4,
       "plus_minus": 4,
-      "pim": 27
+      "pim": 29
     },
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 26,
+      "gp": 27,
       "g": 2,
       "a": 0,
       "pts": 2,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 16
     },
     {
@@ -338,15 +338,15 @@
     },
     {
       "name": "Pheonix Copley",
-      "gp": 18,
-      "min": "1068:57",
-      "ga": 54,
+      "gp": 19,
+      "min": "1115:17",
+      "ga": 56,
       "so": 0,
-      "gaa": 3.03,
+      "gaa": 3.01,
       "w": 10,
       "l": 8,
       "ot": 0,
-      "sv_percent": 0.889
+      "sv_percent": 0.888
     },
     {
       "name": "Mattias Sholl",

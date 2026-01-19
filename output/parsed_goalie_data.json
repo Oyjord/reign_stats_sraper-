@@ -411,12 +411,12 @@
               "name": "Pheonix Copley",
               "active": "1",
               "team_code": "ONT",
-              "games_played": "18",
-              "minutes_played": "1068:57",
-              "saves": "433",
-              "shots": "487",
-              "save_percentage": "0.889",
-              "goals_against": "54",
+              "games_played": "19",
+              "minutes_played": "1115:17",
+              "saves": "442",
+              "shots": "498",
+              "save_percentage": "0.888",
+              "goals_against": "56",
               "shutouts": "0",
               "wins": "10",
               "losses": "8",
@@ -427,7 +427,7 @@
               "assists": "0",
               "penalty_minutes": "0",
               "shootout_percentage": "0.800",
-              "goals_against_average": "3.03",
+              "goals_against_average": "3.01",
               "rank": 3
             }
           },
@@ -488,11 +488,11 @@
             "prop": [],
             "row": {
               "games_played": "38",
-              "minutes_played": 2328,
-              "saves": "896",
-              "shots": "1001",
-              "save_percentage": "0.895",
-              "goals_against": "105",
+              "minutes_played": 2375,
+              "saves": "905",
+              "shots": "1012",
+              "save_percentage": "0.894",
+              "goals_against": "107",
               "shutouts": 3,
               "wins": "25",
               "losses": "11",
@@ -500,7 +500,7 @@
               "shootout_goals_against": "3",
               "shootout_attempts": "14",
               "shootout_percentage": "0.786",
-              "goals_against_average": "2.73",
+              "goals_against_average": "2.72",
               "name": "Totals "
             }
           }
