@@ -7,7 +7,7 @@
       "g": 9,
       "a": 24,
       "pts": 33,
-      "plus_minus": -12,
+      "plus_minus": -13,
       "pim": 20
     },
     {
@@ -17,7 +17,7 @@
       "g": 15,
       "a": 16,
       "pts": 31,
-      "plus_minus": 4,
+      "plus_minus": 3,
       "pim": 8
     },
     {
@@ -27,7 +27,7 @@
       "g": 6,
       "a": 24,
       "pts": 30,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 45
     },
     {
@@ -47,7 +47,7 @@
       "g": 12,
       "a": 15,
       "pts": 27,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 36
     },
     {
@@ -57,7 +57,7 @@
       "g": 9,
       "a": 15,
       "pts": 24,
-      "plus_minus": 14,
+      "plus_minus": 13,
       "pim": 21
     },
     {
@@ -73,12 +73,12 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 31,
+      "gp": 32,
       "g": 5,
       "a": 12,
       "pts": 17,
       "plus_minus": 6,
-      "pim": 16
+      "pim": 18
     },
     {
       "name": "Jared Wright",
@@ -93,7 +93,7 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 37,
+      "gp": 38,
       "g": 5,
       "a": 10,
       "pts": 15,
@@ -103,7 +103,7 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 35,
+      "gp": 36,
       "g": 7,
       "a": 7,
       "pts": 14,
@@ -133,11 +133,11 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 28,
+      "gp": 29,
       "g": 3,
       "a": 9,
       "pts": 12,
-      "plus_minus": 7,
+      "plus_minus": 6,
       "pim": 11
     },
     {
@@ -213,7 +213,7 @@
     {
       "name": "Kenta Isogai",
       "position": "F",
-      "gp": 14,
+      "gp": 15,
       "g": 1,
       "a": 1,
       "pts": 2,
@@ -223,7 +223,7 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 18,
+      "gp": 19,
       "g": 1,
       "a": 1,
       "pts": 2,
@@ -283,7 +283,7 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 2,
+      "gp": 3,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -303,7 +303,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 18,
+      "gp": 19,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -339,12 +339,12 @@
     {
       "name": "Pheonix Copley",
       "gp": 19,
-      "min": "1115:17",
+      "min": "1127:07",
       "ga": 56,
       "so": 0,
-      "gaa": 3.01,
+      "gaa": 2.98,
       "w": 10,
-      "l": 8,
+      "l": 9,
       "ot": 0,
       "sv_percent": 0.888
     },
