@@ -315,7 +315,7 @@
                 "seoName": "Isaiah Saville"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -325,7 +325,7 @@
               "player_id": "9052",
               "rookie": "0",
               "name": "Isaiah Saville",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "8",
               "minutes_played": "440:40",
