@@ -4,10 +4,10 @@
       "name": "Nikita Alexandrov",
       "position": "F",
       "gp": 39,
-      "g": 9,
+      "g": 10,
       "a": 25,
-      "pts": 34,
-      "plus_minus": -12,
+      "pts": 35,
+      "plus_minus": -11,
       "pim": 20
     },
     {
@@ -31,6 +31,16 @@
       "pim": 45
     },
     {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 36,
+      "g": 13,
+      "a": 16,
+      "pts": 29,
+      "plus_minus": 2,
+      "pim": 36
+    },
+    {
       "name": "Andre Lee",
       "position": "F",
       "gp": 32,
@@ -39,16 +49,6 @@
       "pts": 27,
       "plus_minus": 6,
       "pim": 24
-    },
-    {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 36,
-      "g": 12,
-      "a": 15,
-      "pts": 27,
-      "plus_minus": 1,
-      "pim": 36
     },
     {
       "name": "Kenny Connors",
@@ -78,7 +78,7 @@
       "a": 12,
       "pts": 17,
       "plus_minus": 5,
-      "pim": 18
+      "pim": 27
     },
     {
       "name": "Jared Wright",
@@ -117,7 +117,7 @@
       "g": 3,
       "a": 11,
       "pts": 14,
-      "plus_minus": -11,
+      "plus_minus": -10,
       "pim": 41
     },
     {
@@ -161,6 +161,16 @@
       "pim": 10
     },
     {
+      "name": "Angus Booth",
+      "position": "D",
+      "gp": 30,
+      "g": 1,
+      "a": 6,
+      "pts": 7,
+      "plus_minus": 5,
+      "pim": 20
+    },
+    {
       "name": "Kirill Kirsanov",
       "position": "D",
       "gp": 37,
@@ -169,16 +179,6 @@
       "pts": 6,
       "plus_minus": 5,
       "pim": 4
-    },
-    {
-      "name": "Angus Booth",
-      "position": "D",
-      "gp": 30,
-      "g": 1,
-      "a": 5,
-      "pts": 6,
-      "plus_minus": 5,
-      "pim": 20
     },
     {
       "name": "Tim Rego",
@@ -261,6 +261,16 @@
       "pim": 0
     },
     {
+      "name": "Logan Brown",
+      "position": "F",
+      "gp": 4,
+      "g": 0,
+      "a": 1,
+      "pts": 1,
+      "plus_minus": -3,
+      "pim": 2
+    },
+    {
       "name": "Erik Portillo",
       "position": "G",
       "gp": 13,
@@ -279,16 +289,6 @@
       "pts": 0,
       "plus_minus": 0,
       "pim": 0
-    },
-    {
-      "name": "Logan Brown",
-      "position": "F",
-      "gp": 4,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": -3,
-      "pim": 2
     },
     {
       "name": "Isaiah Saville",
@@ -327,14 +327,14 @@
     {
       "name": "Erik Portillo",
       "gp": 14,
-      "min": "742:41",
-      "ga": 29,
+      "min": "778:34",
+      "ga": 30,
       "so": 1,
-      "gaa": 2.34,
+      "gaa": 2.31,
       "w": 9,
       "l": 1,
       "ot": 1,
-      "sv_percent": 0.912
+      "sv_percent": 0.914
     },
     {
       "name": "Pheonix Copley",
