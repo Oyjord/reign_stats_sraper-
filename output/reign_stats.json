@@ -3,31 +3,31 @@
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 38,
+      "gp": 39,
       "g": 9,
-      "a": 24,
-      "pts": 33,
-      "plus_minus": -13,
+      "a": 25,
+      "pts": 34,
+      "plus_minus": -12,
       "pim": 20
     },
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 39,
+      "gp": 40,
       "g": 15,
-      "a": 16,
-      "pts": 31,
-      "plus_minus": 3,
+      "a": 17,
+      "pts": 32,
+      "plus_minus": 4,
       "pim": 8
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 39,
-      "g": 6,
+      "gp": 40,
+      "g": 7,
       "a": 24,
-      "pts": 30,
-      "plus_minus": -3,
+      "pts": 31,
+      "plus_minus": -2,
       "pim": 45
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "name": "Erik Portillo",
-      "gp": 13,
+      "gp": 14,
       "min": "720:55",
       "ga": 28,
       "so": 1,
