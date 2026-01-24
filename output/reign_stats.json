@@ -43,11 +43,11 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 35,
+      "gp": 36,
       "g": 12,
       "a": 15,
       "pts": 27,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 36
     },
     {
@@ -73,11 +73,11 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 32,
+      "gp": 33,
       "g": 5,
       "a": 12,
       "pts": 17,
-      "plus_minus": 6,
+      "plus_minus": 5,
       "pim": 18
     },
     {
@@ -93,11 +93,11 @@
     {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 38,
+      "gp": 39,
       "g": 5,
       "a": 10,
       "pts": 15,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 16
     },
     {
@@ -113,12 +113,12 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 36,
+      "gp": 37,
       "g": 3,
       "a": 11,
       "pts": 14,
-      "plus_minus": -10,
-      "pim": 39
+      "plus_minus": -11,
+      "pim": 41
     },
     {
       "name": "Akil Thomas",
@@ -163,21 +163,21 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 36,
+      "gp": 37,
       "g": 4,
       "a": 2,
       "pts": 6,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 4
     },
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 29,
+      "gp": 30,
       "g": 1,
       "a": 5,
       "pts": 6,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 20
     },
     {
@@ -223,12 +223,12 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 19,
+      "gp": 20,
       "g": 1,
       "a": 1,
       "pts": 2,
       "plus_minus": -6,
-      "pim": 35
+      "pim": 40
     },
     {
       "name": "Kaleb Lawrence",
@@ -283,11 +283,11 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 3,
+      "gp": 4,
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 2
     },
     {
@@ -327,10 +327,10 @@
     {
       "name": "Erik Portillo",
       "gp": 14,
-      "min": "720:55",
-      "ga": 28,
+      "min": "742:41",
+      "ga": 29,
       "so": 1,
-      "gaa": 2.33,
+      "gaa": 2.34,
       "w": 9,
       "l": 1,
       "ot": 1,
