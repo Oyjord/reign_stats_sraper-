@@ -43,7 +43,7 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 32,
+      "gp": 33,
       "g": 15,
       "a": 12,
       "pts": 27,
@@ -53,7 +53,7 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 39,
+      "gp": 40,
       "g": 9,
       "a": 15,
       "pts": 24,
@@ -83,7 +83,7 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 39,
+      "gp": 40,
       "g": 9,
       "a": 7,
       "pts": 16,
@@ -103,7 +103,7 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 36,
+      "gp": 37,
       "g": 7,
       "a": 7,
       "pts": 14,
@@ -183,7 +183,7 @@
     {
       "name": "Tim Rego",
       "position": "D",
-      "gp": 7,
+      "gp": 8,
       "g": 2,
       "a": 2,
       "pts": 4,
@@ -193,7 +193,7 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 30,
+      "gp": 31,
       "g": 2,
       "a": 2,
       "pts": 4,
@@ -233,7 +233,7 @@
     {
       "name": "Kaleb Lawrence",
       "position": "F",
-      "gp": 6,
+      "gp": 7,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -273,7 +273,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 13,
+      "gp": 14,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -327,14 +327,14 @@
     {
       "name": "Erik Portillo",
       "gp": 14,
-      "min": "778:34",
+      "min": "781:29",
       "ga": 30,
       "so": 1,
-      "gaa": 2.31,
-      "w": 9,
+      "gaa": 2.3,
+      "w": 10,
       "l": 1,
       "ot": 1,
-      "sv_percent": 0.914
+      "sv_percent": 0.915
     },
     {
       "name": "Pheonix Copley",
