@@ -21,6 +21,16 @@
       "pim": 8
     },
     {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 41,
+      "g": 7,
+      "a": 25,
+      "pts": 32,
+      "plus_minus": -3,
+      "pim": 47
+    },
+    {
       "name": "Cole Guttman",
       "position": "F",
       "gp": 37,
@@ -29,16 +39,6 @@
       "pts": 31,
       "plus_minus": 4,
       "pim": 36
-    },
-    {
-      "name": "Glenn Gawdin",
-      "position": "F",
-      "gp": 41,
-      "g": 7,
-      "a": 24,
-      "pts": 31,
-      "plus_minus": -3,
-      "pim": 47
     },
     {
       "name": "Andre Lee",
@@ -73,12 +73,12 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 33,
+      "gp": 34,
       "g": 5,
       "a": 12,
       "pts": 17,
       "plus_minus": 5,
-      "pim": 27
+      "pim": 29
     },
     {
       "name": "Jared Wright",
@@ -103,17 +103,17 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 37,
-      "g": 7,
+      "gp": 38,
+      "g": 8,
       "a": 7,
-      "pts": 14,
+      "pts": 15,
       "plus_minus": -4,
       "pim": 20
     },
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 37,
+      "gp": 38,
       "g": 3,
       "a": 11,
       "pts": 14,
@@ -188,7 +188,7 @@
       "a": 3,
       "pts": 5,
       "plus_minus": 7,
-      "pim": 31
+      "pim": 33
     },
     {
       "name": "Tim Rego",
@@ -339,14 +339,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 20,
-      "min": "1147:07",
-      "ga": 56,
+      "min": "1182:13",
+      "ga": 57,
       "so": 0,
-      "gaa": 2.93,
+      "gaa": 2.89,
       "w": 10,
       "l": 9,
       "ot": 0,
-      "sv_percent": 0.89
+      "sv_percent": 0.892
     },
     {
       "name": "Mattias Sholl",
