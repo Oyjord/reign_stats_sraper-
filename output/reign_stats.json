@@ -7,7 +7,7 @@
       "g": 10,
       "a": 28,
       "pts": 38,
-      "plus_minus": -11,
+      "plus_minus": -12,
       "pim": 20
     },
     {
@@ -17,8 +17,8 @@
       "g": 8,
       "a": 26,
       "pts": 34,
-      "plus_minus": -4,
-      "pim": 49
+      "plus_minus": -5,
+      "pim": 53
     },
     {
       "name": "Martin Chromiak",
@@ -27,7 +27,7 @@
       "g": 15,
       "a": 18,
       "pts": 33,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 10
     },
     {
@@ -47,7 +47,7 @@
       "g": 18,
       "a": 12,
       "pts": 30,
-      "plus_minus": 7,
+      "plus_minus": 6,
       "pim": 28
     },
     {
@@ -137,7 +137,7 @@
       "g": 3,
       "a": 10,
       "pts": 13,
-      "plus_minus": 10,
+      "plus_minus": 9,
       "pim": 13
     },
     {
@@ -157,7 +157,7 @@
       "g": 4,
       "a": 4,
       "pts": 8,
-      "plus_minus": 6,
+      "plus_minus": 4,
       "pim": 4
     },
     {
@@ -167,7 +167,7 @@
       "g": 1,
       "a": 7,
       "pts": 8,
-      "plus_minus": 6,
+      "plus_minus": 4,
       "pim": 22
     },
     {
@@ -227,7 +227,7 @@
       "g": 1,
       "a": 1,
       "pts": 2,
-      "plus_minus": -7,
+      "plus_minus": -8,
       "pim": 49
     },
     {
@@ -303,12 +303,12 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 20,
+      "gp": 21,
       "g": 0,
       "a": 0,
       "pts": 0,
       "plus_minus": 0,
-      "pim": 0
+      "pim": 10
     }
   ],
   "goalies": [
@@ -339,10 +339,10 @@
     {
       "name": "Pheonix Copley",
       "gp": 21,
-      "min": "1211:31",
-      "ga": 58,
+      "min": "1246:36",
+      "ga": 61,
       "so": 0,
-      "gaa": 2.87,
+      "gaa": 2.94,
       "w": 11,
       "l": 9,
       "ot": 0,
