@@ -113,7 +113,7 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 39,
+      "gp": 40,
       "g": 3,
       "a": 11,
       "pts": 14,
@@ -193,7 +193,7 @@
     {
       "name": "Tim Rego",
       "position": "D",
-      "gp": 9,
+      "gp": 10,
       "g": 2,
       "a": 3,
       "pts": 5,
@@ -344,7 +344,7 @@
       "so": 0,
       "gaa": 2.94,
       "w": 11,
-      "l": 9,
+      "l": 10,
       "ot": 0,
       "sv_percent": 0.893
     },
