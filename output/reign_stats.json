@@ -203,7 +203,7 @@
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 28,
+      "gp": 29,
       "g": 2,
       "a": 0,
       "pts": 2,
@@ -223,7 +223,7 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 23,
+      "gp": 24,
       "g": 1,
       "a": 1,
       "pts": 2,
@@ -243,7 +243,7 @@
     {
       "name": "Kaleb Lawrence",
       "position": "F",
-      "gp": 8,
+      "gp": 9,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -273,7 +273,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 15,
+      "gp": 16,
       "g": 0,
       "a": 1,
       "pts": 1,
@@ -327,14 +327,14 @@
     {
       "name": "Erik Portillo",
       "gp": 16,
-      "min": "841:29",
-      "ga": 32,
+      "min": "901:29",
+      "ga": 37,
       "so": 1,
-      "gaa": 2.28,
+      "gaa": 2.46,
       "w": 11,
-      "l": 1,
+      "l": 2,
       "ot": 1,
-      "sv_percent": 0.915
+      "sv_percent": 0.909
     },
     {
       "name": "Pheonix Copley",
