@@ -12,11 +12,11 @@
   {
     "name": "Martin Chromiak",
     "position": "F",
-    "gp": 44,
+    "gp": 45,
     "g": 16,
     "a": 19,
     "pts": 35,
-    "plus_minus": 2,
+    "plus_minus": 1,
     "pim": 10
   },
   {
@@ -82,41 +82,41 @@
   {
     "name": "Francesco Pinelli",
     "position": "F",
-    "gp": 38,
+    "gp": 39,
     "g": 7,
     "a": 14,
     "pts": 21,
-    "plus_minus": 8,
+    "plus_minus": 7,
     "pim": 29
   },
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 42,
+    "gp": 43,
     "g": 10,
     "a": 8,
     "pts": 18,
-    "plus_minus": 0,
+    "plus_minus": -1,
     "pim": 22
   },
   {
     "name": "Samuel Bolduc",
     "position": "D",
-    "gp": 44,
+    "gp": 45,
     "g": 5,
     "a": 13,
     "pts": 18,
-    "plus_minus": 7,
+    "plus_minus": 6,
     "pim": 16
   },
   {
     "name": "Joe Hicketts",
     "position": "D",
-    "gp": 41,
+    "gp": 42,
     "g": 3,
     "a": 11,
     "pts": 14,
-    "plus_minus": -9,
+    "plus_minus": -10,
     "pim": 41
   },
   {
