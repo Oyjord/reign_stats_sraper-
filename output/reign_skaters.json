@@ -2,12 +2,22 @@
   {
     "name": "Nikita Alexandrov",
     "position": "F",
-    "gp": 44,
+    "gp": 45,
     "g": 10,
     "a": 28,
     "pts": 38,
-    "plus_minus": -15,
+    "plus_minus": -14,
     "pim": 20
+  },
+  {
+    "name": "Glenn Gawdin",
+    "position": "F",
+    "gp": 46,
+    "g": 10,
+    "a": 26,
+    "pts": 36,
+    "plus_minus": -2,
+    "pim": 53
   },
   {
     "name": "Martin Chromiak",
@@ -20,14 +30,14 @@
     "pim": 10
   },
   {
-    "name": "Glenn Gawdin",
+    "name": "Cole Guttman",
     "position": "F",
-    "gp": 45,
-    "g": 9,
-    "a": 26,
-    "pts": 35,
-    "plus_minus": -4,
-    "pim": 53
+    "gp": 42,
+    "g": 16,
+    "a": 18,
+    "pts": 34,
+    "plus_minus": 3,
+    "pim": 36
   },
   {
     "name": "Andre Lee",
@@ -40,16 +50,6 @@
     "pim": 35
   },
   {
-    "name": "Cole Guttman",
-    "position": "F",
-    "gp": 41,
-    "g": 15,
-    "a": 17,
-    "pts": 32,
-    "plus_minus": 1,
-    "pim": 36
-  },
-  {
     "name": "Kenny Connors",
     "position": "F",
     "gp": 42,
@@ -58,6 +58,16 @@
     "pts": 24,
     "plus_minus": 13,
     "pim": 21
+  },
+  {
+    "name": "Jared Wright",
+    "position": "F",
+    "gp": 46,
+    "g": 12,
+    "a": 10,
+    "pts": 22,
+    "plus_minus": 21,
+    "pim": 11
   },
   {
     "name": "Taylor Ward",
@@ -70,33 +80,23 @@
     "pim": 23
   },
   {
-    "name": "Jared Wright",
-    "position": "F",
-    "gp": 45,
-    "g": 11,
-    "a": 10,
-    "pts": 21,
-    "plus_minus": 19,
-    "pim": 11
-  },
-  {
     "name": "Francesco Pinelli",
     "position": "F",
     "gp": 39,
     "g": 7,
     "a": 14,
     "pts": 21,
-    "plus_minus": 7,
+    "plus_minus": 8,
     "pim": 29
   },
   {
     "name": "Aatu Jämsen",
     "position": "F",
     "gp": 43,
-    "g": 10,
+    "g": 11,
     "a": 8,
-    "pts": 18,
-    "plus_minus": -1,
+    "pts": 19,
+    "plus_minus": 0,
     "pim": 22
   },
   {
@@ -114,9 +114,9 @@
     "position": "D",
     "gp": 42,
     "g": 3,
-    "a": 11,
-    "pts": 14,
-    "plus_minus": -10,
+    "a": 12,
+    "pts": 15,
+    "plus_minus": -8,
     "pim": 41
   },
   {
@@ -152,21 +152,21 @@
   {
     "name": "Kirill Kirsanov",
     "position": "D",
-    "gp": 42,
+    "gp": 43,
     "g": 4,
     "a": 5,
     "pts": 9,
-    "plus_minus": 6,
+    "plus_minus": 8,
     "pim": 6
   },
   {
     "name": "Angus Booth",
     "position": "D",
-    "gp": 35,
+    "gp": 36,
     "g": 1,
-    "a": 7,
-    "pts": 8,
-    "plus_minus": 1,
+    "a": 8,
+    "pts": 9,
+    "plus_minus": 2,
     "pim": 24
   },
   {
@@ -212,12 +212,22 @@
   {
     "name": "Kaleb Lawrence",
     "position": "F",
-    "gp": 10,
+    "gp": 11,
     "g": 0,
     "a": 3,
     "pts": 3,
     "plus_minus": 4,
-    "pim": 0
+    "pim": 4
+  },
+  {
+    "name": "Jack Millar",
+    "position": "D",
+    "gp": 15,
+    "g": 0,
+    "a": 3,
+    "pts": 3,
+    "plus_minus": 5,
+    "pim": 7
   },
   {
     "name": "Otto Salin",
@@ -248,16 +258,6 @@
     "pts": 2,
     "plus_minus": -3,
     "pim": 2
-  },
-  {
-    "name": "Jack Millar",
-    "position": "D",
-    "gp": 14,
-    "g": 0,
-    "a": 2,
-    "pts": 2,
-    "plus_minus": 3,
-    "pim": 7
   },
   {
     "name": "Keaton Mastrodonato",
