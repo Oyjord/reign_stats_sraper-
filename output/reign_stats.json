@@ -3,7 +3,7 @@
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 46,
+      "gp": 47,
       "g": 10,
       "a": 29,
       "pts": 39,
@@ -11,34 +11,34 @@
       "pim": 22
     },
     {
-      "name": "Glenn Gawdin",
-      "position": "F",
-      "gp": 47,
-      "g": 10,
-      "a": 26,
-      "pts": 36,
-      "plus_minus": -4,
-      "pim": 53
-    },
-    {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 43,
-      "g": 17,
+      "gp": 44,
+      "g": 18,
       "a": 18,
-      "pts": 35,
+      "pts": 36,
       "plus_minus": 2,
       "pim": 36
     },
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 46,
+      "gp": 47,
       "g": 16,
-      "a": 19,
-      "pts": 35,
+      "a": 20,
+      "pts": 36,
       "plus_minus": 0,
       "pim": 10
+    },
+    {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 48,
+      "g": 10,
+      "a": 26,
+      "pts": 36,
+      "plus_minus": -4,
+      "pim": 53
     },
     {
       "name": "Andre Lee",
@@ -53,10 +53,10 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 44,
+      "gp": 45,
       "g": 9,
-      "a": 15,
-      "pts": 24,
+      "a": 16,
+      "pts": 25,
       "plus_minus": 11,
       "pim": 21
     },
@@ -326,7 +326,7 @@
     },
     {
       "name": "Erik Portillo",
-      "gp": 17,
+      "gp": 18,
       "min": "961:29",
       "ga": 40,
       "so": 1,
