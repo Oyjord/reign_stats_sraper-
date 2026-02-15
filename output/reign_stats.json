@@ -43,7 +43,7 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 40,
+      "gp": 41,
       "g": 18,
       "a": 14,
       "pts": 32,
@@ -63,7 +63,7 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 47,
+      "gp": 48,
       "g": 12,
       "a": 11,
       "pts": 23,
@@ -83,7 +83,7 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 40,
+      "gp": 41,
       "g": 7,
       "a": 14,
       "pts": 21,
@@ -153,7 +153,7 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 44,
+      "gp": 45,
       "g": 4,
       "a": 6,
       "pts": 10,
@@ -163,7 +163,7 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 37,
+      "gp": 38,
       "g": 1,
       "a": 9,
       "pts": 10,
@@ -203,7 +203,7 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 16,
+      "gp": 17,
       "g": 0,
       "a": 4,
       "pts": 4,
@@ -263,7 +263,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 17,
+      "gp": 18,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -332,7 +332,7 @@
       "so": 1,
       "gaa": 2.47,
       "w": 12,
-      "l": 2,
+      "l": 3,
       "ot": 1,
       "sv_percent": 0.905
     },
