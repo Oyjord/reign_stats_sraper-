@@ -3,12 +3,32 @@
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 47,
+      "gp": 48,
       "g": 10,
-      "a": 29,
-      "pts": 39,
-      "plus_minus": -16,
+      "a": 31,
+      "pts": 41,
+      "plus_minus": -17,
       "pim": 22
+    },
+    {
+      "name": "Martin Chromiak",
+      "position": "F",
+      "gp": 48,
+      "g": 16,
+      "a": 21,
+      "pts": 37,
+      "plus_minus": -1,
+      "pim": 10
+    },
+    {
+      "name": "Glenn Gawdin",
+      "position": "F",
+      "gp": 49,
+      "g": 11,
+      "a": 26,
+      "pts": 37,
+      "plus_minus": -5,
+      "pim": 53
     },
     {
       "name": "Cole Guttman",
@@ -19,26 +39,6 @@
       "pts": 36,
       "plus_minus": 1,
       "pim": 38
-    },
-    {
-      "name": "Martin Chromiak",
-      "position": "F",
-      "gp": 47,
-      "g": 16,
-      "a": 20,
-      "pts": 36,
-      "plus_minus": 0,
-      "pim": 10
-    },
-    {
-      "name": "Glenn Gawdin",
-      "position": "F",
-      "gp": 48,
-      "g": 10,
-      "a": 26,
-      "pts": 36,
-      "plus_minus": -4,
-      "pim": 53
     },
     {
       "name": "Andre Lee",
@@ -63,11 +63,11 @@
     {
       "name": "Jared Wright",
       "position": "F",
-      "gp": 48,
+      "gp": 49,
       "g": 12,
       "a": 11,
       "pts": 23,
-      "plus_minus": 21,
+      "plus_minus": 19,
       "pim": 11
     },
     {
@@ -81,6 +81,16 @@
       "pim": 31
     },
     {
+      "name": "Aatu Jämsen",
+      "position": "F",
+      "gp": 46,
+      "g": 13,
+      "a": 8,
+      "pts": 21,
+      "plus_minus": 0,
+      "pim": 22
+    },
+    {
       "name": "Taylor Ward",
       "position": "F",
       "gp": 32,
@@ -91,24 +101,14 @@
       "pim": 23
     },
     {
-      "name": "Aatu Jämsen",
-      "position": "F",
-      "gp": 46,
-      "g": 12,
-      "a": 8,
-      "pts": 20,
-      "plus_minus": -1,
-      "pim": 22
-    },
-    {
       "name": "Samuel Bolduc",
       "position": "D",
-      "gp": 47,
+      "gp": 48,
       "g": 5,
       "a": 13,
       "pts": 18,
-      "plus_minus": 4,
-      "pim": 16
+      "plus_minus": 5,
+      "pim": 18
     },
     {
       "name": "Koehn Ziemmer",
@@ -127,7 +127,7 @@
       "g": 3,
       "a": 13,
       "pts": 16,
-      "plus_minus": -8,
+      "plus_minus": -10,
       "pim": 45
     },
     {
@@ -153,11 +153,11 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 45,
+      "gp": 46,
       "g": 4,
       "a": 6,
       "pts": 10,
-      "plus_minus": 8,
+      "plus_minus": 7,
       "pim": 6
     },
     {
@@ -167,7 +167,7 @@
       "g": 1,
       "a": 9,
       "pts": 10,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 26
     },
     {
@@ -193,11 +193,11 @@
     {
       "name": "Tim Rego",
       "position": "D",
-      "gp": 12,
+      "gp": 13,
       "g": 2,
       "a": 3,
       "pts": 5,
-      "plus_minus": 5,
+      "plus_minus": 6,
       "pim": 6
     },
     {
@@ -207,7 +207,7 @@
       "g": 0,
       "a": 4,
       "pts": 4,
-      "plus_minus": 4,
+      "plus_minus": 2,
       "pim": 7
     },
     {
@@ -217,7 +217,7 @@
       "g": 2,
       "a": 1,
       "pts": 3,
-      "plus_minus": -8,
+      "plus_minus": -9,
       "pim": 49
     },
     {
@@ -227,7 +227,7 @@
       "g": 0,
       "a": 3,
       "pts": 3,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 4
     },
     {
@@ -253,7 +253,7 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 9,
+      "gp": 10,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -303,7 +303,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 23,
+      "gp": 24,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -339,14 +339,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 24,
-      "min": "1366:29",
-      "ga": 65,
+      "min": "1423:36",
+      "ga": 70,
       "so": 0,
-      "gaa": 2.85,
+      "gaa": 2.95,
       "w": 13,
-      "l": 10,
+      "l": 11,
       "ot": 0,
-      "sv_percent": 0.893
+      "sv_percent": 0.89
     },
     {
       "name": "Mattias Sholl",
