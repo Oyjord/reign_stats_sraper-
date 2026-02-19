@@ -2,32 +2,32 @@
   {
     "name": "Nikita Alexandrov",
     "position": "F",
-    "gp": 48,
-    "g": 10,
+    "gp": 49,
+    "g": 11,
     "a": 31,
-    "pts": 41,
-    "plus_minus": -17,
+    "pts": 42,
+    "plus_minus": -16,
     "pim": 22
-  },
-  {
-    "name": "Martin Chromiak",
-    "position": "F",
-    "gp": 48,
-    "g": 16,
-    "a": 21,
-    "pts": 37,
-    "plus_minus": -1,
-    "pim": 10
   },
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 49,
+    "gp": 50,
     "g": 11,
-    "a": 26,
+    "a": 27,
+    "pts": 38,
+    "plus_minus": -4,
+    "pim": 55
+  },
+  {
+    "name": "Martin Chromiak",
+    "position": "F",
+    "gp": 49,
+    "g": 16,
+    "a": 21,
     "pts": 37,
-    "plus_minus": -5,
-    "pim": 53
+    "plus_minus": 0,
+    "pim": 10
   },
   {
     "name": "Cole Guttman",
@@ -52,11 +52,11 @@
   {
     "name": "Kenny Connors",
     "position": "F",
-    "gp": 46,
+    "gp": 47,
     "g": 9,
-    "a": 16,
-    "pts": 25,
-    "plus_minus": 11,
+    "a": 17,
+    "pts": 26,
+    "plus_minus": 12,
     "pim": 21
   },
   {
@@ -102,11 +102,11 @@
   {
     "name": "Samuel Bolduc",
     "position": "D",
-    "gp": 48,
+    "gp": 49,
     "g": 5,
-    "a": 13,
-    "pts": 18,
-    "plus_minus": 5,
+    "a": 15,
+    "pts": 20,
+    "plus_minus": 7,
     "pim": 18
   },
   {
@@ -202,11 +202,11 @@
   {
     "name": "Jack Millar",
     "position": "D",
-    "gp": 18,
-    "g": 0,
+    "gp": 19,
+    "g": 1,
     "a": 4,
-    "pts": 4,
-    "plus_minus": 2,
+    "pts": 5,
+    "plus_minus": 4,
     "pim": 7
   },
   {
