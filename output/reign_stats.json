@@ -57,7 +57,7 @@
       "g": 9,
       "a": 17,
       "pts": 26,
-      "plus_minus": 12,
+      "plus_minus": 11,
       "pim": 21
     },
     {
@@ -223,7 +223,7 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 27,
+      "gp": 28,
       "g": 2,
       "a": 1,
       "pts": 3,
@@ -263,7 +263,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 18,
+      "gp": 19,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -327,11 +327,11 @@
     {
       "name": "Erik Portillo",
       "gp": 19,
-      "min": "1079:30",
+      "min": "1079:40",
       "ga": 44,
       "so": 1,
       "gaa": 2.45,
-      "w": 12,
+      "w": 13,
       "l": 3,
       "ot": 1,
       "sv_percent": 0.905
