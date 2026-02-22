@@ -15,9 +15,9 @@
       "position": "F",
       "gp": 51,
       "g": 11,
-      "a": 27,
-      "pts": 38,
-      "plus_minus": -5,
+      "a": 28,
+      "pts": 39,
+      "plus_minus": -4,
       "pim": 55
     },
     {
@@ -48,7 +48,7 @@
       "a": 14,
       "pts": 33,
       "plus_minus": 6,
-      "pim": 37
+      "pim": 39
     },
     {
       "name": "Kenny Connors",
@@ -57,7 +57,7 @@
       "g": 9,
       "a": 18,
       "pts": 27,
-      "plus_minus": 11,
+      "plus_minus": 12,
       "pim": 21
     },
     {
@@ -117,13 +117,13 @@
       "g": 3,
       "a": 14,
       "pts": 17,
-      "plus_minus": -7,
+      "plus_minus": -6,
       "pim": 45
     },
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 36,
+      "gp": 37,
       "g": 6,
       "a": 10,
       "pts": 16,
@@ -143,12 +143,12 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 41,
+      "gp": 42,
       "g": 3,
       "a": 10,
       "pts": 13,
       "plus_minus": 3,
-      "pim": 24
+      "pim": 26
     },
     {
       "name": "Kirill Kirsanov",
@@ -191,6 +191,16 @@
       "pim": 33
     },
     {
+      "name": "Jack Millar",
+      "position": "D",
+      "gp": 20,
+      "g": 2,
+      "a": 4,
+      "pts": 6,
+      "plus_minus": 5,
+      "pim": 7
+    },
+    {
       "name": "Tim Rego",
       "position": "D",
       "gp": 13,
@@ -199,16 +209,6 @@
       "pts": 5,
       "plus_minus": 6,
       "pim": 6
-    },
-    {
-      "name": "Jack Millar",
-      "position": "D",
-      "gp": 20,
-      "g": 1,
-      "a": 4,
-      "pts": 5,
-      "plus_minus": 4,
-      "pim": 7
     },
     {
       "name": "Otto Salin",
@@ -339,11 +339,11 @@
     {
       "name": "Pheonix Copley",
       "gp": 25,
-      "min": "1423:36",
-      "ga": 70,
+      "min": "1483:36",
+      "ga": 72,
       "so": 0,
-      "gaa": 2.95,
-      "w": 13,
+      "gaa": 2.91,
+      "w": 14,
       "l": 11,
       "ot": 0,
       "sv_percent": 0.89
