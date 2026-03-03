@@ -357,7 +357,7 @@
                 "seoName": "Erik Portillo"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -367,7 +367,7 @@
               "player_id": "9733",
               "rookie": "0",
               "name": "Erik Portillo",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "20",
               "minutes_played": "1139:40",
