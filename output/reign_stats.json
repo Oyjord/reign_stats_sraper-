@@ -83,7 +83,7 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 50,
+      "gp": 51,
       "g": 15,
       "a": 10,
       "pts": 25,
@@ -213,7 +213,7 @@
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 35,
+      "gp": 36,
       "g": 3,
       "a": 1,
       "pts": 4,
@@ -243,7 +243,7 @@
     {
       "name": "Kaleb Lawrence",
       "position": "F",
-      "gp": 14,
+      "gp": 15,
       "g": 0,
       "a": 3,
       "pts": 3,
@@ -327,11 +327,11 @@
     {
       "name": "Erik Portillo",
       "gp": 21,
-      "min": "1196:57",
+      "min": "1199:11",
       "ga": 48,
       "so": 1,
-      "gaa": 2.41,
-      "w": 14,
+      "gaa": 2.4,
+      "w": 15,
       "l": 3,
       "ot": 1,
       "sv_percent": 0.906
