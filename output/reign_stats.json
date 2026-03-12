@@ -4,11 +4,21 @@
       "name": "Glenn Gawdin",
       "position": "F",
       "gp": 57,
-      "g": 12,
+      "g": 13,
       "a": 31,
-      "pts": 43,
-      "plus_minus": -1,
+      "pts": 44,
+      "plus_minus": 0,
       "pim": 65
+    },
+    {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 53,
+      "g": 20,
+      "a": 23,
+      "pts": 43,
+      "plus_minus": 3,
+      "pim": 44
     },
     {
       "name": "Nikita Alexandrov",
@@ -19,16 +29,6 @@
       "pts": 43,
       "plus_minus": -18,
       "pim": 22
-    },
-    {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 53,
-      "g": 20,
-      "a": 22,
-      "pts": 42,
-      "plus_minus": 2,
-      "pim": 44
     },
     {
       "name": "Martin Chromiak",
@@ -117,7 +117,7 @@
       "g": 6,
       "a": 12,
       "pts": 18,
-      "plus_minus": 6,
+      "plus_minus": 7,
       "pim": 44
     },
     {
@@ -127,7 +127,7 @@
       "g": 3,
       "a": 15,
       "pts": 18,
-      "plus_minus": -7,
+      "plus_minus": -6,
       "pim": 49
     },
     {
@@ -163,7 +163,7 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 46,
+      "gp": 47,
       "g": 1,
       "a": 12,
       "pts": 13,
@@ -177,7 +177,7 @@
       "g": 4,
       "a": 8,
       "pts": 12,
-      "plus_minus": 10,
+      "plus_minus": 9,
       "pim": 8
     },
     {
@@ -207,7 +207,7 @@
       "g": 0,
       "a": 7,
       "pts": 7,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 4
     },
     {
@@ -273,7 +273,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 22,
+      "gp": 23,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -337,14 +337,14 @@
     {
       "name": "Erik Portillo",
       "gp": 23,
-      "min": "1269:56",
-      "ga": 49,
+      "min": "1324:08",
+      "ga": 52,
       "so": 1,
-      "gaa": 2.32,
+      "gaa": 2.36,
       "w": 16,
       "l": 3,
-      "ot": 1,
-      "sv_percent": 0.909
+      "ot": 2,
+      "sv_percent": 0.907
     },
     {
       "name": "Pheonix Copley",
