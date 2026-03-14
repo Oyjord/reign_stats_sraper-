@@ -36,7 +36,7 @@
     "g": 11,
     "a": 32,
     "pts": 43,
-    "plus_minus": -20,
+    "plus_minus": -21,
     "pim": 22
   },
   {
@@ -66,13 +66,13 @@
     "g": 9,
     "a": 21,
     "pts": 30,
-    "plus_minus": 14,
+    "plus_minus": 13,
     "pim": 23
   },
   {
     "name": "Francesco Pinelli",
     "position": "F",
-    "gp": 50,
+    "gp": 51,
     "g": 10,
     "a": 17,
     "pts": 27,
@@ -126,8 +126,8 @@
     "g": 3,
     "a": 15,
     "pts": 18,
-    "plus_minus": -6,
-    "pim": 49
+    "plus_minus": -5,
+    "pim": 51
   },
   {
     "name": "Jan Jeník",
@@ -142,7 +142,7 @@
   {
     "name": "Koehn Ziemmer",
     "position": "F",
-    "gp": 42,
+    "gp": 43,
     "g": 7,
     "a": 10,
     "pts": 17,
@@ -176,7 +176,7 @@
     "g": 1,
     "a": 12,
     "pts": 13,
-    "plus_minus": 5,
+    "plus_minus": 4,
     "pim": 28
   },
   {
@@ -192,7 +192,7 @@
   {
     "name": "Jack Millar",
     "position": "D",
-    "gp": 26,
+    "gp": 27,
     "g": 2,
     "a": 6,
     "pts": 8,
@@ -212,7 +212,7 @@
   {
     "name": "Logan Brown",
     "position": "F",
-    "gp": 16,
+    "gp": 17,
     "g": 0,
     "a": 7,
     "pts": 7,
@@ -236,7 +236,7 @@
     "g": 3,
     "a": 2,
     "pts": 5,
-    "plus_minus": -3,
+    "plus_minus": -2,
     "pim": 22
   },
   {
@@ -262,11 +262,11 @@
   {
     "name": "Kenta Isogai",
     "position": "F",
-    "gp": 18,
+    "gp": 19,
     "g": 2,
     "a": 1,
     "pts": 3,
-    "plus_minus": -3,
+    "plus_minus": -2,
     "pim": 2
   },
   {
@@ -322,7 +322,7 @@
   {
     "name": "Pheonix Copley",
     "position": "G",
-    "gp": 27,
+    "gp": 28,
     "g": 0,
     "a": 0,
     "pts": 0,
