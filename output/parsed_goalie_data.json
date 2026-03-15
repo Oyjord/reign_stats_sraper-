@@ -369,11 +369,11 @@
               "name": "Erik Portillo",
               "active": "1",
               "team_code": "ONT",
-              "games_played": "23",
-              "minutes_played": "1324:08",
-              "saves": "508",
-              "shots": "560",
-              "save_percentage": "0.907",
+              "games_played": "24",
+              "minutes_played": "1331:33",
+              "saves": "512",
+              "shots": "564",
+              "save_percentage": "0.908",
               "goals_against": "52",
               "shutouts": "1",
               "wins": "16",
@@ -385,7 +385,7 @@
               "assists": "2",
               "penalty_minutes": "6",
               "shootout_percentage": "0.667",
-              "goals_against_average": "2.36",
+              "goals_against_average": "2.34",
               "rank": 2
             }
           },
@@ -488,10 +488,10 @@
             "prop": [],
             "row": {
               "games_played": "58",
-              "minutes_played": 3549,
-              "saves": "1336",
-              "shots": "1492",
-              "save_percentage": "0.895",
+              "minutes_played": 3557,
+              "saves": "1340",
+              "shots": "1496",
+              "save_percentage": "0.896",
               "goals_against": "156",
               "shutouts": 3,
               "wins": "38",
@@ -500,7 +500,7 @@
               "shootout_goals_against": "5",
               "shootout_attempts": "20",
               "shootout_percentage": "0.750",
-              "goals_against_average": "2.66",
+              "goals_against_average": "2.65",
               "name": "Totals "
             }
           }
