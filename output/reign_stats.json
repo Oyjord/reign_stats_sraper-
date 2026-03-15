@@ -7,13 +7,13 @@
       "g": 13,
       "a": 31,
       "pts": 44,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 67
     },
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 57,
+      "gp": 58,
       "g": 21,
       "a": 22,
       "pts": 43,
@@ -23,11 +23,11 @@
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 54,
+      "gp": 55,
       "g": 20,
       "a": 23,
       "pts": 43,
-      "plus_minus": 1,
+      "plus_minus": 0,
       "pim": 44
     },
     {
@@ -63,21 +63,21 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 52,
+      "gp": 53,
       "g": 9,
       "a": 21,
       "pts": 30,
-      "plus_minus": 13,
+      "plus_minus": 14,
       "pim": 23
     },
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 51,
+      "gp": 52,
       "g": 10,
-      "a": 17,
-      "pts": 27,
-      "plus_minus": 11,
+      "a": 18,
+      "pts": 28,
+      "plus_minus": 12,
       "pim": 35
     },
     {
@@ -111,23 +111,33 @@
       "pim": 18
     },
     {
+      "name": "Koehn Ziemmer",
+      "position": "F",
+      "gp": 44,
+      "g": 9,
+      "a": 10,
+      "pts": 19,
+      "plus_minus": 8,
+      "pim": 20
+    },
+    {
       "name": "Nikita Novikov",
       "position": "D",
-      "gp": 52,
+      "gp": 53,
       "g": 6,
-      "a": 12,
-      "pts": 18,
-      "plus_minus": 7,
+      "a": 13,
+      "pts": 19,
+      "plus_minus": 8,
       "pim": 46
     },
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 54,
+      "gp": 55,
       "g": 3,
       "a": 15,
       "pts": 18,
-      "plus_minus": -5,
+      "plus_minus": -6,
       "pim": 51
     },
     {
@@ -141,24 +151,24 @@
       "pim": 25
     },
     {
-      "name": "Koehn Ziemmer",
-      "position": "F",
-      "gp": 43,
-      "g": 7,
-      "a": 10,
-      "pts": 17,
-      "plus_minus": 8,
-      "pim": 20
-    },
-    {
       "name": "Jack Hughes",
       "position": "F",
       "gp": 48,
       "g": 4,
-      "a": 11,
-      "pts": 15,
+      "a": 12,
+      "pts": 16,
       "plus_minus": 1,
       "pim": 26
+    },
+    {
+      "name": "Angus Booth",
+      "position": "D",
+      "gp": 49,
+      "g": 1,
+      "a": 13,
+      "pts": 14,
+      "plus_minus": 5,
+      "pim": 28
     },
     {
       "name": "Akil Thomas",
@@ -169,16 +179,6 @@
       "pts": 13,
       "plus_minus": -5,
       "pim": 2
-    },
-    {
-      "name": "Angus Booth",
-      "position": "D",
-      "gp": 49,
-      "g": 1,
-      "a": 12,
-      "pts": 13,
-      "plus_minus": 3,
-      "pim": 28
     },
     {
       "name": "Kirill Kirsanov",
@@ -193,11 +193,11 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 27,
+      "gp": 28,
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": 6,
+      "plus_minus": 7,
       "pim": 7
     },
     {
@@ -213,7 +213,7 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 17,
+      "gp": 18,
       "g": 0,
       "a": 7,
       "pts": 7,
@@ -223,12 +223,12 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 36,
+      "gp": 37,
       "g": 3,
       "a": 3,
       "pts": 6,
-      "plus_minus": 5,
-      "pim": 33
+      "plus_minus": 3,
+      "pim": 35
     },
     {
       "name": "Otto Salin",
@@ -257,7 +257,7 @@
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 2
     },
     {
@@ -268,7 +268,7 @@
       "a": 2,
       "pts": 4,
       "plus_minus": -9,
-      "pim": 66
+      "pim": 76
     },
     {
       "name": "Kaleb Lawrence",
@@ -283,7 +283,7 @@
     {
       "name": "Erik Portillo",
       "position": "G",
-      "gp": 23,
+      "gp": 24,
       "g": 0,
       "a": 2,
       "pts": 2,
@@ -347,14 +347,14 @@
     {
       "name": "Erik Portillo",
       "gp": 24,
-      "min": "1331:33",
-      "ga": 52,
+      "min": "1385:21",
+      "ga": 56,
       "so": 1,
-      "gaa": 2.34,
+      "gaa": 2.43,
       "w": 16,
       "l": 3,
-      "ot": 2,
-      "sv_percent": 0.908
+      "ot": 3,
+      "sv_percent": 0.907
     },
     {
       "name": "Pheonix Copley",
