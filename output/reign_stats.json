@@ -1,6 +1,16 @@
 {
   "skaters": [
     {
+      "name": "Nikita Alexandrov",
+      "position": "F",
+      "gp": 55,
+      "g": 11,
+      "a": 34,
+      "pts": 45,
+      "plus_minus": -20,
+      "pim": 22
+    },
+    {
       "name": "Martin Chromiak",
       "position": "F",
       "gp": 59,
@@ -13,7 +23,7 @@
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 59,
+      "gp": 60,
       "g": 13,
       "a": 31,
       "pts": 44,
@@ -21,29 +31,19 @@
       "pim": 67
     },
     {
-      "name": "Nikita Alexandrov",
-      "position": "F",
-      "gp": 55,
-      "g": 11,
-      "a": 33,
-      "pts": 44,
-      "plus_minus": -21,
-      "pim": 22
-    },
-    {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 55,
+      "gp": 56,
       "g": 20,
       "a": 23,
       "pts": 43,
       "plus_minus": 0,
-      "pim": 44
+      "pim": 46
     },
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 52,
+      "gp": 53,
       "g": 24,
       "a": 17,
       "pts": 41,
@@ -54,10 +54,10 @@
       "name": "Kenny Connors",
       "position": "F",
       "gp": 54,
-      "g": 10,
+      "g": 11,
       "a": 21,
-      "pts": 31,
-      "plus_minus": 15,
+      "pts": 32,
+      "plus_minus": 16,
       "pim": 23
     },
     {
@@ -77,7 +77,7 @@
       "g": 10,
       "a": 18,
       "pts": 28,
-      "plus_minus": 12,
+      "plus_minus": 13,
       "pim": 40
     },
     {
@@ -153,7 +153,7 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 48,
+      "gp": 49,
       "g": 4,
       "a": 12,
       "pts": 16,
@@ -163,11 +163,11 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 49,
+      "gp": 50,
       "g": 1,
       "a": 13,
       "pts": 14,
-      "plus_minus": 5,
+      "plus_minus": 6,
       "pim": 28
     },
     {
@@ -183,11 +183,11 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 56,
+      "gp": 57,
       "g": 4,
       "a": 8,
       "pts": 12,
-      "plus_minus": 7,
+      "plus_minus": 8,
       "pim": 10
     },
     {
@@ -233,7 +233,7 @@
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 38,
+      "gp": 39,
       "g": 3,
       "a": 2,
       "pts": 5,
@@ -323,7 +323,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 28,
+      "gp": 29,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -359,14 +359,14 @@
     {
       "name": "Pheonix Copley",
       "gp": 29,
-      "min": "1670:57",
-      "ga": 80,
+      "min": "1730:57",
+      "ga": 81,
       "so": 0,
-      "gaa": 2.87,
-      "w": 16,
+      "gaa": 2.81,
+      "w": 17,
       "l": 11,
       "ot": 1,
-      "sv_percent": 0.891
+      "sv_percent": 0.893
     },
     {
       "name": "Mattias Sholl",
