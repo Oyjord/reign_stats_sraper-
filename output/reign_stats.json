@@ -1,6 +1,16 @@
 {
   "skaters": [
     {
+      "name": "Martin Chromiak",
+      "position": "F",
+      "gp": 59,
+      "g": 21,
+      "a": 23,
+      "pts": 44,
+      "plus_minus": 3,
+      "pim": 12
+    },
+    {
       "name": "Glenn Gawdin",
       "position": "F",
       "gp": 59,
@@ -11,14 +21,14 @@
       "pim": 67
     },
     {
-      "name": "Martin Chromiak",
+      "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 58,
-      "g": 21,
-      "a": 22,
-      "pts": 43,
-      "plus_minus": 2,
-      "pim": 12
+      "gp": 55,
+      "g": 11,
+      "a": 33,
+      "pts": 44,
+      "plus_minus": -21,
+      "pim": 22
     },
     {
       "name": "Cole Guttman",
@@ -31,16 +41,6 @@
       "pim": 44
     },
     {
-      "name": "Nikita Alexandrov",
-      "position": "F",
-      "gp": 54,
-      "g": 11,
-      "a": 32,
-      "pts": 43,
-      "plus_minus": -22,
-      "pim": 22
-    },
-    {
       "name": "Andre Lee",
       "position": "F",
       "gp": 52,
@@ -49,6 +49,16 @@
       "pts": 41,
       "plus_minus": 11,
       "pim": 41
+    },
+    {
+      "name": "Kenny Connors",
+      "position": "F",
+      "gp": 54,
+      "g": 10,
+      "a": 21,
+      "pts": 31,
+      "plus_minus": 15,
+      "pim": 23
     },
     {
       "name": "Jared Wright",
@@ -61,24 +71,14 @@
       "pim": 11
     },
     {
-      "name": "Kenny Connors",
-      "position": "F",
-      "gp": 53,
-      "g": 9,
-      "a": 21,
-      "pts": 30,
-      "plus_minus": 14,
-      "pim": 23
-    },
-    {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 52,
+      "gp": 53,
       "g": 10,
       "a": 18,
       "pts": 28,
       "plus_minus": 12,
-      "pim": 35
+      "pim": 40
     },
     {
       "name": "Aatu Jämsen",
@@ -113,31 +113,31 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 44,
-      "g": 9,
+      "gp": 45,
+      "g": 10,
       "a": 10,
-      "pts": 19,
-      "plus_minus": 8,
-      "pim": 20
+      "pts": 20,
+      "plus_minus": 9,
+      "pim": 22
     },
     {
       "name": "Nikita Novikov",
       "position": "D",
-      "gp": 53,
+      "gp": 54,
       "g": 6,
       "a": 13,
       "pts": 19,
-      "plus_minus": 8,
+      "plus_minus": 9,
       "pim": 46
     },
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 55,
+      "gp": 56,
       "g": 3,
       "a": 15,
       "pts": 18,
-      "plus_minus": -6,
+      "plus_minus": -5,
       "pim": 51
     },
     {
@@ -193,11 +193,11 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 28,
+      "gp": 29,
       "g": 2,
       "a": 6,
       "pts": 8,
-      "plus_minus": 7,
+      "plus_minus": 9,
       "pim": 7
     },
     {
@@ -213,11 +213,11 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 18,
+      "gp": 19,
       "g": 0,
       "a": 7,
       "pts": 7,
-      "plus_minus": 0,
+      "plus_minus": 1,
       "pim": 4
     },
     {
@@ -253,22 +253,22 @@
     {
       "name": "Kenta Isogai",
       "position": "F",
-      "gp": 20,
+      "gp": 21,
       "g": 2,
-      "a": 2,
-      "pts": 4,
-      "plus_minus": -2,
+      "a": 3,
+      "pts": 5,
+      "plus_minus": -1,
       "pim": 2
     },
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 37,
+      "gp": 38,
       "g": 2,
       "a": 2,
       "pts": 4,
       "plus_minus": -9,
-      "pim": 76
+      "pim": 78
     },
     {
       "name": "Kaleb Lawrence",
@@ -358,7 +358,7 @@
     },
     {
       "name": "Pheonix Copley",
-      "gp": 28,
+      "gp": 29,
       "min": "1670:57",
       "ga": 80,
       "so": 0,
