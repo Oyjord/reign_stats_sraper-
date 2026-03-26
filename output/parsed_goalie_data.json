@@ -370,14 +370,14 @@
               "active": "1",
               "team_code": "ONT",
               "games_played": "26",
-              "minutes_played": "1487:02",
-              "saves": "586",
-              "shots": "645",
-              "save_percentage": "0.909",
-              "goals_against": "59",
+              "minutes_played": "1501:45",
+              "saves": "593",
+              "shots": "654",
+              "save_percentage": "0.907",
+              "goals_against": "61",
               "shutouts": "1",
               "wins": "16",
-              "losses": "4",
+              "losses": "5",
               "ot_losses": "3",
               "shootout_goals_against": "2",
               "shootout_attempts": "6",
@@ -385,7 +385,7 @@
               "assists": "2",
               "penalty_minutes": "6",
               "shootout_percentage": "0.667",
-              "goals_against_average": "2.38",
+              "goals_against_average": "2.44",
               "rank": 2
             }
           },
@@ -476,31 +476,31 @@
           {
             "prop": [],
             "row": {
-              "games_played": "30",
-              "goals_against": "7",
-              "goals_against_average": "14.20",
-              "shots": "7",
+              "games_played": "31",
+              "goals_against": "8",
+              "goals_against_average": "15.27",
+              "shots": "8",
               "name": "Empty Net ",
-              "minutes_played": "29:35"
+              "minutes_played": "31:26"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "62",
-              "minutes_played": 3836,
-              "saves": "1464",
-              "shots": "1630",
-              "save_percentage": "0.898",
-              "goals_against": "166",
+              "games_played": "63",
+              "minutes_played": 3855,
+              "saves": "1471",
+              "shots": "1640",
+              "save_percentage": "0.897",
+              "goals_against": "169",
               "shutouts": 3,
               "wins": "40",
-              "losses": "17",
+              "losses": "18",
               "ot_losses": "3",
               "shootout_goals_against": "5",
               "shootout_attempts": "20",
               "shootout_percentage": "0.750",
-              "goals_against_average": "2.62",
+              "goals_against_average": "2.65",
               "name": "Totals "
             }
           }
