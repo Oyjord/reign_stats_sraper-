@@ -3,41 +3,41 @@
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 62,
-      "g": 22,
-      "a": 24,
-      "pts": 46,
-      "plus_minus": 0,
+      "gp": 63,
+      "g": 24,
+      "a": 25,
+      "pts": 49,
+      "plus_minus": 1,
       "pim": 14
     },
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 58,
+      "gp": 59,
       "g": 12,
-      "a": 34,
-      "pts": 46,
-      "plus_minus": -25,
-      "pim": 22
+      "a": 36,
+      "pts": 48,
+      "plus_minus": -24,
+      "pim": 24
     },
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 59,
-      "g": 20,
+      "gp": 60,
+      "g": 21,
       "a": 24,
-      "pts": 44,
+      "pts": 45,
       "plus_minus": -3,
       "pim": 46
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 63,
+      "gp": 64,
       "g": 13,
-      "a": 31,
-      "pts": 44,
-      "plus_minus": -3,
+      "a": 32,
+      "pts": 45,
+      "plus_minus": -2,
       "pim": 69
     },
     {
@@ -53,11 +53,11 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 57,
+      "gp": 58,
       "g": 11,
       "a": 21,
       "pts": 32,
-      "plus_minus": 14,
+      "plus_minus": 13,
       "pim": 25
     },
     {
@@ -73,12 +73,12 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 56,
+      "gp": 57,
       "g": 12,
       "a": 18,
       "pts": 30,
-      "plus_minus": 13,
-      "pim": 44
+      "plus_minus": 12,
+      "pim": 46
     },
     {
       "name": "Aatu Jämsen",
@@ -103,11 +103,11 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 48,
+      "gp": 49,
       "g": 10,
       "a": 11,
       "pts": 21,
-      "plus_minus": 9,
+      "plus_minus": 8,
       "pim": 27
     },
     {
@@ -123,11 +123,11 @@
     {
       "name": "Nikita Novikov",
       "position": "D",
-      "gp": 56,
+      "gp": 57,
       "g": 6,
       "a": 13,
       "pts": 19,
-      "plus_minus": 10,
+      "plus_minus": 9,
       "pim": 48
     },
     {
@@ -153,22 +153,22 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 51,
+      "gp": 52,
       "g": 4,
       "a": 12,
       "pts": 16,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 26
     },
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 53,
+      "gp": 54,
       "g": 1,
       "a": 14,
       "pts": 15,
-      "plus_minus": 5,
-      "pim": 30
+      "plus_minus": 6,
+      "pim": 34
     },
     {
       "name": "Akil Thomas",
@@ -183,32 +183,32 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 60,
+      "gp": 61,
       "g": 4,
       "a": 9,
       "pts": 13,
-      "plus_minus": 7,
+      "plus_minus": 8,
       "pim": 10
-    },
-    {
-      "name": "Jack Millar",
-      "position": "D",
-      "gp": 32,
-      "g": 2,
-      "a": 6,
-      "pts": 8,
-      "plus_minus": 11,
-      "pim": 7
     },
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 22,
+      "gp": 23,
       "g": 0,
-      "a": 8,
-      "pts": 8,
+      "a": 10,
+      "pts": 10,
       "plus_minus": 2,
-      "pim": 4
+      "pim": 6
+    },
+    {
+      "name": "Jack Millar",
+      "position": "D",
+      "gp": 33,
+      "g": 2,
+      "a": 6,
+      "pts": 8,
+      "plus_minus": 9,
+      "pim": 9
     },
     {
       "name": "Kyle Burroughs",
@@ -233,11 +233,11 @@
     {
       "name": "Otto Salin",
       "position": "D",
-      "gp": 40,
+      "gp": 41,
       "g": 3,
       "a": 2,
       "pts": 5,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 22
     },
     {
@@ -253,21 +253,21 @@
     {
       "name": "Kenta Isogai",
       "position": "F",
-      "gp": 23,
+      "gp": 24,
       "g": 2,
       "a": 3,
       "pts": 5,
-      "plus_minus": -1,
+      "plus_minus": -2,
       "pim": 2
     },
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 41,
+      "gp": 42,
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": -9,
+      "plus_minus": -10,
       "pim": 83
     },
     {
@@ -358,11 +358,11 @@
     },
     {
       "name": "Pheonix Copley",
-      "gp": 30,
-      "min": "1790:57",
-      "ga": 82,
+      "gp": 31,
+      "min": "1840:17",
+      "ga": 84,
       "so": 0,
-      "gaa": 2.75,
+      "gaa": 2.74,
       "w": 18,
       "l": 11,
       "ot": 1,
