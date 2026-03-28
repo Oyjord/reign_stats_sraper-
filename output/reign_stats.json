@@ -43,7 +43,7 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 56,
+      "gp": 57,
       "g": 25,
       "a": 17,
       "pts": 42,
@@ -133,7 +133,7 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 59,
+      "gp": 60,
       "g": 3,
       "a": 15,
       "pts": 18,
@@ -323,7 +323,7 @@
     {
       "name": "Pheonix Copley",
       "position": "G",
-      "gp": 30,
+      "gp": 31,
       "g": 0,
       "a": 0,
       "pts": 0,
@@ -359,11 +359,11 @@
     {
       "name": "Pheonix Copley",
       "gp": 31,
-      "min": "1849:27",
+      "min": "1850:57",
       "ga": 84,
       "so": 0,
-      "gaa": 2.73,
-      "w": 18,
+      "gaa": 2.72,
+      "w": 19,
       "l": 11,
       "ot": 1,
       "sv_percent": 0.896
