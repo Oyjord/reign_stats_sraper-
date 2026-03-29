@@ -370,14 +370,14 @@
               "active": "1",
               "team_code": "ONT",
               "games_played": "27",
-              "minutes_played": "1559:31",
-              "saves": "628",
-              "shots": "692",
+              "minutes_played": "1559:49",
+              "saves": "629",
+              "shots": "693",
               "save_percentage": "0.908",
               "goals_against": "64",
               "shutouts": "1",
               "wins": "16",
-              "losses": "5",
+              "losses": "6",
               "ot_losses": "3",
               "shootout_goals_against": "2",
               "shootout_attempts": "6",
@@ -476,31 +476,31 @@
           {
             "prop": [],
             "row": {
-              "games_played": "31",
-              "goals_against": "8",
-              "goals_against_average": "15.27",
-              "shots": "8",
+              "games_played": "32",
+              "goals_against": "9",
+              "goals_against_average": "16.18",
+              "shots": "9",
               "name": "Empty Net ",
-              "minutes_played": "31:26"
+              "minutes_played": "33:22"
             }
           },
           {
             "prop": [],
             "row": {
-              "games_played": "64",
-              "minutes_played": 3972,
-              "saves": "1529",
-              "shots": "1703",
-              "save_percentage": "0.898",
-              "goals_against": "174",
+              "games_played": "65",
+              "minutes_played": 3977,
+              "saves": "1530",
+              "shots": "1705",
+              "save_percentage": "0.897",
+              "goals_against": "175",
               "shutouts": 3,
               "wins": "41",
-              "losses": "18",
+              "losses": "19",
               "ot_losses": "3",
               "shootout_goals_against": "5",
               "shootout_attempts": "20",
               "shootout_percentage": "0.750",
-              "goals_against_average": "2.65",
+              "goals_against_average": "2.66",
               "name": "Totals "
             }
           }
