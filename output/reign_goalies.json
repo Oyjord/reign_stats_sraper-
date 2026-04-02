@@ -26,14 +26,14 @@
   {
     "name": "Pheonix Copley",
     "gp": 32,
-    "min": "1870:57",
+    "min": "1910:57",
     "ga": 84,
-    "so": 0,
-    "gaa": 2.69,
-    "w": 19,
+    "so": 1,
+    "gaa": 2.64,
+    "w": 20,
     "l": 11,
     "ot": 1,
-    "sv_percent": 0.896
+    "sv_percent": 0.899
   },
   {
     "name": "Mattias Sholl",
