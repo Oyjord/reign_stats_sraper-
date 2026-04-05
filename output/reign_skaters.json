@@ -20,6 +20,16 @@
     "pim": 52
   },
   {
+    "name": "Nikita Alexandrov",
+    "position": "F",
+    "gp": 62,
+    "g": 14,
+    "a": 36,
+    "pts": 50,
+    "plus_minus": -24,
+    "pim": 26
+  },
+  {
     "name": "Glenn Gawdin",
     "position": "F",
     "gp": 67,
@@ -27,25 +37,15 @@
     "a": 34,
     "pts": 49,
     "plus_minus": 2,
-    "pim": 69
-  },
-  {
-    "name": "Nikita Alexandrov",
-    "position": "F",
-    "gp": 61,
-    "g": 12,
-    "a": 36,
-    "pts": 48,
-    "plus_minus": -26,
-    "pim": 26
+    "pim": 71
   },
   {
     "name": "Andre Lee",
     "position": "F",
     "gp": 60,
-    "g": 25,
+    "g": 26,
     "a": 22,
-    "pts": 47,
+    "pts": 48,
     "plus_minus": 16,
     "pim": 45
   },
@@ -54,20 +54,20 @@
     "position": "F",
     "gp": 61,
     "g": 13,
-    "a": 22,
-    "pts": 35,
-    "plus_minus": 13,
-    "pim": 25
+    "a": 24,
+    "pts": 37,
+    "plus_minus": 15,
+    "pim": 30
   },
   {
     "name": "Francesco Pinelli",
     "position": "F",
     "gp": 60,
     "g": 12,
-    "a": 19,
-    "pts": 31,
-    "plus_minus": 13,
-    "pim": 46
+    "a": 21,
+    "pts": 33,
+    "plus_minus": 14,
+    "pim": 48
   },
   {
     "name": "Jared Wright",
@@ -82,17 +82,17 @@
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 53,
-    "g": 15,
-    "a": 11,
-    "pts": 26,
-    "plus_minus": 4,
+    "gp": 54,
+    "g": 16,
+    "a": 12,
+    "pts": 28,
+    "plus_minus": 5,
     "pim": 22
   },
   {
     "name": "Koehn Ziemmer",
     "position": "F",
-    "gp": 51,
+    "gp": 52,
     "g": 10,
     "a": 12,
     "pts": 22,
@@ -126,7 +126,7 @@
     "g": 4,
     "a": 17,
     "pts": 21,
-    "plus_minus": 0,
+    "plus_minus": 2,
     "pim": 61
   },
   {
@@ -153,10 +153,10 @@
     "name": "Jack Hughes",
     "position": "F",
     "gp": 55,
-    "g": 4,
+    "g": 5,
     "a": 12,
-    "pts": 16,
-    "plus_minus": -2,
+    "pts": 17,
+    "plus_minus": -1,
     "pim": 26
   },
   {
@@ -164,9 +164,9 @@
     "position": "D",
     "gp": 57,
     "g": 1,
-    "a": 15,
-    "pts": 16,
-    "plus_minus": 7,
+    "a": 16,
+    "pts": 17,
+    "plus_minus": 9,
     "pim": 34
   },
   {
@@ -192,11 +192,11 @@
   {
     "name": "Logan Brown",
     "position": "F",
-    "gp": 25,
+    "gp": 26,
     "g": 0,
-    "a": 11,
-    "pts": 11,
-    "plus_minus": 3,
+    "a": 13,
+    "pts": 13,
+    "plus_minus": 4,
     "pim": 6
   },
   {
@@ -206,13 +206,13 @@
     "g": 2,
     "a": 6,
     "pts": 8,
-    "plus_minus": 12,
+    "plus_minus": 14,
     "pim": 11
   },
   {
     "name": "Jakub Dvořák",
     "position": "D",
-    "gp": 42,
+    "gp": 43,
     "g": 4,
     "a": 3,
     "pts": 7,
@@ -282,7 +282,7 @@
   {
     "name": "Erik Portillo",
     "position": "G",
-    "gp": 27,
+    "gp": 28,
     "g": 0,
     "a": 2,
     "pts": 2,
