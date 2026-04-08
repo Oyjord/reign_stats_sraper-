@@ -2,27 +2,27 @@
   {
     "name": "Martin Chromiak",
     "position": "F",
-    "gp": 66,
-    "g": 25,
+    "gp": 67,
+    "g": 26,
     "a": 25,
-    "pts": 50,
+    "pts": 51,
     "plus_minus": -2,
     "pim": 14
   },
   {
     "name": "Cole Guttman",
     "position": "F",
-    "gp": 63,
+    "gp": 64,
     "g": 24,
-    "a": 26,
-    "pts": 50,
+    "a": 27,
+    "pts": 51,
     "plus_minus": 1,
     "pim": 52
   },
   {
     "name": "Nikita Alexandrov",
     "position": "F",
-    "gp": 62,
+    "gp": 63,
     "g": 14,
     "a": 36,
     "pts": 50,
@@ -32,7 +32,7 @@
   {
     "name": "Glenn Gawdin",
     "position": "F",
-    "gp": 67,
+    "gp": 68,
     "g": 15,
     "a": 34,
     "pts": 49,
@@ -42,12 +42,12 @@
   {
     "name": "Andre Lee",
     "position": "F",
-    "gp": 60,
+    "gp": 61,
     "g": 26,
     "a": 22,
     "pts": 48,
     "plus_minus": 16,
-    "pim": 45
+    "pim": 47
   },
   {
     "name": "Kenny Connors",
@@ -122,7 +122,7 @@
   {
     "name": "Joe Hicketts",
     "position": "D",
-    "gp": 63,
+    "gp": 64,
     "g": 4,
     "a": 17,
     "pts": 21,
@@ -132,7 +132,7 @@
   {
     "name": "Nikita Novikov",
     "position": "D",
-    "gp": 60,
+    "gp": 61,
     "g": 6,
     "a": 13,
     "pts": 19,
@@ -192,7 +192,7 @@
   {
     "name": "Logan Brown",
     "position": "F",
-    "gp": 26,
+    "gp": 27,
     "g": 0,
     "a": 13,
     "pts": 13,
@@ -202,12 +202,12 @@
   {
     "name": "Jack Millar",
     "position": "D",
-    "gp": 36,
+    "gp": 37,
     "g": 2,
     "a": 6,
     "pts": 8,
     "plus_minus": 14,
-    "pim": 11
+    "pim": 13
   },
   {
     "name": "Jakub Dvořák",
@@ -298,6 +298,16 @@
     "pts": 1,
     "plus_minus": -3,
     "pim": 0
+  },
+  {
+    "name": "Henry Brzustewicz",
+    "position": "D",
+    "gp": 1,
+    "g": 0,
+    "a": 0,
+    "pts": 0,
+    "plus_minus": 0,
+    "pim": 4
   },
   {
     "name": "Mattias Sholl",
