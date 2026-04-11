@@ -7,7 +7,7 @@
       "g": 26,
       "a": 26,
       "pts": 52,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 14
     },
     {
@@ -17,7 +17,7 @@
       "g": 24,
       "a": 28,
       "pts": 52,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 52
     },
     {
@@ -25,8 +25,8 @@
       "position": "F",
       "gp": 64,
       "g": 14,
-      "a": 37,
-      "pts": 51,
+      "a": 38,
+      "pts": 52,
       "plus_minus": -23,
       "pim": 26
     },
@@ -37,7 +37,7 @@
       "g": 15,
       "a": 34,
       "pts": 49,
-      "plus_minus": 3,
+      "plus_minus": 2,
       "pim": 73
     },
     {
@@ -63,11 +63,11 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 61,
-      "g": 12,
+      "gp": 62,
+      "g": 13,
       "a": 21,
-      "pts": 33,
-      "plus_minus": 14,
+      "pts": 34,
+      "plus_minus": 15,
       "pim": 48
     },
     {
@@ -93,10 +93,10 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 53,
+      "gp": 54,
       "g": 10,
-      "a": 12,
-      "pts": 22,
+      "a": 13,
+      "pts": 23,
       "plus_minus": 9,
       "pim": 27
     },
@@ -123,7 +123,7 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 64,
+      "gp": 65,
       "g": 4,
       "a": 17,
       "pts": 21,
@@ -133,11 +133,11 @@
     {
       "name": "Nikita Novikov",
       "position": "D",
-      "gp": 61,
+      "gp": 62,
       "g": 6,
       "a": 13,
       "pts": 19,
-      "plus_minus": 9,
+      "plus_minus": 10,
       "pim": 52
     },
     {
@@ -153,7 +153,7 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 56,
+      "gp": 57,
       "g": 5,
       "a": 12,
       "pts": 17,
@@ -177,7 +177,7 @@
       "g": 1,
       "a": 13,
       "pts": 14,
-      "plus_minus": 5,
+      "plus_minus": 4,
       "pim": 6
     },
     {
@@ -203,11 +203,11 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 37,
+      "gp": 38,
       "g": 2,
-      "a": 6,
-      "pts": 8,
-      "plus_minus": 14,
+      "a": 7,
+      "pts": 9,
+      "plus_minus": 16,
       "pim": 13
     },
     {
@@ -231,6 +231,16 @@
       "pim": 10
     },
     {
+      "name": "Kenta Isogai",
+      "position": "F",
+      "gp": 26,
+      "g": 3,
+      "a": 3,
+      "pts": 6,
+      "plus_minus": -2,
+      "pim": 2
+    },
+    {
       "name": "Otto Salin",
       "position": "D",
       "gp": 41,
@@ -249,16 +259,6 @@
       "pts": 5,
       "plus_minus": 6,
       "pim": 6
-    },
-    {
-      "name": "Kenta Isogai",
-      "position": "F",
-      "gp": 25,
-      "g": 2,
-      "a": 3,
-      "pts": 5,
-      "plus_minus": -2,
-      "pim": 2
     },
     {
       "name": "Jacob Doty",
@@ -311,16 +311,6 @@
       "pim": 12
     },
     {
-      "name": "Henry Brzustewicz",
-      "position": "D",
-      "gp": 1,
-      "g": 0,
-      "a": 0,
-      "pts": 0,
-      "plus_minus": 0,
-      "pim": 4
-    },
-    {
       "name": "Mattias Sholl",
       "position": "G",
       "gp": 1,
@@ -329,6 +319,16 @@
       "pts": 0,
       "plus_minus": 0,
       "pim": 0
+    },
+    {
+      "name": "Henry Brzustewicz",
+      "position": "D",
+      "gp": 2,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 0,
+      "pim": 4
     },
     {
       "name": "Isaiah Saville",
@@ -345,14 +345,14 @@
     {
       "name": "Hampton Slukynsky",
       "gp": 1,
-      "min": "17:11",
-      "ga": 0,
+      "min": "41:41",
+      "ga": 1,
       "so": 0,
-      "gaa": 0.0,
+      "gaa": 1.44,
       "w": 0,
       "l": 0,
       "ot": 0,
-      "sv_percent": 1.0
+      "sv_percent": 0.947
     },
     {
       "name": "Isaiah Saville",
