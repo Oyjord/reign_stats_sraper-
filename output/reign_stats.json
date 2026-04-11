@@ -27,7 +27,7 @@
       "g": 14,
       "a": 38,
       "pts": 52,
-      "plus_minus": -23,
+      "plus_minus": -22,
       "pim": 26
     },
     {
@@ -43,7 +43,7 @@
     {
       "name": "Andre Lee",
       "position": "F",
-      "gp": 61,
+      "gp": 62,
       "g": 26,
       "a": 22,
       "pts": 48,
@@ -53,21 +53,21 @@
     {
       "name": "Kenny Connors",
       "position": "F",
-      "gp": 62,
+      "gp": 63,
       "g": 14,
       "a": 24,
       "pts": 38,
-      "plus_minus": 16,
+      "plus_minus": 17,
       "pim": 30
     },
     {
       "name": "Francesco Pinelli",
       "position": "F",
       "gp": 62,
-      "g": 13,
+      "g": 14,
       "a": 21,
-      "pts": 34,
-      "plus_minus": 15,
+      "pts": 35,
+      "plus_minus": 16,
       "pim": 48
     },
     {
@@ -83,7 +83,7 @@
     {
       "name": "Aatu Jämsen",
       "position": "F",
-      "gp": 55,
+      "gp": 56,
       "g": 16,
       "a": 12,
       "pts": 28,
@@ -127,7 +127,7 @@
       "g": 4,
       "a": 17,
       "pts": 21,
-      "plus_minus": 2,
+      "plus_minus": 3,
       "pim": 61
     },
     {
@@ -163,7 +163,7 @@
     {
       "name": "Angus Booth",
       "position": "D",
-      "gp": 58,
+      "gp": 59,
       "g": 1,
       "a": 16,
       "pts": 17,
@@ -193,7 +193,7 @@
     {
       "name": "Kirill Kirsanov",
       "position": "D",
-      "gp": 65,
+      "gp": 66,
       "g": 4,
       "a": 9,
       "pts": 13,
@@ -207,7 +207,7 @@
       "g": 2,
       "a": 7,
       "pts": 9,
-      "plus_minus": 16,
+      "plus_minus": 17,
       "pim": 13
     },
     {
@@ -321,6 +321,16 @@
       "pim": 0
     },
     {
+      "name": "Hampton Slukynsky",
+      "position": "G",
+      "gp": 1,
+      "g": 0,
+      "a": 0,
+      "pts": 0,
+      "plus_minus": 0,
+      "pim": 0
+    },
+    {
       "name": "Henry Brzustewicz",
       "position": "D",
       "gp": 2,
@@ -345,14 +355,14 @@
     {
       "name": "Hampton Slukynsky",
       "gp": 1,
-      "min": "41:41",
+      "min": "59:50",
       "ga": 1,
       "so": 0,
-      "gaa": 1.44,
-      "w": 0,
+      "gaa": 1.0,
+      "w": 1,
       "l": 0,
       "ot": 0,
-      "sv_percent": 0.947
+      "sv_percent": 0.955
     },
     {
       "name": "Isaiah Saville",
