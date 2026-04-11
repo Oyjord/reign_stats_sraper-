@@ -3,42 +3,42 @@
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 67,
+      "gp": 68,
       "g": 26,
       "a": 26,
       "pts": 52,
-      "plus_minus": -1,
+      "plus_minus": 0,
       "pim": 14
     },
     {
       "name": "Cole Guttman",
       "position": "F",
-      "gp": 64,
+      "gp": 65,
       "g": 24,
-      "a": 27,
-      "pts": 51,
-      "plus_minus": 1,
+      "a": 28,
+      "pts": 52,
+      "plus_minus": 2,
       "pim": 52
     },
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 63,
+      "gp": 64,
       "g": 14,
-      "a": 36,
-      "pts": 50,
-      "plus_minus": -24,
+      "a": 37,
+      "pts": 51,
+      "plus_minus": -23,
       "pim": 26
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 68,
+      "gp": 69,
       "g": 15,
       "a": 34,
       "pts": 49,
-      "plus_minus": 2,
-      "pim": 71
+      "plus_minus": 3,
+      "pim": 73
     },
     {
       "name": "Andre Lee",
@@ -171,6 +171,16 @@
       "pim": 34
     },
     {
+      "name": "Logan Brown",
+      "position": "F",
+      "gp": 28,
+      "g": 1,
+      "a": 13,
+      "pts": 14,
+      "plus_minus": 5,
+      "pim": 6
+    },
+    {
       "name": "Akil Thomas",
       "position": "F",
       "gp": 19,
@@ -189,16 +199,6 @@
       "pts": 13,
       "plus_minus": 8,
       "pim": 10
-    },
-    {
-      "name": "Logan Brown",
-      "position": "F",
-      "gp": 27,
-      "g": 0,
-      "a": 13,
-      "pts": 13,
-      "plus_minus": 4,
-      "pim": 6
     },
     {
       "name": "Jack Millar",
@@ -342,6 +342,18 @@
     }
   ],
   "goalies": [
+    {
+      "name": "Hampton Slukynsky",
+      "gp": 1,
+      "min": "17:11",
+      "ga": 0,
+      "so": 0,
+      "gaa": 0.0,
+      "w": 0,
+      "l": 0,
+      "ot": 0,
+      "sv_percent": 1.0
+    },
     {
       "name": "Isaiah Saville",
       "gp": 8,

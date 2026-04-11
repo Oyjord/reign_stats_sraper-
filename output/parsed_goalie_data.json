@@ -308,6 +308,48 @@
           {
             "prop": {
               "rookie": {
+                "rookie": "1"
+              },
+              "name": {
+                "playerLink": "11050",
+                "seoName": "Hampton Slukynsky"
+              },
+              "active": {
+                "active": "1"
+              },
+              "team_code": {
+                "teamLink": "403"
+              }
+            },
+            "row": {
+              "player_id": "11050",
+              "rookie": "1",
+              "name": "Hampton Slukynsky",
+              "active": "1",
+              "team_code": "ONT",
+              "games_played": "1",
+              "minutes_played": "17:11",
+              "saves": "8",
+              "shots": "8",
+              "save_percentage": "1.000",
+              "goals_against": "0",
+              "shutouts": "0",
+              "wins": "0",
+              "losses": "0",
+              "ot_losses": "0",
+              "shootout_goals_against": "0",
+              "shootout_attempts": "0",
+              "goals": "0",
+              "assists": "0",
+              "penalty_minutes": "0",
+              "shootout_percentage": "0.000",
+              "goals_against_average": "0.00",
+              "rank": 1
+            }
+          },
+          {
+            "prop": {
+              "rookie": {
                 "rookie": "0"
               },
               "name": {
@@ -344,7 +386,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.667",
               "goals_against_average": "1.91",
-              "rank": 1
+              "rank": 2
             }
           },
           {
@@ -386,7 +428,7 @@
               "penalty_minutes": "6",
               "shootout_percentage": "0.667",
               "goals_against_average": "2.48",
-              "rank": 2
+              "rank": 3
             }
           },
           {
@@ -428,7 +470,7 @@
               "penalty_minutes": "12",
               "shootout_percentage": "0.875",
               "goals_against_average": "2.59",
-              "rank": 3
+              "rank": 4
             }
           },
           {
@@ -470,7 +512,7 @@
               "penalty_minutes": "0",
               "shootout_percentage": "0.000",
               "goals_against_average": "4.05",
-              "rank": 4
+              "rank": 5
             }
           },
           {
@@ -488,10 +530,10 @@
             "prop": [],
             "row": {
               "games_played": "68",
-              "minutes_played": 4157,
-              "saves": "1599",
-              "shots": "1778",
-              "save_percentage": "0.899",
+              "minutes_played": 4174,
+              "saves": "1607",
+              "shots": "1786",
+              "save_percentage": "0.900",
               "goals_against": "179",
               "shutouts": 4,
               "wins": "44",
@@ -500,7 +542,7 @@
               "shootout_goals_against": "5",
               "shootout_attempts": "20",
               "shootout_percentage": "0.750",
-              "goals_against_average": "2.60",
+              "goals_against_average": "2.59",
               "name": "Totals "
             }
           }
