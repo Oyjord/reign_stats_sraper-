@@ -3,41 +3,41 @@
     {
       "name": "Martin Chromiak",
       "position": "F",
-      "gp": 68,
-      "g": 26,
+      "gp": 69,
+      "g": 27,
       "a": 26,
-      "pts": 52,
-      "plus_minus": -1,
+      "pts": 53,
+      "plus_minus": 0,
       "pim": 14
-    },
-    {
-      "name": "Cole Guttman",
-      "position": "F",
-      "gp": 65,
-      "g": 24,
-      "a": 28,
-      "pts": 52,
-      "plus_minus": 1,
-      "pim": 52
     },
     {
       "name": "Nikita Alexandrov",
       "position": "F",
-      "gp": 64,
+      "gp": 65,
       "g": 14,
-      "a": 38,
+      "a": 39,
+      "pts": 53,
+      "plus_minus": -21,
+      "pim": 28
+    },
+    {
+      "name": "Cole Guttman",
+      "position": "F",
+      "gp": 66,
+      "g": 24,
+      "a": 28,
       "pts": 52,
-      "plus_minus": -22,
-      "pim": 26
+      "plus_minus": 2,
+      "pim": 52
     },
     {
       "name": "Glenn Gawdin",
       "position": "F",
-      "gp": 69,
+      "gp": 70,
       "g": 15,
-      "a": 34,
-      "pts": 49,
-      "plus_minus": 2,
+      "a": 35,
+      "pts": 50,
+      "plus_minus": 3,
       "pim": 73
     },
     {
@@ -93,11 +93,11 @@
     {
       "name": "Koehn Ziemmer",
       "position": "F",
-      "gp": 54,
-      "g": 10,
+      "gp": 55,
+      "g": 11,
       "a": 13,
-      "pts": 23,
-      "plus_minus": 9,
+      "pts": 24,
+      "plus_minus": 10,
       "pim": 27
     },
     {
@@ -133,12 +133,22 @@
     {
       "name": "Nikita Novikov",
       "position": "D",
-      "gp": 62,
+      "gp": 63,
       "g": 6,
       "a": 14,
       "pts": 20,
-      "plus_minus": 10,
+      "plus_minus": 11,
       "pim": 52
+    },
+    {
+      "name": "Jack Hughes",
+      "position": "F",
+      "gp": 58,
+      "g": 5,
+      "a": 13,
+      "pts": 18,
+      "plus_minus": 0,
+      "pim": 26
     },
     {
       "name": "Jan Jeník",
@@ -149,16 +159,6 @@
       "pts": 17,
       "plus_minus": 0,
       "pim": 29
-    },
-    {
-      "name": "Jack Hughes",
-      "position": "F",
-      "gp": 57,
-      "g": 5,
-      "a": 12,
-      "pts": 17,
-      "plus_minus": -1,
-      "pim": 26
     },
     {
       "name": "Angus Booth",
@@ -173,11 +173,11 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 28,
+      "gp": 29,
       "g": 1,
       "a": 13,
       "pts": 14,
-      "plus_minus": 4,
+      "plus_minus": 5,
       "pim": 6
     },
     {
@@ -203,11 +203,11 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 38,
+      "gp": 39,
       "g": 2,
       "a": 7,
       "pts": 9,
-      "plus_minus": 17,
+      "plus_minus": 18,
       "pim": 13
     },
     {
@@ -263,11 +263,11 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 45,
+      "gp": 46,
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": -10,
+      "plus_minus": -9,
       "pim": 88
     },
     {
@@ -378,15 +378,15 @@
     },
     {
       "name": "Erik Portillo",
-      "gp": 28,
-      "min": "1619:38",
+      "gp": 29,
+      "min": "1639:38",
       "ga": 67,
       "so": 1,
-      "gaa": 2.48,
+      "gaa": 2.45,
       "w": 17,
       "l": 6,
       "ot": 3,
-      "sv_percent": 0.906
+      "sv_percent": 0.907
     },
     {
       "name": "Pheonix Copley",
