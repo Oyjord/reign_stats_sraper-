@@ -82,7 +82,7 @@
   {
     "name": "Aatu Jämsen",
     "position": "F",
-    "gp": 57,
+    "gp": 58,
     "g": 16,
     "a": 12,
     "pts": 28,
@@ -157,7 +157,7 @@
     "a": 17,
     "pts": 18,
     "plus_minus": 12,
-    "pim": 36
+    "pim": 40
   },
   {
     "name": "Jan Jeník",
@@ -232,7 +232,7 @@
   {
     "name": "Kenta Isogai",
     "position": "F",
-    "gp": 26,
+    "gp": 27,
     "g": 3,
     "a": 3,
     "pts": 6,
@@ -242,7 +242,7 @@
   {
     "name": "Otto Salin",
     "position": "D",
-    "gp": 41,
+    "gp": 42,
     "g": 3,
     "a": 2,
     "pts": 5,
@@ -262,7 +262,7 @@
   {
     "name": "Jacob Doty",
     "position": "F",
-    "gp": 46,
+    "gp": 47,
     "g": 2,
     "a": 2,
     "pts": 4,
@@ -310,6 +310,16 @@
     "pim": 12
   },
   {
+    "name": "Brendan Gorman",
+    "position": "F",
+    "gp": 1,
+    "g": 0,
+    "a": 0,
+    "pts": 0,
+    "plus_minus": 0,
+    "pim": 0
+  },
+  {
     "name": "Mattias Sholl",
     "position": "G",
     "gp": 1,
@@ -322,7 +332,7 @@
   {
     "name": "Hampton Slukynsky",
     "position": "G",
-    "gp": 1,
+    "gp": 2,
     "g": 0,
     "a": 0,
     "pts": 0,
