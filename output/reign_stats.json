@@ -63,12 +63,12 @@
     {
       "name": "Francesco Pinelli",
       "position": "F",
-      "gp": 64,
+      "gp": 65,
       "g": 14,
       "a": 21,
       "pts": 35,
       "plus_minus": 16,
-      "pim": 48
+      "pim": 50
     },
     {
       "name": "Jared Wright",
@@ -123,11 +123,11 @@
     {
       "name": "Joe Hicketts",
       "position": "D",
-      "gp": 66,
+      "gp": 67,
       "g": 4,
       "a": 17,
       "pts": 21,
-      "plus_minus": 2,
+      "plus_minus": 1,
       "pim": 61
     },
     {
@@ -143,7 +143,7 @@
     {
       "name": "Jack Hughes",
       "position": "F",
-      "gp": 59,
+      "gp": 60,
       "g": 5,
       "a": 13,
       "pts": 18,
@@ -173,12 +173,12 @@
     {
       "name": "Logan Brown",
       "position": "F",
-      "gp": 30,
+      "gp": 31,
       "g": 1,
       "a": 15,
       "pts": 16,
       "plus_minus": 4,
-      "pim": 6
+      "pim": 8
     },
     {
       "name": "Akil Thomas",
@@ -203,7 +203,7 @@
     {
       "name": "Jack Millar",
       "position": "D",
-      "gp": 39,
+      "gp": 40,
       "g": 2,
       "a": 7,
       "pts": 9,
@@ -213,11 +213,11 @@
     {
       "name": "Jakub Dvořák",
       "position": "D",
-      "gp": 44,
+      "gp": 45,
       "g": 4,
       "a": 3,
       "pts": 7,
-      "plus_minus": 7,
+      "plus_minus": 6,
       "pim": 41
     },
     {
@@ -233,11 +233,11 @@
     {
       "name": "Kenta Isogai",
       "position": "F",
-      "gp": 27,
+      "gp": 28,
       "g": 3,
       "a": 3,
       "pts": 6,
-      "plus_minus": -2,
+      "plus_minus": -3,
       "pim": 2
     },
     {
@@ -263,11 +263,11 @@
     {
       "name": "Jacob Doty",
       "position": "F",
-      "gp": 47,
+      "gp": 48,
       "g": 2,
       "a": 2,
       "pts": 4,
-      "plus_minus": -9,
+      "plus_minus": -10,
       "pim": 88
     },
     {
@@ -311,8 +311,8 @@
       "pim": 12
     },
     {
-      "name": "Brendan Gorman",
-      "position": "F",
+      "name": "Mattias Sholl",
+      "position": "G",
       "gp": 1,
       "g": 0,
       "a": 0,
@@ -321,13 +321,13 @@
       "pim": 0
     },
     {
-      "name": "Mattias Sholl",
-      "position": "G",
-      "gp": 1,
+      "name": "Brendan Gorman",
+      "position": "F",
+      "gp": 2,
       "g": 0,
       "a": 0,
       "pts": 0,
-      "plus_minus": 0,
+      "plus_minus": -1,
       "pim": 0
     },
     {
@@ -343,12 +343,12 @@
     {
       "name": "Henry Brzustewicz",
       "position": "D",
-      "gp": 4,
+      "gp": 5,
       "g": 0,
       "a": 0,
       "pts": 0,
       "plus_minus": 1,
-      "pim": 6
+      "pim": 8
     },
     {
       "name": "Isaiah Saville",
@@ -388,7 +388,7 @@
     },
     {
       "name": "Erik Portillo",
-      "gp": 29,
+      "gp": 30,
       "min": "1679:55",
       "ga": 69,
       "so": 1,
