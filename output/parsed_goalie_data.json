@@ -357,7 +357,7 @@
                 "seoName": "Isaiah Saville"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -367,7 +367,7 @@
               "player_id": "9052",
               "rookie": "0",
               "name": "Isaiah Saville",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "8",
               "minutes_played": "440:40",
@@ -441,7 +441,7 @@
                 "seoName": "Pheonix Copley"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -451,7 +451,7 @@
               "player_id": "5658",
               "rookie": "0",
               "name": "Pheonix Copley",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "33",
               "minutes_played": "1971:14",
@@ -483,7 +483,7 @@
                 "seoName": "Mattias Sholl"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -493,7 +493,7 @@
               "player_id": "10714",
               "rookie": "1",
               "name": "Mattias Sholl",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "1",
               "minutes_played": "59:19",
