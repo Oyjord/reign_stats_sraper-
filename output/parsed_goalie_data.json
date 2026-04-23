@@ -441,7 +441,7 @@
                 "seoName": "Pheonix Copley"
               },
               "active": {
-                "active": "1"
+                "active": "0"
               },
               "team_code": {
                 "teamLink": "403"
@@ -451,7 +451,7 @@
               "player_id": "5658",
               "rookie": "0",
               "name": "Pheonix Copley",
-              "active": "1",
+              "active": "0",
               "team_code": "ONT",
               "games_played": "33",
               "minutes_played": "1971:14",
