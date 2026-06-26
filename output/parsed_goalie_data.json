@@ -315,7 +315,7 @@
                 "seoName": "Hampton Slukynsky"
               },
               "active": {
-                "active": "0"
+                "active": "1"
               },
               "team_code": {
                 "teamLink": "403"
@@ -325,7 +325,7 @@
               "player_id": "11050",
               "rookie": "1",
               "name": "Hampton Slukynsky",
-              "active": "0",
+              "active": "1",
               "team_code": "ONT",
               "games_played": "2",
               "minutes_played": "119:47",
